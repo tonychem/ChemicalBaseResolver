@@ -31,16 +31,18 @@ public class ChemicalDataBaseResolver {
 
     public static void main(String[] args) throws IOException, InterruptedException {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Введите название csv файла (без расширения): ");
-        String fileInputName = scanner.nextLine();
+        while(true) {
+            System.out.print("Введите название csv файла (без расширения): ");
+            String fileInputName = scanner.nextLine();
 
-        while (!csvFileExists(fileInputName)) {
-            System.out.println("Файла с именем " + fileInputName + ".csv" + " не существует. Попробуйте еще раз");
-            fileInputName = scanner.nextLine();
+            while (!csvFileExists(fileInputName)) {
+                System.out.println("Файла с именем " + fileInputName + ".csv" + " не существует. Попробуйте еще раз");
+                fileInputName = scanner.nextLine();
+            }
+
+            var chemicalDataBaseResolver = new ChemicalDataBaseResolver();
+            chemicalDataBaseResolver.run(fileInputName);
         }
-
-        var chemicalDataBaseResolver = new ChemicalDataBaseResolver();
-        chemicalDataBaseResolver.run(fileInputName);
     }
 
     public static boolean csvFileExists(String fileInputName) {
