@@ -1,0 +1,1401 @@
+ NAME;formula;ALTERNATIVE_NAME;ANOTHER_NAME;"OSTATOK
+";"KOMNATA
+";SHKAFF;POLKA;KOMENT;CAS;Smiles
+N-Bromosuccinimide;C4H4BrNO2;1-Bromo-2,5-pyrrolidinedione;NBS;500 g;34.430;freezer  1;1;;;BrN1C(=O)CCC1=O
+2,5-Dibromo-3,4-dinitrothiophene;C4Br2N2O4S;;;10 g;34.430;freezer 1;1;;;[O-][N+](=O)C1=C(Br)SC(Br)=C1[N+]([O-])=O
+Triethyloxonium tetrafluoroborate;(C2H5)3OBF4;;Meerwein's salt;2 x 100 g;34.430;freezer 1;3;;;F[B-](F)(F)F.CC[O+](CC)CC
+2,6-dichloropyridine-4-carbaldehyde;C6H3Cl2NO;2,6-Dichloropyridine-4-carbaldehyde;;;34.430;freezer 1;3;;;ClC1=CC(C=O)=CC(Cl)=N1
+9-Fluorenylmethoxycarbonyl chloride;C15H11ClO2;9-Fluorenylmethyl chloroformate;Fmoc chloride;50 g;34.430;freezer 1;3;;;ClC(=O)OCC1C2=CC=CC=C2C2=CC=CC=C12
+2,3,5,6-tetrafluoropyridine-4-carbaldehyde;C6HF4NO;2,3,5,6-Tetrafluoropyridine-4-carbaldehyde;2,3,5,6-tetrafluoroisonicotinaldehyde;;34.430;freezer 1;3;3;;FC1=NC(F)=C(F)C(C=O)=C1F
+1,2,3,5,6,7-hexahydropyrido[3,2,1-ij]quinolin-8-ol;C12H15NO;;"Cas 	41175-50-2";10 g;34.430;freezer 1;3;;;OC1=CC=C2CCCN3CCCC1=C23
+4-Azidobenzoic acid;C7H5N3O2;p-Azidobenzoic acid;;2 g;34.430;freezer 1;3;;;OC(=O)C1=CC=C(C=C1)N=[N+]=[N-]
+4-azidobutanoic Acid;;4-azidobutyric acid;;3 x 10 g;34.430;freezer 1;3;;;OC(=O)CCCN=[N+]=[N-]
+ethyl 4-azidobutanoate;;;M3209;10 ml;34.430;freezer 1;3;;;O=C(OCC)CCCN=[N+]=[N-]
+ 1,1,1-Tris(acetyloxy)-1,1-dihydro-1,2-benziodoxol-3-(1H)-one;;Dess-Martin periodinane;DMP;100 g;34.430;freezer 1;3;;;CC(=O)O[I]1(OC(C)=O)(OC(C)=O)OC(=O)C2=C1C=CC=C2
+1-Cyclohexylpiperazine;;;;20 g;34.430;freezer 1;3;;;C1CCC(CC1)N1CCNCC1
+4-Methylbenzene-1-sulfonyl azide;;Tosyl azide;TsN3;60 g;34.430;freezer 1;3;;;CC1=CC=C(C=C1)S(=O)(=O)N=[N+]=[N-]
+Dimethyl 2-oxopropylphosphonate;;Dimethyl acetonylphosphonate;;25 g;34.430;freezer 1;3;;;COP(=O)(CC(C)=O)OC
+Dimethyl (1-diazo-2-oxopropyl)phosphonate;;Dimethyl 1-Diazoacetonylphosphonate;Ohira-Bestmann Reagent;15 ml;34.430;freezer 1;3;;;COP(=O)(OC)C(=[N+]=[N-])C(C)=O
+ethyl 2-((methoxy(phenyl)methylene)amino)acetate;;ZS-287;;1 g;34.430;freezer 1;3;probably dead;;CCOC(=O)CN=C(OC)C1=CC=CC=C1
+N-Boc-1,3-propanediamine;BocNHCH2CH2CH2NH2;N-Boc-1,3-diaminopropane;tert-Butyl N-(3-aminopropyl)carbamate;0.5 g;34.430;freezer 1;3;;;CC(C)(C)OC(=O)NCCCN
+Amyl nitrite;;Isoamyl nitrite;3-methyl-1-nitrosooxybutane;2 x 100 ml;34.430;freezer 1;3;;;CCCCCON=O
+ethyl 2-azidoacetate;;Ethyl azidoacetate;M3208;50 ml;34.430;freezer 1;3;;;CCOC(=O)CN=[N+]=[N-]
+Ethyl nitroacetate;;Ethyl nitroacetate;;100 ml;34.430;freezer 1;3;;;CCOC(=O)C[N+]([O-])=O
+furan-2,5-dicarbaldehyde;;2,5-Furandicarboxaldehyde;;;34.430;freezer 1;3;;;O=Cc1ccc(C=O)o1
+methyl 4-chlorobenzimidate hydrochloride;;ZS176;imidate;12 g;34.430;fridge 1;2;;;ClC1=CC=C(C(OC)=N)C=C1.Cl
+methyl benzimidate hydrochloride;;ZS159;imidate;~30 g;34.430;fridge 1;2;;;N=C(OC)C1=CC=CC=C1.Cl
+methyl 4-(imino(methoxy)methyl)benzoate hydrochloride;;ZS185;imidate;640 mg;34.430;fridge 1;2;;;N=C(OC)C1=CC=C(C(OC)=O)C=C1.Cl
+methyl 4-methoxybenzimidate hydrochloride;;ZS171;imidate;~1 g;34.430;fridge 1;2;;;N=C(OC)C1=CC=C(OC)C=C1.Cl
+(2R,3R,4S,5S)-tetrahydro-2H-pyran-2,3,4,5-tetraol;;alpha-L-arabinopyranose;Arabinose;~1 g;34.430;fridge 1;2;;;O[C@H]1[C@@H]([C@H]([C@H](CO1)O)O)O
+(2R,3R,4R)-2,3,4,5-tetrahydroxypentanal;;D-(?)-Ribose;Ribose;25 g;34.430;fridge 1;2;;;OC[C@H]([C@H]([C@H](C([H])=O)O)O)O
+L-Fucose;;6-Deoxy-L-galactose;L-Fucose;5 g;34.430;fridge 1;2;;;C[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)C=O
+(2S,3R,4R,5R)-5-(acetoxymethyl)tetrahydrofuran-2,3,4-triyl triacetate;;?-D-Ribofuranose 1,2,3,5-tetraacetate;1,2,3,5-Tetra-O-acetyl-?-D-ribofuranose;;34.430;fridge 1;2;;;CC(=O)OC[C@H]1O[C@@H](OC(C)=O)[C@H](OC(C)=O)[C@@H]1OC(C)=O
+(2S,3R,4R,5R)-tetrahydro-2H-pyran-2,3,4,5-tetrayl tetraacetate;;?-D-Ribopyranose 1,2,3,4-tetraacetate;1,2,3,4-Tetra-O-acetyl-?-D-ribopyranose;;34.430;fridge 1;2;;;CC(O[C@@H]1CO[C@H]([C@@H]([C@@H]1OC(C)=O)OC(C)=O)OC(C)=O)=O
+(2R,3R,4S,5S)-6-oxohexane-1,2,3,4,5-pentayl pentaacetate;;Mannose pentaacetate;1,2,3,4,6-Penta-O-acetyl-mannopyranose;;34.430;fridge 1;2;;;CC(=O)OCC1OC(OC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O
+(2R,3S,4R,5S,6S)-6-methyltetrahydro-2H-pyran-2,3,4,5-tetraol;;?-L-Fucose;6-Deoxy-L-galactose;;34.430;fridge 1;2;;;O[C@H]1[C@H]([C@@H]([C@@H]([C@H](C)O1)O)O)O
+(3R,4S,5R,6R)-6-(acetoxymethyl)-5-(1-hydroxyethoxy)tetrahydro-2H-pyran-2,3,4-triyl triacetate;;Glucose pentaacetate;Penta-O-acetyl-glucopyranose;2 x 5 g;34.430;fridge 1;2;;;CC(O)O[C@@H]1[C@@H](COC(C)=O)O[C@@H](OC(C)=O)[C@H](OC(C)=O)[C@H]1OC(C)=O
+4-(phenyldiazenyl)aniline;;4-Aminoazobenzene;4-Phenylazoaniline;25 g;34.430;fridge 1;2;;;Nc1ccc(cc1)\N=N/c2ccccc2
+4-(phenyldiazenyl)benzoic acid;;4-(Phenylazo)benzoic acid;;1 g;34.430;fridge 1;2;;;OC(=O)c1ccc(cc1)\N=N\c2ccccc2
+ethyl 2-(pyrazin-2-ylamino)acetate;;;MID-346;;34.430;fridge 1;2;;;O=C(OCC)CNC1=NC=CN=C1
+2-((3-bromopyridin-2-yl)amino)acetic acid hydrochloride;;;MID-279;;34.430;fridge 1;2;;;BrC1=CC=CN=C1NCC(O)=O.Cl
+2-(pyrazin-2-ylamino)acetic acid hydrochloride;;;MID-354;;34.430;fridge 1;2;~90% purity;;O=C(O)CNC1=NC=CN=C1.Cl
+2-((5-bromopyridin-2-yl)amino)acetic acid hydrochloride;;;MID-280;;34.430;fridge 1;2;;;BrC1=CN=C(NCC(O)=O)C=C1.Cl
+(Z)-4-(4-methoxybenzylidene)-2-methyloxazol-5(4H)-one;;;M2989;;34.430;fridge 1;2;;;COC1=CC=C(/C=C2C(OC(C)=N/2)=O)C=C1
+2-((4-methylpyridin-2-yl)amino)acetic acid hydrochloride;;;MID-296 + MID-355;2 x ;34.430;fridge 1;2;;;CC1=CC(NCC(O)=O)=NC=C1.Cl
+N-methyl-2-((triphenylphosphoranylidene)amino)acetamide;;;MID-239;~50 g;34.430;fridge 1;2;;;O=C(NC)CN=P(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+3-amino-N-(2-aminoethyl)benzamide;;;M2815;~10 ml;34.430;fridge 1;2;;;NC1=CC(C(NCCN)=O)=CC=C1
+O-(tert-Butyldimethylsilyl)hydroxylamine;;M2780;Aminoxy-tert-butyldimethylsilane;10 g;34.430;fridge 1;4;;;CC(C)(C)[Si](C)(C)ON
+5-bromo-2-thiophene-carbaldehyde;;5-Bromothenaldehyde;;;34.430;fridge 1;4;;;BrC1=CC=C(S1)C=O
+Bromoethane;;Ethyl bromide;;250 ml;34.430;fridge 1;4;;;CCBr
+N-(Methoxymethyl)-N-(trimethylsilylmethyl)benzylamine;;;N-benzyl-1-methoxy-N-((trimethylsilyl)methyl)methanamine;45 ml;34.430;fridge 1;4;;;COCN(CC1=CC=CC=C1)C[Si](C)(C)C
+Methyl 2-(3-oxetanylidene)acetate;;SAI-140;Methyl 2-(oxetan-3-ylidene)acetate;1 g;34.430;fridge 1;4;;;COC(=O)C=C1COC1
+Methyl 2-pyridylacetate;;SAI-338;;2 ml;34.430;fridge 1;4;;1658-42-0;COC(=O)CC1=NC=CC=C1
+N-Benzylhydroxylamine;;SAI-51;;? 30 g;34.430;fridge 1;4;;;ONCC1=CC=CC=C1
+(Diacetoxyiodo)benzene;;Iodobenzene I,I-diacetate;BAIB;2 g + 500 g + 100 g;34.430;fridge 1;4;;;CC(=O)O[I](OC(C)=O)C1=CC=CC=C1
+Pyrrole-2-carboxaldehyde;;2-Formylpyrrole;;10 g;34.430;fridge 1;4;;;O=CC1=CC=CN1
+Pyrrole-2-carboxaldehyde;;2-Formylpyrrole;;100 g;34.430;fridge 1;4;ACROS;;O=CC1=CC=CN1
+Furfural;;Furan-2-carboxaldehyde;2-Furaldehyde;500 g +250 g;34.430;fridge 1;4;;;O=CC1=CC=CO1
+5-bromo-2-Thiophenecarboxaldehyde;;;;;34.430;fridge 1;4;;;BrC1=CC=C(S1)C=O
+2-Thiophenecarboxaldehyde;;;Thenaldehyde;100 g;34.430;fridge 1;4;;;O=CC1=CC=CS1
+5-Methyl-2-thiophenecarboxaldehyde;;;;50 g;34.430;fridge 1;4;;;CC1=CC=C(S1)C=O
+Sodium bis(trimethylsilyl)amide 2 M in THF;;Hexamethyldisilazane sodium salt;NaHMDS;2 x 100 ml;34.430;fridge 1;4;;;C[Si](C)(C)N([Na])[Si](C)(C)C
+Trifluoromethanesulfonic anhydride;;Triflic anhydride;Tf2O;2 x 5 ml;34.430;fridge 1;4;Ampule;;FC(F)(F)S(=O)(=O)OS(=O)(=O)C(F)(F)F
+Boron trifluoride diethyl etherate;BF3 · O(C2H5)2;Boron trifluoride ethyl etherate;BF3 · O(C2H5)2;1 L;34.430;fridge 1;4;;;FB(F)F.CCOCC
+Iodomethane;CH3I;Methyl iodide;CH3I;1 L;34.430;fridge 1;4;;;CI
+2-Nitroethanol;;;;25 g;34.430;fridge 1;4;;;OCC[N+]([O-])=O
+Dithiothreitol;;1,4-Dimercapto-2,3-butanediol;DTT;3 x 5 g;34.430;fridge 1;4;;;O[C@H](CS)[C@H](O)CS
+ethyl 2-cyclopentylideneacetate;;;;10 g;34.430;fridge 1;4;;;CCOC(=O)C=C1CCCC1
+Phenylboronic acid;;Phenylboric acid;PhB(OH)2;50 g;34.430;fridge 1;4;;;OB(O)C1=CC=CC=C1
+Trifluoromethanesulfonic acid;;Triflic acid;TfOH;2 x 50 g;34.430;fridge 1;4;Ampule;;OS(=O)(=O)C(F)(F)F
+Potassium thioacetate;;Thioacetic acid potassium salt;AcSK;250 g + 200 g;34.430;fridge 1;4;;;[K+].CC([O-])=S
+ethyl propiolate;;Ethyl acetylenecarboxylate;;4 x 25 g;34.430;fridge 1;4;;;CCOC(=O)C#C
+thiophene-2-carbaldehyde;;;;;34.430;fridge 1;4;;;O=CC1=CC=CS1
+Methyl oleate;;;;;34.430;fridge 1;4;;;CCCCCCCC\C=C/CCCCCCCC(=O)OC
+Dimexide;;;DMSO;2 x 100 ml;34.430;fridge 1;door 1;apteka;;CS(C)=O
+Dimethyl sulfoxide-d6;DMSO-d6;DMSO-d6;;4 x 500 g;34.430;fridge 1;door 1;;;[2H]C([2H])([2H])S(=O)C([2H])([2H])[2H]
+N,N-Dimethylformamide diethyl acetal;;1,1-Diethoxytrimethylamine;DMF-DEA;5 g;34.430;fridge 1;door 2;;;CCOC(OCC)N(C)C
+N,N-Dimethyl-1,3-dioxolan-2-amine;;N,N-Dimethylformamide ethylene acetal;DMF-ethylene glycol acetal;1 g;34.430;fridge 1;door 2;;;CN(C)C1OCCO1
+11H-Indolo[3,2-c]quinoline;;;;0.5 g;34.430;fridge 1;door 2;;;N1C2=C(C=CC=C2)C2=CN=C3C=CC=CC3=C12
+(6-Bromohexyloxy)-tert-butyldimethylsilane;;(6-Bromohexyloxy)-tert-butyldimethylsilane;;2 g;34.430;fridge 1;door 2;;;CC(C)(C)[Si](C)(C)OCCCCCCBr
+4-methoxybenzaldehyde oxime;;p-Anisaldehyde oxime;;1 g;34.430;fridge 1;door 2;;;COC1=CC=C(C=NO)C=C1
+Ethyl 6-bromohexanoate;;Ethyl 6-bromocapronate;;0.5 g + 2x100 g;34.430;fridge 1;door 3;;;CCOC(=O)CCCCCBr
+Oxalyl chloride;;Ethanedioyl dichloride;;100 g;34.430;fridge 1;door 3;;;ClC(=O)C(Cl)=O
+1,1?-Carbonyldiimidazole;;;CDI;500 g;34.430;fridge 1;door 4;;;O=C(N1C=CN=C1)N1C=CN=C1
+Di-tert-butyl dicarbonate;;Boc anhydride;Boc2O;5 x 1 kg;34.428;fridge 1;2;;;CC(C)(C)OC(=O)OC(=O)OC(C)(C)C
+Butylamine;;1-Aminobutane;n-Butylamine;1.5 l;34.430;hood 1;2;;;CCCCN
+Methylamine in Isopropyl alcohol 35%;CH3NH2*i-PrOH;;;250 ml;34.430;hood 1;2;;;CN
+Hexadecane;C16H34;;;20 ml;34.430;hood 1;2;;;CCCCCCCCCCCCCCCC
+Pentadecane;C15H32;;;20 ml;34.430;hood 1;2;;;CCCCCCCCCCCCCCC
+Dodecane;C12H26;;;20 ml;34.430;hood 1;2;;;CCCCCCCCCCCC
+Octane;C8H18;;;20 ml;34.430;hood 1;2;;;CCCCCCCC
+Decane;C10H22;;;20 ml;34.430;hood 1;2;;;CCCCCCCCCC
+Triethylamine;;;Et3N;500 ml;34.430;hood 1;2;;;CCN(CC)CC
+Ethylenediamine diacetate;;;NH2CH2CH2NH2 x AcOH;20 g;34.430;hood 1;2;;;CC(O)=O.CC(O)=O.NCCN
+Imidazole;;;;100 g;34.430;hood 1;2;;;N1C=CN=C1
+N,N-Diisopropylethylamine;;Hunigs base;DIPEA;50 ml;34.430;hood 1;2;;;CCN(C(C)C)C(C)C
+Piperidine;;Hexahydropyridine;;50 ml;34.430;hood 1;2;;;C1CCNCC1
+Pyrrolidine;;;;5 ml;34.430;hood 1;2;;;C1CCNC1
+Pd/C 10%;;Palladium on carbon 10 % wt;Palladium on carbon 10 % wt;~100 g;34.430;hood 1;2;;;[Pd]
+Manganese(IV) oxide;MnO2;Manganese  dioxide;MnO2;10 g;34.430;hood 1;1;;;O=[Mn]=O
+15-Crown-5;;1,4,7,10,13-Pentaoxacyclopentadecane;;25 g;34.430;hood 1;1;;;C1COCCOCCOCCOCCO1
+Tetrabutylammonium fluoride trihydrate;;;TBAF;300 g;34.430;hood 1;1;;;O.O.O.[F-].CCCC[N+](CCCC)(CCCC)CCCC
+Calcium hydride;CaH2;CaH2;;2 x 100 g ;34.430;hood 1;1;;;[H-].[H-].[Ca++]
+Chloroplatinic acid  ;H2PtCl6;Hexachloroplatinic(IV) acid ;H2PtCl6;1 g;34.430;hood 1;1;;;[H+].[H+].Cl.Cl.Cl.Cl.Cl.Cl.[Pt--]
+Zinc chloride anhydrous;ZnCl2;Zinc chloride anhydrous;ZnCl2;40 g;34.430;hood 1;1;;;[Cl-].[Cl-].[Zn++]
+Hydrogen chloride solution in dioxane ~5.4 M;HCl in dioxane;HCl in dioxane;;1 L;34.430;hood 1;1;;;Cl[H].C1COCCO1
+Magnesium turnings;Mg;Mg;;1 kg;34.430;hood 1;1;;;[Mg]
+Palladium on activated charcoal 5 %;Pd/C;Pd/C;;10 g;34.430;hood 1;1;;;[Pd]
+Ninhydrin;;;;50 g;34.430;hood 2;1;;;OC1(O)C(=O)C2=CC=CC=C2C1=O
+2,4-Dinitrophenylhydrazine;;(2,4-Dinitrophenyl)hydrazine;DNP;50 g;34.430;hood 2;1;;;c1cc(c(cc1[N+](=O)[O-])[N+](=O)[O-])NN
+Formic acid;HCOOH;HCOOH;;1 L;34.430;hood 2 acids;1;;;OC=O
+Boron tribromide;BBr3 ;BBr3 ;;500 g + 2 x 1 g;34.430;2;1;Sigma + ampule;;BrB(Br)Br
+Boron tribromide solution in DCM 1 M;BBr3 ;BBr3 ;;100 ml;34.430;2;1;;;BrB(Br)Br
+Trifluoroacetic acid ;TFA;TFA;;;34.430;2;1;;;OC(=O)C(F)(F)F
+Triethylphosphine;;PEt3;PEt3;5 g;34.430;2;1;Ampule;;CCP(CC)CC
+Thiophosgene;CSCl2;CSCl2;;50 ml;34.430;2;1;;;ClC(Cl)=S
+Phosphorus tribromide;PBr3;Phosphorus(III) bromide;;0.5 L + 20 ml;34.430;2;1;;;BrP(Br)Br
+Potassium acetate anhydrous;CH3COOK;KOAc;AcOK;500 g;34.430;4;;;;[K+].CC([O-])=O
+Manganese(II) sulfate hydrate;MnSO4 * 5H2O;Manganous(II) sulfate hydrate;MnSO4 * 5H2O;1 kg;34.430;4;;;;O.[Mn++].[O-]S([O-])(=O)=O
+"Ethylenediaminetetraacetic acid disodium salt dihydrate
+";;EDTA disodium salt dihydrate;Trilon B;500 g;34.430;4;;;;[H+].[H+].O.O.[Na+].[Na+].[O-]C(=O)CN(CCN(CC([O-])=O)CC([O-])=O)CC([O-])=O
+Sodium acetate anhydrous;CH3COONa;NaOAc;CH3COONa;500 g;34.430;4;;;;[Na+].CC([O-])=O
+Sodium sulfite;Na2SO3;;Na2SO3;100 g;34.430;4;;;;[Na+].[Na+].[O-]S([O-])=O
+Sodium carbonate;Na2CO3;Calcined soda;Na2CO3;1 kg;34.430;4;;;;[Na+].[Na+].[O-]C([O-])=O
+Nitric acid, 70%;HNO3;;HNO3;1 L;34.430;1;1;;;O[N+]([O-])=O
+Nitric acid fuming;HNO3;;HNO3;1 L;34.430;1;1;;;O[N+]([O-])=O
+Hydrofluoric acid;HF;HF;HF;250 ml;34.430;1;1;;;F
+HBr in acetic acid 6M;HBr AcOH;HBr AcOH;HBr AcOH;0.5 L;34.430;1;1;;;Br
+Thionyl chloride;SOCl2;SOCl2;SOCl2;~10 mL + 2.5 L;34.430;1;1;;;ClS(Cl)=O
+Phosphorus oxychloride;POCl3;Phosphoryl chloride;;2 x 1 L;34.430;1;1;;;ClP(Cl)(Cl)=O
+Sulfuryl chloride;SO2Cl2;;SO2Cl2;1 L;34.430;1;1;;;ClS(Cl)(=O)=O
+Phosphorus trichloride;PCl3;;PCl3;2.5 L;34.430;1;1;;;ClP(Cl)Cl
+Acetic acid;CH3COOH;CH3COOH;AcOH;1 L;34.430;1;1;;;CC(O)=O
+Sulfuric acid;H2SO4;H2SO4;;1 L;34.430;1;1;;;OS(O)(=O)=O
+Acetyl chloride;CH3COCl;CH3COCl;AcCl;1.5 L;34.430;1;1;;;CC(Cl)=O
+Potassium iodide;KI;KI;KI;5-10 g;34.430;4;;;;[K+].[I-]
+4-Pyridinecarboxaldehyde;;Isonicotinaldehyde;;90 g + 3 g;34.522;freezer;2;;;O=CC1=CC=NC=C1
+Triethyloxonium tetrafluoroborate;;Et3O*BF4;;100 g + 1 g;34.522;freezer;2;good;;F[B-](F)(F)F.CC[O+](CC)CC
+ethyl 2-azidoacetate;;N3CH2COOEt;MID227+MID232;70 ml;34.522;freezer;2;;;CCOC(=O)CN=[N+]=[N-]
+ethyl benzylglycinate;;BnNHCH2COOEt;;20 ml;34.522;freezer;2;hand made;;O=C(OCC)CNCC1=CC=CC=C1
+4-(dimethoxymethyl)phenyl 4-methylbenzoate;;;SH026;5 g;34.522;freezer;2;;;O=C(OC1=CC=C(C(OC)OC)C=C1)C2=CC=C(C)C=C2
+methyl 4-bromobut-2-enoate;;;;3 g;34.522;freezer;2;ןונודם.;;O=C(OC)/C=C/CBr
+4-((dimethoxyphosphoryl)(methoxy)methyl)phenyl 4-methylbenzoate;;;SH030;1 g;34.522;freezer;2;;;O=C(OC1=CC=C(C(P(OC)(OC)=O)OC)C=C1)C2=CC=C(C)C=C2
+ethyl 2-((1-methoxyethylidene)amino)acetate;;לועטכמגûי טלטהאע;;40 g;34.522;freezer;2;;;O=C(OCC)C/N=C(OC)\C
+ethyl 2-((1-methoxypropylidene)amino)acetate;;‎עטכמגûי טלטהאע;;20 g;34.522;freezer;2;;;O=C(OCC)C/N=C(OC)/CC
+Ethyl nitroacetate;;Ethyl nitroacetate;;100 ml;34.522;freezer;2;;;CCOC(=O)C[N+]([O-])=O
+Boron trifluoride etherate;BF3*Et2O;BF3*Et2O;;50 ml;34.522;fridge;2;dist.;;FB(F)F.CCOCC
+NaOCl*H2O;;Chlorka GOST 11086-76;;1 l;34.522;fridge;2;;;
+Oxalyl dichloride;(COCl)2;(COCl)2;Oxalylchloride;50 ml;34.522;fridge;2;;;ClC(=O)C(Cl)=O
+Trimethylsilylacetylene;HCCSi(CH3)3;TMS-acetylene;;20 ml + 2 x 500 ml;34.522;fridge;2;;;C[Si](C)(C)C#C
+Trimethylphosphite;P(OMe)3;P(OMe)3;;20 ml;34.522;fridge;2;;;COP(OC)OC
+phenylmethanethiol;BnSH;Benzyl thiol;;50 ml;34.522;fridge;2;;;SCC1=CC=CC=C1
+Tosyl methyl glycine;TsNHCH2COOCH3;TsNHCH2COOCH3;;200 g;34.522;fridge;2;made in China;;CC1=CC=C(C=C1)S(=O)(=O)COC(=O)CN
+perfluoropyridine;;pentafluoropyridine;;2 g;34.522;fridge;2;;;FC1=NC(F)=C(F)C(F)=C1F
+Methyl iodide;CH3I;CH3I;;400 ml;34.522;fridge;2;;;CI
+Phenyl isocyanate;PhNCO;PhNCO;;70 ml;34.522;fridge;2;;;O=C=NC1=CC=CC=C1
+Methyl anthranilate;;methyl 2-aminobenzoate;;20 ml;34.522;fridge;2;hand made;;NC1=CC=CC=C1C(OC)=O
+Na2S*xH2O;;Sodium sulfide;;5 g;34.522;fridge;2;;;
+N-Ethylmethylamine;MeEtNH;;;10 ml;34.522;fridge;2;;;CNCC
+Iodomethane-d3;CD3I;Methyl iodide deuterated;;3 ml;34.522;fridge;2;hand made;;IC([2H])([2H])[2H]
+hydrogen peroxide;H2O2;;;200 ml;34.522;fridge;2;medical ~30%;;OO
+5'-Bromo-2'-hydroxyacetophenon;;;;80 g;34.522;fridge;3;made in China;;CC(=O)C1=C(O)C=CC(Br)=C1
+2-amino-5-hydroxybenzoic acid;;;;25 g;34.522;fridge;5;;;NC1=C(C=C(O)C=C1)C(O)=O
+2-amino-3-methylbenzoic acid;;;;25 g;34.522;fridge;5;;;CC1=CC=CC(C(O)=O)=C1N
+2-amino-5-methylbenzoic acid;;;;25 g;34.522;fridge;5;;;CC1=CC(C(O)=O)=C(N)C=C1
+2-amino-5-fluorobenzoic acid;;;;2x25 g;34.522;fridge;5;;;NC1=C(C=C(F)C=C1)C(O)=O
+2-amino-6-fluorobenzoic acid;;;;25 g;34.522;fridge;5;;;NC1=C(C(O)=O)C(F)=CC=C1
+2-amino-5-bromobenzoic acid;;;;25 g;34.522;fridge;5;;;NC1=C(C=C(Br)C=C1)C(O)=O
+2-amino-4-chlorobenzoic acid;;;;25 g;34.522;fridge;5;;;NC1=C(C=CC(Cl)=C1)C(O)=O
+2-Amino-4-bromobenzoic acid;;cas 20776-50-5;;25 g;34.522;fridge;5;;;NC1=C(C=CC(Br)=C1)C(O)=O
+Ethyl 5-nitro-2-furoate;;;;20 g;34.522;fridge;3;;;CCOC(=O)C1=CC=C(O1)[N+]([O-])=O
+3,5-dibromopyrazin-2-amine;;;;3 g;34.522;fridge;4;;;NC1=C(Br)N=C(Br)C=N1
+Trimethyl phosphonoacetate;;;;100 ml;34.522;fridge;4;;;COC(=O)C(C)(C)P(O)(O)=O
+tert-butyl diethylphosphonoacetate;;;;2x20 ml;34.522;fridge;4;;;CCOP(=O)(CC(=O)OC(C)(C)C)OCC
+S-(3-cyanobenzyl) O-ethyl carbonodithioate;;;M3134F;2 g;34.522;fridge;4;;;CCOC(=S)SCc1cccc(c1)C#N
+S-(3,5-difluorobenzyl) O-ethyl carbonodithioate;;;M3434D;1 g;34.522;fridge;4;;;CCOC(=S)SCc1cc(F)cc(F)c1
+S-butyl O-ethyl carbonodithioate;;;M3195A;0.5 g;34.522;fridge;4;;;CCCCSC(=S)OCC
+O-ethyl S-(4-nitrobenzyl) carbonodithioate;;;M3135D;4 g;34.522;fridge;4;;;CCOC(=S)SCc1ccc(cc1)[N+]([O-])=O
+O-ethyl S-(3-methylbenzyl) carbonodithioate;;;M3134C;2 g;34.522;fridge;4;;;CCOC(=S)SCc1cccc(C)c1
+O-ethyl S-(4-bromobenzyl) carbonodithioate;;;M3133C;3 g;34.522;fridge;4;;;CCOC(=S)SCc1ccc(Br)cc1
+O-ethyl S-(3-chlorobenzyl) carbonodithioate;;;M3194B;5 g;34.522;fridge;4;;;CCOC(=S)SCc1cccc(Cl)c1
+S-methyl O-ethyl carbonodithioate;;;M3136A;1 g;34.522;fridge;4;;;CCOC(=S)SC
+S-ethyl O-ethyl carbonodithioate;;;M3136B;2 g;34.522;fridge;4;;;CCOC(=S)SCC
+S-(cyanomethyl) O-ethyl carbonodithioate;;;M3141E;1 g;34.522;fridge;4;;;CCOC(=S)SCC#N
+O-ethyl S-(prop-2-yn-1-yl) carbonodithioate;;;M3141A;2 g;34.522;fridge;4;;;CCOC(=S)SCC#C
+S-hexyl O-ethyl carbonodithioate;;;M3136D;3 g;34.522;fridge;4;;;CCCCCCSC(=S)OCC
+methyl 2-((ethoxycarbonothioyl)thio)acetate;;;M3154;3 g;34.522;fridge;4;;;CCOC(=S)SCC(=O)OC
+O-ethyl S-(4-methylbenzyl) carbonodithioate;;;M3134B;1 g;34.522;fridge;4;;;CCOC(=S)SCc1ccc(C)cc1
+methyl 3-(((ethoxycarbonothioyl)thio)methyl)benzoate;;;M3141C;1 g;34.522;fridge;4;;;CCOC(=S)SCc1cccc(c1)C(=O)OC
+S-([1,1'-biphenyl]-2-ylmethyl) O-ethyl carbonodithioate;;;M3140A;2 g;34.522;fridge;4;;;CCOC(=S)SCc1ccccc1c2ccccc2
+ethyl 2-((ethoxycarbonothioyl)thio)acetate;;;M3141C;3 g;34.522;fridge;4;;;CCOC(=O)CSC(=S)OCC
+O-ethyl S-(4-methoxybenzyl) carbonodithioate;;;M3135B;2 g;34.522;fridge;4;;;CCOC(=S)SCc1ccc(OC)cc1
+O-ethyl S-(3-bromobenzyl) carbonodithioate;;;M3134E;4 g;34.522;fridge;4;;;CCOC(=S)SCc1cccc(Br)c1
+O-ethyl S-(4iodobenzyl) carbonodithioate;;;M3133D;2 g;34.522;fridge;4;;;CCOC(=S)SCc1ccc(I)cc1
+S-((3,5-dimethylisoxazol-4-yl)methyl) O-ethyl carbonodithioate;;;M3140D;1 g;34.522;fridge;4;;;CCOC(=S)SCc1c(C)onc1C
+O-ethyl S-(2-methylallyl) carbonodithioate;;;M3141C;1 g;34.522;fridge;4;;;CCOC(=S)SCC(C)=C
+S-allyl O-ethyl carbonodithioate;;;M3140B;0.5 g;34.522;fridge;4;;;CCOC(=S)SCC=C
+4-Bromo-2-nitrophenol;;;;5 g;34.522;fridge;5;;;Oc1ccc(Br)cc1[N+]([O-])=O
+2-amino-5-hydroxybenzoic acid;;;;25 g;34.522;fridge;5;;;NC1=C(C=C(O)C=C1)C(O)=O
+2-amino-3-methylbenzoic acid;;;;25 g;34.522;fridge;5;;;CC1=CC=CC(C(O)=O)=C1N
+2-amino-5-methylbenzoic acid;;;;25 g;34.522;fridge;5;;;CC1=CC(C(O)=O)=C(N)C=C1
+2-amino-4-fluorobenzoic acid;;;;25 g;34.522;fridge;5;;;NC1=C(C=CC(F)=C1)C(O)=O
+2-amino-5-fluorobenzoic acid;;;;25 g;34.522;fridge;5;;;NC1=C(C=C(F)C=C1)C(O)=O
+2-amino-6-fluorobenzoic acid;;;;25 g;34.522;fridge;5;;;NC1=C(C(O)=O)C(F)=CC=C1
+2-amino-5-bromobenzoic acid;;;;25 g;34.522;fridge;5;;;NC1=C(C=C(Br)C=C1)C(O)=O
+2-amino-4-chlorobenzoic acid;;;;25 g;34.522;fridge;5;;;NC1=C(C=CC(Cl)=C1)C(O)=O
+2-Amino-4-bromobenzoic acid;;cas 20776-50-5;;25 g;34.522;fridge;5;;;NC1=C(C=CC(Br)=C1)C(O)=O
+1-anthrol;;ALBB-005207;;0.5 g;34.522;fridge;6;;;OC1=C2C=C3C=CC=CC3=CC2=CC=C1
+2,2'-thiobis(4-chlorophenol);;ALBB-012859;;0.5 g;34.522;fridge;6;;;OC1=C(SC2=C(O)C=CC(Cl)=C2)C=C(Cl)C=C1
+4-(1-adamantyl)phenol;;ALBB-013826;;0.5 g;34.522;fridge;6;;;OC1=CC=C(C=C1)C12CC3CC(CC(C3)C1)C2
+2-methyl-1,3-benzothiazol-5-ol;;ALBB-014676;;0.5 g;34.522;fridge;6;;;CC1=NC2=CC(O)=CC=C2S1
+4-(1-adamantyl)-2-nitrophenol;;ALBB-014989;;0.5 g;34.522;fridge;6;;;OC1=C(C=C(C=C1)C12CC3CC(CC(C3)C1)C2)[N+]([O-])=O
+ethyl 4-hydroxy-3-nitrobenzoate;;ALBB-024675;;0.5 g;34.522;fridge;6;;;CCOC(=O)C1=CC(=C(O)C=C1)[N+]([O-])=O
+2-nitro-4-[(trifluoromethyl)thio]phenol;;ALBB-025507;;0.5 g;34.522;fridge;6;;;OC1=C(C=C(SC(F)(F)F)C=C1)[N+]([O-])=O
+methyl 2-hydroxy-5-nitrobenzoate;;ALBB-025746;;0.5 g;34.522;fridge;6;;;COC(=O)C1=C(O)C=CC(=C1)[N+]([O-])=O
+4'-hydroxybiphenyl-4-carbonitrile;;ALBB-025788;;0.5 g;34.522;fridge;6;;;OC1=CC=C(C=C1)C1=CC=C(C=C1)C#N
+4-(1H-pyrrol-1-yl)phenol;;ALBB-031372;;0.5 g;34.522;fridge;6;;;OC1=CC=C(C=C1)N1C=CC=C1
+3-ethoxy-4-hydroxybenzonitrile;;ALBB-032702;;0.5 g;34.522;fridge;6;;;CCOC1=C(O)C=CC(=C1)C#N
+4-hydroxybenzonitrile;;;;100 g;34.522;fridge;6;;;OC1=CC=C(C=C1)C#N
+3,5-bis(trifluoromethyl)phenol;;;;25 g;34.522;fridge;6;;;OC1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F
+3-(1,1,1,3,3,3-hexafluoro-2-(4-hydroxyphenyl)propan-2-yl)phenol;;2,2-bis(4-hydroxyphenyl)hexafluoropropane;;25 g;34.522;fridge;6;;;OC1=CC=C(C=C1)C(C1=CC=CC(O)=C1)(C(F)(F)F)C(F)(F)F
+2-(Tributylstannyl)thiophene;;2-thiophene-SnBu3;;3 ml;34.522;fridge;6;;;CCCC[Sn](CCCC)(CCCC)C1=CC=CS1
+Ethyl carbazate;N2H3COOC2H5;N2H3COOC2H5;;100 g;34.522;fridge;6;made in China;;CCOC(=O)NN
+4-iodophenol;;;;60 g;34.522;fridge;6;+/-;;OC1=CC=C(I)C=C1
+4-bromophenol;;;;70 g;34.522;fridge;6;;;OC1=CC=C(Br)C=C1
+3,4,5-Trimethylphenol;;cas 527-54-8;;25 g;34.522;fridge;6;;;CC1=CC(O)=CC(C)=C1C
+Glyoxylic acid monohydrate;;2,2?dihydroxyacetic acid;(HO)2CCOOH;1 kg;34.522;fridge;6;;;O.OC(=O)C=O
+Phenoxazine;;;;5 g;34.522;fridge;6;;;N1C2=CC=CC=C2OC2=CC=CC=C12
+pyrrolidine-1-carboxamide;;N-pyrrolidine urea;;1 g;34.522;fridge;6;;;NC(=O)N1CCCC1
+1-Piperidinecarboxamide;;N-pyperidine urea;;1 g;34.522;fridge;6;;;NC(=O)N1CCCCC1
+morpholine-4-carboxamide;;N-morpholine urea;;1 g;34.522;fridge;6;;;NC(=O)N1CCOCC1
+PdCl2*dppf*CH2Cl2;;;;2 g;34.522;fridge;7;;;[Fe].ClCCl.Cl[Pd]Cl.C1=CC(C=C1)P(C1=CC=CC=C1)C1=CC=CC=C1.c1ccc(c1)P(C1=CC=CC=C1)C1=CC=CC=C1
+[Rh(cod)Cl]2;;;;1 g + 5 g;34.522;fridge;7;;;[Cl-].[Cl-].[Rh+].[Rh+].C1C\C=C/CC\C=C/1.C1C\C=C/CC\C=C/1
+DavePhos;;;;1 g;34.522;fridge;7;;;CC(C)C1=CC(C(C)C)=C(C(=C1)C(C)C)C1=CC=CC=C1P(C1CCCCC1)C1CCCCC1
+2-Dicyclohexylphosphino-2?,6?-diisopropoxybiphenyl;;RuPhos;;1 g;34.522;fridge;7;;;CC(C)Oc1cccc(OC(C)C)c1-c2ccccc2P(C3CCCCC3)C4CCCCC4
+(2-Biphenylyl)di-tert-butylphosphine;;JohnPhos;2-(Di-tert-butylphosphino)biphenyl;1 g;34.522;fridge;7;;;CC(C)(C)P(c1ccccc1-c2ccccc2)C(C)(C)C
+Copper(II) trifluoromethanesulfonate;Cu(OTf)2;Cu(OTf)2;Copper(II) trifluoromethanesulfonate;1 g;34.522;fridge;7;;;FC(F)(F)S(=O)(=O)O[Cu]OS(=O)(=O)C(F)(F)F
+Rhodium(II) acetate;Rh(OAc)2;Rh(OAc)2;;2 g;34.522;fridge;7;;;CC(=O)O[Rh]OC(C)=O.CC(=O)O[Rh]OC(C)=O
+methyl acetimidate hydrochloride;;;SH031;5 g;34.522;fridge;7;;;Cl.COC(C)=N
+Pd(PPh3)4;;;;10 g;34.522;fridge;7;;;C1=CC=C(C=C1)[P](C1=CC=CC=C1)(C1=CC=CC=C1)[Pd]([P](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)([P](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)[P](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+IrCl3*H2O;;Iridium(III) chloride hydrate;;0.3 g;34.522;fridge;7;;;[Cl-].[Cl-].[Cl-].[Ir+3]
+P(o-Tol)3;;Tri(o-tolyl)phosphine;;0.5 g;34.522;fridge;7;;;CC1=C(C=CC=C1)P(C1=C(C)C=CC=C1)C1=C(C)C=CC=C1
+Pd(dba)2;;Bis(dibenzylideneacetone)palladium(0);;2 g;34.522;fridge;7;;;[Pd].O=C(C=CC1=CC=CC=C1)C=CC1=CC=CC=C1.O=C(C=CC1=CC=CC=C1)C=CC1=CC=CC=C1
+NiCl2*dppp;;Dichloro(1,3-bis(diphenylphosphino)propane)nickel;;1 g;34.522;fridge;7;;;Cl[Ni](Cl)C(CCP(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)C1=CC=CC=C1
+NiBr2*2PPh3;;Dibromobis(triphenylphosphine)nickel(II);;1 g;34.522;fridge;7;;;Br[Ni]Br.C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=CC=C1.C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=CC=C1
+1,1?-Carbonyldiimidazole;;CDI;;500 g;34.522;fridge;7;;;O=C(N1C=CN=C1)N1C=CN=C1
+1,3-Bis(diphenylphosphino)ethane;dppe;dppe;Ethylenebis(diphenylphosphine);1 g;34.522;fridge;7;;;C(CP(C1=CC=CC=C1)C1=CC=CC=C1)P(C1=CC=CC=C1)C1=CC=CC=C1
+1,3-Bis(diphenylphosphino)propane;dppp;dppp;;20 g;34.522;fridge;7;;;C(CP(C1=CC=CC=C1)C1=CC=CC=C1)CP(C1=CC=CC=C1)C1=CC=CC=C1
+Tricyclohexylphosphine;Cy3P;Cy3P;;5 g;34.522;fridge;7;;;C1CCC(CC1)P(C1CCCCC1)C1CCCCC1
+Trifurylphosphine;Fur3P;Tri(2-furyl)phosphine;Fur3P;5 g;34.522;fridge;7;;;O1C=CC=C1P(C1=CC=CO1)C1=CC=CO1
+Palladium acetate;Pd(OAc)2;Pd(OAc)2;;2 g;34.522;fridge;7;;;[Pd++].CC([O-])=O.CC([O-])=O
+Palladium chloride;PdCl2;PdCl2;;2 g;34.522;fridge;7;;;Cl[Pd]Cl
+Bis(triphenylphosphine)palladium chloride;;PdCl2*2PPh3;;3 g;34.522;fridge;7;;;[Cl-].[Cl-].[Pd++].C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=CC=C1.C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=CC=C1
+2,2?-Bis(diphenylphosphino)-1,1?-binaphthalene;;rac-BINAP;;5 g;34.522;fridge;7;;;C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=C2C=CC=CC2=C1C1=C2C=CC=CC2=CC=C1P(C1=CC=CC=C1)C1=CC=CC=C1
+Silver(I) carbonate;;Ag2CO3;;3 g;34.522;fridge;7;;;[Ag].OC(O)=O
+(Oxydi-2,1-phenylene)bis(diphenylphosphine);;DPEPhos;;1 g;34.522;fridge;7;;;O(C1=CC=CC=C1P(C1=CC=CC=C1)C1=CC=CC=C1)C1=CC=CC=C1P(C1=CC=CC=C1)C1=CC=CC=C1
+Tri-tert-butylphosphonium tetrafluoroborate;;P(tBu)3*HBF4;;1 g;34.522;fridge;7;;;F[B-](F)(F)F.CC(C)(C)[PH+](C(C)(C)C)C(C)(C)C
+Methyl trifluoromethanesulfonate;MeOTf;Methyl triflate;;1 g;34.522;fridge;7;;;COS(=O)(=O)C(F)(F)F
+Dess-Martin periodinane;;;;10 g;34.522;fridge;8;;;CC(=O)O[I]1(OC(C)=O)(OC(C)=O)OC(=O)C2=CC=CC=C12
+N-Diethylaniline;;PhNEt2;;50 ml;34.522;fridge;8;;;CCN(CC)C1=CC=CC=C1
+4-Bromo-2-hydroxybenzaldehyde;;4-bromosalycilic aldehyde;;20 g;34.522;fridge;8;;;OC1=C(C=O)C=CC(Br)=C1
+(Diacetoxyiodo)benzene;C6H5I(OAc)2;BAIB;phenyliodine(III) diacetate (PIDA);10 g;34.522;fridge;8;made in China;;CC(=O)O[I](OC(C)=O)C1=CC=CC=C1
+2,7-Dihydroxynaphtalene;;;;50 g;34.522;fridge;8;;;OC1=CC2=C(C=O)C(O)=CC=C2C=C1
+Nickel(II) perchlorate hexahydrate;Ni(ClO4)2 x 6H2O;;Ni(ClO4)2 x 6H2O;100 g;34.522;fridge;9;;;[Ni++].[O-][Cl](=O)(=O)=O
+Gadolinium(III) trifluoromethanesulfonate;Gd(OTf)3;Gadolinium(III) triflate;Gd(OTf)3;5 g;34.522;fridge;9;;;[Gd+3].[O-]S(=O)(=O)C(F)(F)F
+Ytterbium(III) trifluoromethanesulfonate;Yb(OTf)3;Ytterbium(III) triflate;Yb(OTf)3;5 g;34.522;fridge;9;;;[Yb+3].[O-]S(=O)(=O)C(F)(F)F
+Zinc trifluoromethanesulfonate;Zn(OTf)2;Zinc triflate;Zn(OTf)2;5 g;34.522;fridge;9;;;[Zn++].[O-]S(=O)(=O)C(F)(F)F.[O-]S(=O)(=O)C(F)(F)F
+Scandium(III) trifluoromethanesulfonate;Sc(OTf)3;Scandium(III) triflate;Scandium tris(trifluoromethanesulfonate);5 g;34.522;fridge;9;;;[Sc+3].[O-]S(=O)(=O)C(F)(F)F.[O-]S(=O)(=O)C(F)(F)F.[O-]S(=O)(=O)C(F)(F)F
+Lanthanum(III) trifluoromethanesulfonate;La(OTf)3;Lanthanum(III) triflate;La(OTf)3;5 g;34.522;fridge;9;;;[La+3].[O-]S(=O)(=O)C(F)(F)F
+Calcium(II) bis(trifluoromethanesulfonimide);Ca(NTf2)2;Calcium triflimide;Ca(NTf2)2;1 g;34.522;fridge;9;;;[Ca++].FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F.FC(F)(F)S(=O)(=O)[N-]S(=O)(=O)C(F)(F)F
+Tin(II) trifluoromethanesulfonate;Sn(OTf)2;Stannous trifluoromethanesulfonate;Tin(II) triflate;1 g;34.522;fridge;9;;;[Sn++].[O-]S(=O)(=O)C(F)(F)F
+Potassium hexafluorophosphate;KPF6;Monopotassium hexafluorophosphate;KPF6;50 g;34.522;fridge;9;;;[K+].F[P-](F)(F)(F)(F)F
+Copper(II) trifluoromethanesulfonate;Cu(OTf)2;Cu(OTf)2;Copper(II) trifluoromethanesulfonate;2 g;34.522;fridge;9;;;FC(F)(F)S(=O)(=O)O[Cu]OS(=O)(=O)C(F)(F)F
+DMSO;;DIMEXID;;100 ml;34.522;fridge;9;APTEKA;;CS(C)=O
+1,1-diethoxy-N,N-dimethylmethanamine;;;;30 ml;34.522;fridge;9;handmade;;CCOC(OCC)N(C)C
+;;;;;;;;;;ץףי
+Tetrabutylammonium hexafluorophosphate;;;;25 g;34.522;fridge;9;;;F[P-](F)(F)(F)(F)F.CCCC[N+](CCCC)(CCCC)CCCC
+1,1?-Ferrocenediyl-bis(diphenylphosphine);dppf;1,1?-Ferrocenediyl-bis(diphenylphosphine);dppf;2 x 50 g ;34.522;fridge;10;;;C1=CC=C(C=C1)P(C1=CC=CC=C1)C12C3C4C5C1[Fe]23451234C5C1C2C3(C45)P(C1=CC=CC=C1)C1=CC=CC=C1
+2-Fluoro-4-(trifluoromethyl)benzaldehyde;;;;2 x 5 g;34.522;fridge;10;abcr + ?;;FC1=C(C=O)C=CC(=C1)C(F)(F)F
+5-Chloro-2-fluorobenzaldehyde;;;;2 x 5 g;34.522;fridge;10;abcr + ?;;FC1=C(C=O)C=C(Cl)C=C1
+3-Chloro-2-fluorobenzaldehyde;;;;5 g;34.522;fridge;10;;;FC1=C(C=O)C=CC=C1Cl
+2-Fluoro-3-(trifluoromethyl)benzaldehyde;;;;5 g;34.522;fridge;10;;;FC1=C(C=O)C=CC=C1C(F)(F)F
+2-Fluoro-6-(trifluoromethyl)benzaldehyde;;;;5 g;34.522;fridge;10;;;FC1=C(C=O)C(=CC=C1)C(F)(F)F
+2-Fluoro-5-nitrobenzaldehyde;;;;2 x 5 g;34.522;fridge;10;;;[O-][N+](=O)C1=CC(C=O)=C(F)C=C1
+2-Chloro-6-fluorobenzaldehyde ;;;;10 g;34.522;fridge;10;Abcr;;FC1=CC=CC(Cl)=C1C=O
+2-Fluoro-5-methylbenzaldehyde;;;;3 g;34.522;fridge;10;Abcr;;CC1=CC(C=O)=C(F)C=C1
+4-Chloro-2-fluorobenzaldehyde;;;;10 g;34.522;fridge;10;Abcr;;FC1=C(C=O)C=CC(Cl)=C1
+2-Bromo-6-fluorobenzaldehyde;;;;10 g;34.522;fridge;10;Abcr;;FC1=CC=CC(Br)=C1C=O
+2-Fluoro-5-(trifluoromethyl)benzaldehyde;;;;25 g;34.522;fridge;10;;;FC1=C(C=O)C=C(C=C1)C(F)(F)F
+5-Bromo-2-fluorobenzaldehyde;;;;25 g;34.522;fridge;10;;;FC1=C(C=O)C=C(Br)C=C1
+2-Bromo-4-methylbenzaldehyde;;2-bromo-p-tolualdehyde;;5 g;34.522;fridge;10;;;CC1=CC(Br)=C(C=O)C=C1
+4-Bromo-2-fluorobenzaldehyde;;;;25 g;34.522;fridge;10;;;FC1=C(C=O)C=CC(Br)=C1
+2-Fluoro-4-methoxybenzaldehyde;;2-Fluoro-p-anisaldehyde;;100 g (ןמ נאחםûל באםךאל);34.522;fridge;10;abcr + ?;;COC1=CC(F)=C(C=O)C=C1
+1ּ BBr3 in CH2Cl2;BBr3;BBr3;;50 ml;34.522;hood 1;2;old;;BrB(Br)Br
+Mol. sieves 3ְ dried;;;;300 g;34.522;hood 1;2;worse;;[O--].[O--].[O--].[Al+3].[Al+3]
+Mol. sieves 4ְ dried;;;;400 g;34.522;hood 1;2;worse;;[O--].[O--].[O--].[Al+3].[Al+3]
+Hydrogen chloride solution in dioxane ~5.4 M;HCl in dioxane;HCl in dioxane;;20 ml;34.522;hood 1;1;;;Cl[H].C1COCCO1
+D-(+)-Galactose;;D-(+)-דאכאךעמחא;;900 g;34.522;hood 1;2;;;OC[C@@H](O)[C@H](O)[C@H](O)[C@@H](O)C=O
+diethyl malonate;CH2(COOEt)2;CH2(COOEt)2;;300 ml;34.522;hood 1;2;good;;CCOC(=O)CC(=O)OCC
+dimethyl malonate;CH2(COOMe)2;CH2(COOMe)2;;50 ml;34.522;hood 1;2;;;COC(=O)CC(=O)OC
+Triethyl orthoformate;CH(OEt)3;CH(OEt)3;;100 ml;34.522;hood 1;2;;;CCOC(OCC)OCC
+MnO2;;;;50 g;34.522;hood 1;2;;;O=[Mn]=O
+Pd/C 5%;;;;1 g;34.522;hood 1;2;;;[Pd]
+Tert-butyldiphenylsilyl chloride;TBDPSCl;TBDPSCl;;50 ml;34.522;hood 2;2;China;;CC(C)(C)[Si](Cl)(C1=CC=CC=C1)C1=CC=CC=C1
+1-Chloronaphthalene;;;;30 g;34.522;hood 2;2;;;ClC1=C2C=CC=CC2=CC=C1
+4-bromoaniline;;;;5 g;34.522;hood 2;2;old;;NC1=CC=C(Br)C=C1
+resorcinol;resorcine;resorcine;;10;34.522;hood 2;2;old;;OC1=CC(O)=CC=C1
+Triisopropylsilyl chloride;iPr3SiCl;TIPSCl;iPr3SiCl;100 ml;34.522;hood 2;1;;;CC(C)[Si](Cl)(C(C)C)C(C)C
+Red phosphorous;; ;;50 g;34.522;hood 2;2;unknown purity;;[P]
+Methanesulfonic acid anhydride;;Ms2O;;3 g;34.522;hood 2;2;;;CS(=O)(=O)OS(C)(=O)=O
+Phenyl acetylene;C6H5CCH;C6H5CCH;;15 ml;34.522;hood 2;2;so so…;;C#CC1=CC=CC=C1
+4-Bromotoluene;p-TolBr;;;100 ml;34.522;hood 2;2;;;
+Diphenyl amine;(C6H5)2NH;(C6H5)2NH;;1 g;34.522;hood 2;2;;;N(C1=CC=CC=C1)C1=CC=CC=C1
+Methyl glycine hydrochloride;NH2CH2COOCH3*HCl;NH2CH2COOCH3*HCl;;30 g;34.522;hood 2;2;;;Cl.COC(=O)CN
+N-Propionylglycine;C2H5CONH2CH2COOH;Propionyl glycine;C2H5CONH2CH2COOH;5 g;34.522;hood 2;2;;;CCC(=O)NCC(O)=O
+Butylated hydroxytoluene;;BHT;IONOL;3 g;34.522;hood 2;2;;;CC1=CC(=C(O)C(=C1)C(C)(C)C)C(C)(C)C
+1,4-Dithioerythritol;;DTE;;1 g;34.522;hood 2;2;for sulfides;;O[C@@H](CS)[C@H](O)CS
+4-Fluoro-2-hydroxybenzaldehyde;;;;10 g;34.522;hood 2;2;from Vadik;;OC1=C(C=O)C=CC(F)=C1
+Selenium dioxide;SeO2;SeO2;;10 g;34.522;hood 2;2;;;O=[Se]=O
+Phosphomolybdic acid;;phosphorous-molibdenium zelenka;;200 g;34.522;hood 2;2;;;O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.OP(O)(O)=O
+Copper iodide;CuI;CuI;;50 g;34.522;hood 2;1;;;I[Cu]I
+RbCl;;Rubidium chloride;;10 g;34.522;hood 2;1;;;
+4?methylbenzamide;;;;5 g;34.522;hood 2;1;;;CC1=CC=C(C=C1)C(N)=O
+Benzaldehyde;C6H5COH;C6H5COH;;30 ml;34.522;hood 2;1;;;O=CC1=CC=CC=C1
+4-Methoxybenzaldehyde;;;;20 ml;34.522;hood 2;1;;;COC1=CC=C(C=O)C=C1
+ 3,5?di?tert?butyl?2?hydroxybenzaldehyde;;;;5 g;34.522;hood 2;1;old;;CC(C)(C)C1=CC(C=O)=C(O)C(=C1)C(C)(C)C
+4-Hydroxybenzaldehyde;;;;10 g;34.522;hood 2;1;;;OC1=CC=C(C=O)C=C1
+2-Fluorobenzaldehyde;;;;20 ml;34.522;hood 2;1;;;FC1=C(C=O)C=CC=C1
+2-Bromobenzaldehyde;;;;30 g;34.522;hood 2;1;;;BrC1=C(C=O)C=CC=C1
+4--Bromobenzaldehyde;;;;100 g;34.522;hood 2;1;;;BrC1=CC=C(C=O)C=C1
+2-Methylbenzaldehyde;;;;100 g;34.522;hood 2;1;;;CC1=C(C=O)C=CC=C1
+Benzoic acid;PhCOOH;PhCOOH;;100 g;34.522;hood 2;1;;;OC(=O)C1=CC=CC=C1
+Potassium permanganate;KMnO4;KMnO4;Potassium permanganate;200 g;34.522;hood 2;1;;;[K+].[O-][Mn](=O)(=O)=O
+Copper dust;Cu (dust);;;3 g;34.522;hood 2;1;;;[Cu]
+oxalic acid;(COOH)2;;;100 g;34.522;hood 2;1;;;OC(=O)C(O)=O
+tyramine hydrochloride;;;;0.5 g;34.522;hood 2;1;;;Cl.NCCc1ccc(O)cc1
+2-methoxybenzaldehyde;;;;1 g;34.522;hood 2;1;;;COc1ccccc1C=O
+4-hydroxy-2,6-dimethoxybenzaldehyde;;;BNS977;0.1 g;34.522;hood 2;1;;;COc1cc(O)cc(OC)c1C=O
+5-chloro-4-hydroxy-2-methoxybenzaldehyde;;;M3043;1 g;34.522;hood 2;1;;;COc1cc(O)c(Cl)cc1C=O
+2-(benzyloxy)benzaldehyde;;;;2 g;34.522;hood 2;1;;;O=Cc1ccccc1OCc2ccccc2
+3,5-dibromo-4-hydroxybenzaldehyde;;;SA706;1 g;34.522;hood 2;1;;;Oc1c(Br)cc(C=O)cc1Br
+5-bromo-4-hydroxy-2-methoxybenzaldehyde;;;M3044;0.5 g;34.522;hood 2;1;;;COc1cc(O)c(Br)cc1C=O
+thiazolidine-2,4-dione;;;;100 g;34.522;hood 2;1;;;O=C1CSC(=O)N1
+2-Hydroxybenzaldehyde;;salycilic aldehyde;;3 ml;34.522;hood 2;1;;;OC1=C(C=O)C=CC=C1
+4-Hydroxy-2-methoxybenzaldehyde;;;;3 g;34.522;hood 2;1;;;COC1=C(C=O)C=CC(O)=C1
+Copper(I) oxide;Cu2O;Cu2O;;5 g;34.522;hood 2;1;;;[Cu]O[Cu]
+Pyridinium chlorochromate;CrO3*Py;PCC 0.5 M;Pyridinium chlorochromate solution;10 g;34.522;hood 3;1;;;O[Cr](Cl)(=O)=O.c1ccncc1
+toluenesulfonic acid;TsOH*H2O;toluenesulfonic acid hydrate;;100 g;34.522;hood 3;1;;;[H]O[H].Cc1ccc(cc1)S(O)(=O)=O
+Zn dust;;;;3 g;34.522;hood 3;1;;;[Zn]
+Butylamine;BuNH2;;Butylamine;100 ml;34.522;hood 3;1;;;CCCCN
+Mg turnings;;;;30 g;34.522;hood 3;1;;;[Mg]
+(S)-Pyrrolidine-2-carboxylic acid;;L(-)proline;L-proline;3 g;34.522;hood 3;1;;;OC(=O)[C@@H]1CCCN1
+dimethyl aminopyridine;;DMAP;;5 g;34.522;hood 3;1;;;Cc1ccnc(N)c1C
+quinoline;;;;100 ml;34.522;hood 3;1;;;c1ccc2ncccc2c1
+pyrrolidine;;;;100 ml;34.522;hood 3;1;;;C1CCNC1
+Sodium triacetoxyborohydride;NaBH(OAc)3;STAB;;2 g;34.522;hood 3;1;;;[Na+].CC(=O)O[BH-](OC(C)=O)OC(C)=O
+cetyltributylammonium bromide;;CTBAB;;5 g;34.522;hood 3;1;;;[Br-].CCCCCCCCCCCCCCCC[N+](CCCC)(CCCC)CCCC
+Cyclohexyl amine;CyNH2;;;100 ml;34.522;hood 3;1;;;NC1CCCCC1
+N1,N1,N2,N2-tetramethylethane-1,2-diamine;TMEDA;TMEDA;tetramethylethylene diamine;10 ml;34.522;hood 3;1;;;CN(C)CCN(C)C
+Caesium carbonate;Cs2CO3;Cs2CO3;;500 g;34.522;hood 3;1;;;[Cs+].[Cs+].[O-]C([O-])=O
+1,8-Diazabicyclo[5.4.0]undec-7-ene;;DBU;;60 ml;34.522;hood 3;1;;;C1CN=C2CCCCCN2C1
+Methylamine aq. 40%;CH3NH2*aq.;CH3NH2*aq.;;30 ml;34.522;hood 3;1;;;CN
+Methylamine in Isopropyl alcohol 35%;CH3NH2*i-PrOH;CH3NH2*i-PrOH;;250 ml;34.522;hood 3;1;;;CN
+Morpholine;;;;40 ml;34.522;hood 3;1;;;C1COCCN1
+Tetramethylguanidine;;1,1,3,3-Tetramethylguanidine;;60 ml;34.522;hood 3;1;;;CN(C)C(=N)N(C)C
+3-Hydroxypropionitrile;HOCH2CH2CN;HOCH2CH2CN;;50 ml;34.522;hood 3;1;dist.;;OCCC#N
+1,3-Dimethylbarbituric Acid;;1,3-Dimethyl-2,4,6(1H,3H,5H)-pyrimidinetrione;;20 g;34.522;hood 3;1;;;CN1C(=O)CC(=O)N(C)C1=O
+2,2-dimethyl-1,3-dioxane-4,6-dione;;Meldrum's acid;;3 g;34.522;hood 3;1;with impurities;;CC1(C)OC(=O)CC(=O)O1
+Piperidine;;;;30 ml;34.522;hood 3;1;;;C1CCNCC1
+Tetrabutylammonium bromide;Bu4NBr;Bu4NBr;;20 g;34.522;hood 3;1;;;[Br-].CCCC[N+](CCCC)(CCCC)CCCC
+Lithium fluoride;LiF;LiF;;10 g;34.522;hood 3;1;anhydrous;;[Li+].[F-]
+Thioanisole;PhSMe;PhSMe;;50 ml;34.522;hood 3;1;;;CSC1=CC=CC=C1
+potassium fluoride dihydrate;KF*2H2O;;;3 g;34.522;hood 3;1;;;O.O.[F-].[K+]
+Ammonium acetate;CH3COONH4;;;3 g;34.522;hood 3;1;;;CC1(C)OC(=O)CC(=O)O1
+ethylamine hydrochloride;EtNH2*HCl;;;3 g;34.522;hood 3;1;;;Cl.CCN
+3-Aminopropionic acid;;3-Aminopropionic acid;b-alanine;3 g;34.522;hood 3;1;;;NCCC(O)=O
+TolSMe;;4-(Methylthio)toluene;"
+623-13-2";20 ml;34.522;hood 3;1;;;CSC1=CC=C(C)C=C1
+Benzyl amine;BnNH2;;;5 ml;34.522;hood 3;1;ןמקטשוםםûי פכורמל;;"NCc1ccccc1
+"
+methyl 2-cyanoacetate;;Methyl cyanoacetate;;4 ml;34.522;hood 3;1;;;O=C(OC)CC#N
+Ethyl amine aq. 70%;EtNH2*aq;EtNH2*aq;;50 ml;34.522;hood 3;1;;;CCN
+Methylbenzylamine;MeNHBn;MeNHBn;;50 g;34.522;hood 3;1;;;CNCC1=CC=CC=C1
+Ethylbenzylamine;EtNHBn;EtNHBn;;50 g;34.522;hood 3;1;;;CCNCC1=CC=CC=C1
+Dimethylamine hydrochloride;Me2NH*HCl;Me2NH*HCl;;15 g;34.522;hood 3;1;;;Cl.CNC
+triphenyl phosphine;Ph3P;Ph3P;;100 g;34.522;hood 3;1;;;C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=CC=C1
+Sodium acetate;NaOAc;NaOAc;CH3COONa;50 g;34.522;hood 3;1;Soviet;;[Na+].CC([O-])=O
+Trimethylsulfoxonium iodide;;Me3SOI;;80 g;34.522;hood 3;1;;;[I-].C[S+](C)(C)=O
+Diethylamine;(CH3CH2)2NH;(CH3CH2)2NH;;30 ml;34.522;hood 3;2;;;CCNCC
+Diisopropylethylamine;iPr2NEt;DIPEA;Hunigs base;60 ml;34.522;hood 3;2;old;;CCN(C(C)C)C(C)C
+Glycine;NH2CH2COOH;NH2CH2COOH;;400 g;34.522;hood 3;2;;;NCC(O)=O
+Triethylamine;(CH3CH2)3N;(CH3CH2)3N;;1 l;34.522;hood 3;2;dist. over CaH2;;CCN(CC)CC
+DABCO;;;;1 g;34.522;hood 3;2;;;C1C[N@@]2CC[N@]1CC2
+Sodium hydride;NaH;NaH;;8 g;34.522;hood 3;2;;;[H-].[Na+]
+Sodium borohydride;NaBH4;NaBH4;;400 g + 2 x 100 g;34.522;hood 3;2;;;[BH4-].[Na+]
+Calcium hydride;CaH2;CaH2;;30 g;34.522;hood 3;2;;;[H-].[H-].[Ca++]
+Tetrabutylammonium fluoride;Bu4NF*3H2O;TBAF;Bu4NF*3H2O;50 g;34.522;hood 3;2;;;[F-].CCCC[N+](CCCC)(CCCC)CCCC
+Methylglycine hydrochloride;NH2CH2COOCH3*HCl;NH2CH2COOCH3*HCl;;5 g;34.522;hood 3;2;;;Cl.COC(=O)CN
+Aniline;C6H5NH2;C6H5NH2;;30 ml;34.522;hood 3;2;;;NC1=CC=CC=C1
+Urea;(NH2)2CO;;;30 g;34.522;hood 3;2;;;"NC(N)=O
+"
+Imidazole;C3H4N2;C3H4N2;;15 g;34.522;hood 3;2;;;N1C=CN=C1
+Triethylamine;(CH3CH2)3N;(CH3CH2)3N;;5 ml;34.522;hood 3;2;;;CCN(CC)CC
+N-Methylmorpholine;;;;50 ml;34.522;hood 3;2;;;CN1CCOCC1
+(2-(1H-benzotriazol-1-yl)-1,1,3,3-tetramethyluronium hexafluorophosphate;;HBTU;Hexafluorophosphate benzotriazole tetramethyl uronium;2x20 g;34.522;hood 3;2;;;F[P-](F)(F)(F)(F)F.CN(C)C(ON1N=NC2=C1C=CC=C2)=[N+](C)C
+Dimethylamine 40% solution H2O;Me2NH;N-Methylmethanamine;;1 L;34.522;hood 3;2;;;CNC
+Diisopropylamine;iPr2NH;iPr2NH;;60 ml;34.522;hood 3;2;;;CC(C)NC(C)C
+Sodium methylate;CH3ONa;CH3ONa;;100 g;34.522;hood 3;2;good;;[Na+].[O-]C=O
+Pyridine;;;;1 l;34.522;hood 3;2;;;C1=CC=NC=C1
+Diisopropylethylamine;iPrNEt;DIPEA;Hunigs base;800 ml;34.522;hood 3;2;fresh;;CCN(C(C)C)C(C)C
+triphenyl phosphine;PPh3;PPh3;;50 g;34.522;hood 3;2;;;C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=CC=C1
+Cyclohexanone;;;;500 ml;34.522;hood 3;2;distilated 15.07.20;;O=C1CCCCC1
+Dibromoethane;C2H4Br2;C2H4Br2;;500 ml;34.522;hood 3;2;;;BrCCBr
+4-phenylphenol;;C6H5C6H4OH;;100 g;34.522;hood 3;2;;;OC1=CC=C(C=C1)C1=CC=CC=C1
+Benzyl amine;BnNH2;BnNH2;;50 ml;34.522;hood 3;2;;;NCC1=CC=CC=C1
+Dimethyl amine 40% aq.;Me2NH*aq;Me2NH*aq;;1 l;34.522;hood 3;2;;;CNC
+Ethyl anthranilate ;;Ethyl 2-aminobenzoate;;100 g;34.522;hood 3;2;;;CCOC(=O)C1=C(N)C=CC=C1
+Ethyl amine hydrochloride;EtNH2*HCl;EtNH2*HCl;;100 g;34.522;hood 3;2;;;Cl.CCN
+N,N-dimethylethane-1,2-diamine;;;;200 ml;34.522;hood 3;2;;;CN(C)CCN
+ethylene diamine;;;;50 ml;34.522;hood 3;2;;;NCCN
+N1,N1,N4,N4-tetramethylbutane-1,4-diamine (???);;;;100 ml;34.522;hood 3;2;ץח קעמ מע ּטץאיכמגא;;"CN(C)CCCCN(C)C
+"
+Hydrofluoric acid;HF*aq.;HF*aq.;;200 ml;34.522;ךטסכמעû;1;;;F
+Aluminium chloride;AlCl3;AlCl3;;1 kg;34.522;ךטסכמעû;1;granules;;Cl[Al](Cl)Cl
+Aluminium chloride;AlCl3;AlCl3;;1 kg;34.522;ךטסכמעû;1;powder sigma;;Cl[Al](Cl)Cl
+Phosphorous oxide;P2O5;P2O5;Phosphorus(V) oxide;1 kg;34.522;ךטסכמעû;1;aldrich;;O=P12OP3(=O)OP(=O)(O1)OP(=O)(O2)O3
+Methanesulfonic acid;CH3SO3H;CH3SO3H;;400 ml;34.522;ךטסכמעû;1;;;CS(O)(=O)=O
+Titanium tetrachloride;TiCl4;TiCl4;;100 ml;34.522;ךטסכמעû;1;;;Cl[Ti](Cl)(Cl)Cl
+Formic acid;HCOOH;;;1 l;34.522;ךטסכמעû;1;;;"OC=O
+"
+Acetyl chloride;CH3COCl;CH3COCl;;100 ml;34.522;ךטסכמעû;2;;;CC(Cl)=O
+Thionyl chloride;SOCl2;SOCl2;;100 ml;34.522;ךטסכמעû;2;;;ClS(Cl)=O
+trifluoroacetic acid;CF3COOH;;;200 ml;34.522;ךטסכמעû;1;;;"OC(=O)C(F)(F)F
+"
+Phosphoryl chloride;POCl3;phosphorus oxychloride;POCl3;100 ml;34.522;ךטסכמעû;2;;;ClP(Cl)(Cl)=O
+Tin tetrachloride;SnCl4;SnCl4;;1 l;34.522;ךטסכמעû;2;Soviet;;Cl[Sn](Cl)(Cl)Cl
+Trifluoroacetic anhydride;(CF3CO)2O;;;80 ml;34.522;ךטסכמעû;2;;;FC(F)(F)C(=O)OC(=O)C(F)(F)F
+Acetic anhydride;Ac2O;;;30 ml;34.522;ךטסכמעû;2;;;CC(=O)OC(C)=O
+Ammonium thiocyanate;NH4SCN;NH4SCN;;1 kg;34.522;םומנדאםטךא;;;;N.SC#N
+Sodium dihydrophosphate;NaH2PO4*2H2O;NaH2PO4*2H2O;Sodium dihydrogen phosphate dihydrate;1 kg;34.522;םומנדאםטךא;;;;O.O.[Na+].OP(O)([O-])=O
+Potassium sodium tartrate;KNaC4H4O6;Seignette's salt;KNaC4H4O6;1 kg;34.522;םומנדאםטךא;;;;[Na+].[K+].OC(C(O)C([O-])=O)C([O-])=O
+FeCl3 anhydr.;;Iron(III) chloride;;1 kg;34.522;םומנדאםטךא;;;;Cl[Fe](Cl)Cl
+Sodium thiosulfate;Na2S2O3*5H2O;Na2S2O3*5H2O;;100 g;34.522;םומנדאםטךא;;;;O.O.O.O.O.[Na+].[Na+].[O-]S([S-])(=O)=O
+Copper sulfate;CuSO4*5H2O;;;500 g;34.522;םומנדאםטךא;;;;
+Magnesium perchlorate anhydr.;Mg(ClO4)2;Mg(ClO4)2;;500 g;34.522;םומנדאםטךא;;;;[Mg++].[O-][Cl](=O)(=O)=O.[O-][Cl](=O)(=O)=O
+ZnCl2 anhydr.;;;;20 g;34.522;םומנדאםטךא;;;;"[Cl-].[Cl-].[Zn++]
+"
+Iodine;I2;Iod;;500 g;34.522;םומנדאםטךא;;;;[I]
+DMF;Me2NCOH;Me2NCOH;;0.5 l;34.522;solvents;;good;;CN(C)C=O
+tetrabutylammonium bromide;;;;;34.421;SHKAF;2;3x;;[Br-].CCCC[N+](CCCC)(CCCC)CCCC
+4-Toluenesulfonyl chloride;;TsCl;tosyl chloride;;34.421;SHKAF;2;;;CC1=CC=C(C=C1)S(Cl)(=O)=O
+Phosphorus pentoxide;P2O5;Phosphorus(V) oxide;;5 kg;42.406;rack 1;2;;;O=P12OP3(=O)OP(=O)(O1)OP(=O)(O2)O3
+Sodium formate;HCOONa;NaCOOH;Sodium formate;;42.406;rack 1;2;;;[Na+].[O-]C=O
+Copper(II) sulfate pentahydrate;CuSO4·5H2O;Cupric sulfate pentahydrate;;;42.406;rack 1;2;;;O.O.O.O.O.[Cu++].[O-]S([O-])(=O)=O
+Sodium hydrosulfide hydrate;NaHS x H2O;Sodium bisulfide;;;34.421;SHKAF;2;;;O.[Na+].S
+Sodium sulfite;Na2SO3;sodium sulphite;;;34.421;SHKAF;2;;;[Na+].[Na+].[O-]S([O-])=O
+tetrabutylammonium chloride;;;;;34.421;SHKAF;2;;;[Cl-].CCCC[N+](CCCC)(CCCC)CCCC
+tetrabutylammonium iodide;;;;;34.421;SHKAF;2;;;[I-].CCCC[N+](CCCC)(CCCC)CCCC
+Zinc;Zn;;;6 x 100 g;34.421;SHKAF;2;Dust very good;;[Zn]
+Zinc;Zn;;;;34.421;SHKAF;2;Dust;;[Zn]
+Zinc;Zn;;;;34.421;SHKAF;2;Rushim;;[Zn]
+Zinc;Zn;;;;34.421;SHKAF;2;Granules;;[Zn]
+tetraethylammonium bromide;;;;;34.421;SHKAF;2;;;[Br-].CC[N+](CC)(CC)CC
+copper bromide (I);;CuBr;;;34.421;SHKAF;2;;china;Br[Cu]Br
+copper chloride;CuCl;CuCl;;;34.421;SHKAF;2;;;Cl[Cu]
+copper cyanide;CuCN;CuCN;;;34.421;SHKAF;2;;;[Cu]C#N
+copper iodide;CuI;CuI;;100 g;34.421;SHKAF;2;;;I[Cu]I
+copper iodide;CuI;CuI;;500 g;34.421;SHKAF;2;;;I[Cu]I
+2,6-Di-tert-butyl-4-methylphenol;;ionol;;;34.421;SHKAF;2;2x;;CC1=CC(=C(O)C(=C1)C(C)(C)C)C(C)(C)C
+zinc acetate;Zn(OAc)2;Zn(OAc)2;;;34.421;SHKAF;2;;;[Zn++].CC([O-])=O.CC([O-])=O
+tetrabutylammonium fluoride trihydrate;;;;;34.421;SHKAF;2;3x;;O.O.O.[F-].CCCC[N+](CCCC)(CCCC)CCCC
+18-crown-6;;1,4,7,10,13,16-Hexaoxacyclooctadecane;;;34.421;SHKAF;2;;;C1COCCOCCOCCOCCOCCO1
+sodium hydride (60%);NaH;NaH;;;34.421;SHKAF;2;2x;;[H-].[Na+]
+iodine;I2;I2;;;34.421;SHKAF;2;good;;II
+Magnesium;Mg;Mg;;;34.421;SHKAF;2;2x;;[Mg]
+Copper;Cu;Cu;;;34.421;SHKAF;2;dust;;[Cu]
+Pluronic F-68;;;;;34.421;SHKAF;2;;;[H]OCCOCC(C)OCCO
+Caesium carbonate;Cs2CO3;Cs2CO3;;;34.421;SHKAF;2;dry;;[Cs+].[Cs+].[O-]C([O-])=O
+Caesium carbonate;Cs2CO3;Cs2CO3;;4x500 g;34.421;SHKAF;2;dry;;[Cs+].[Cs+].[O-]C([O-])=O
+2-methoxyethanol;;;;;34.421;SHKAF;2;;;COCCO
+Calcium hydride;CaH2;CaH2;;;34.421;SHKAF;2;Dust;;[H-].[H-].[Ca++]
+Calcium hydride;CaH2;CaH2;;;34.421;SHKAF;2;Granules;;[H-].[H-].[Ca++]
+Selenium dioxide;SeO2;SeO2;;;34.421;SHKAF;2;Soviet;;O=[Se]=O
+Selenium dioxide;SeO2;SeO2;;;34.421;SHKAF;2;good;;O=[Se]=O
+p-Toluenesulfonic acid;;PTSA;;;34.421;SHKAF;2;dry?;;CC1=CC=C(C=C1)S(O)(=O)=O
+Sodium tert-butoxide;"tBuONa
+";"tBuONa
+";;;34.421;SHKAF;2;;;[Na+].CC(C)(C)[O-]
+lithium tert-butoxide;"tBuOLi
+";"tBuOLi
+";;;34.421;SHKAF;2;;;[Li+].CC(C)(C)[O-]
+Potassium tert-butoxide;tBuOK;tBuOK;;;34.421;SHKAF;2;;;[K+].CC(C)(C)[O-]
+Cyclohexanone;;;;;34.421;SHKAF;2;;;O=C1CCCCC1
+Lithium chloride;LiCl;LiCl;;;34.421;SHKAF;2;Dry;;[Li+].[Cl-]
+Zinc chloride;ZnCl2;ZnCl2;;3 x 30 g;34.421;SHKAF;2;dry;;Cl[Zn]Cl
+Zinc chloride;ZnCl2;ZnCl2;;1 kg;34.421;SHKAF;2;dry;;Cl[Zn]Cl
+Zinc chloride;ZnCl2;ZnCl2;;;34.421;SHKAF;1;drySHIT;;Cl[Zn]Cl
+Calcium hydride;CaH2;CaH2;;;34.421;SHKAF;1;Granules;;[H-].[H-].[Ca++]
+Lithium iodide;LiI;LiI;;;34.421;SHKAF;1;;;[Li+].[I-]
+sodium iodide;NaI;NaI;;;34.421;SHKAF;1;;;[Na+].[I-]
+Potassium permanganate;KMnO4;KMnO4;;;34.421;SHKAF;1;;;[K+].[O-][Mn](=O)(=O)=O
+Paraformaldehyde;CH2O;CH2O;;;34.421;SHKAF;1;good;;C=O
+formaldehyde solution;;;;;34.421;SHKAF;1;good;;C=O
+Diisopropylamine;;;;;34.421;SHKAF;1;2x dry and not;;CC(C)NC(C)C
+Caesium carbonate;Cs2CO3;Cs2CO3;;;34.421;SHKAF;1;NOT dry;;[Cs+].[Cs+].[O-]C([O-])=O
+N,N-Diisopropylethylamine;DIPEA;DIPEA;;;34.421;SHKAF;1;;;CCN(C(C)C)C(C)C
+Hexamethylenetetramine;;urotropin;urotropin;;34.421;SHKAF;1;;;C1N2CN3CN1CN(C2)C3
+(2-(1H-benzotriazol-1-yl)-1,1,3,3-tetramethyluronium hexafluorophosphate;;HBTU;;;34.421;TUMBA Hood 3;1;;;F[P-](F)(F)(F)(F)F.CN(C)C(ON1N=NC2=C1C=CC=C2)=[N+](C)C
+Dichlorodiphenylsilane;;Ph2SiCl2;;;34.421;TUMBA Hood 3;1;;;Cl[Si](Cl)(C1=CC=CC=C1)C1=CC=CC=C1
+tert-Butyl(chloro)diphenylsilane;;TBDPSCl;;;34.421;TUMBA Hood 3;1;;;CC(C)(C)[Si](Cl)(C1=CC=CC=C1)C1=CC=CC=C1
+Triisopropylsilyl chloride;;TIPSCl;;;34.421;TUMBA Hood 3;1;;;CC(C)[Si](Cl)(C(C)C)C(C)C
+Pentafluorophenol;;PFPOH;;;34.421;TUMBA Hood 3;1;;;OC1=C(F)C(F)=C(F)C(F)=C1F
+tert-Butyldimethylsilyl chloride;;TBDMSCl;;;34.421;TUMBA Hood 3;1;;;CC(C)(C)[Si](C)(C)Cl
+Trimethylsilyl chloride;;TMSCl;;~ 0.5 L;34.421;TUMBA Hood 3;1;;;C[Si](C)(C)Cl
+2,2'-sulfonyldiethanol (60% aq);;;;;34.421;TUMBA Hood 3;1;;;OCCS(=O)(=O)CCO
+1-bromo-3-chloropropane;;;;;34.421;TUMBA Hood 3;1;;;ClCCCBr
+maleic acid;;;;;34.421;TUMBA Hood 3;1;;;OC(=O)\C=C/C(O)=O
+Hydroxylamine Hydrochloride;;NH2OH x HCl;;;34.421;TUMBA Hood 3;1;;;Cl.NO
+4,4?-Dimethoxytrityl chloride;;DMTCl;;;34.421;TUMBA Hood 3;1;;;COC1=CC=C(C=C1)C(Cl)(C1=CC=CC=C1)C1=CC=C(OC)C=C1
+Trimethylacetic anhydride;;pivalic anhydride;;;34.421;TUMBA Hood 3;1;;;CC(C)(C)C(=O)OC(=O)C(C)(C)C
+Succinic anhydride;;;;;34.421;TUMBA Hood 3;1;;;O=C1CCC(=O)O1
+Trifluoroacetic anhydride;;TFAA;;;34.421;TUMBA Hood 3;1;;;FC(F)(F)C(=O)OC(=O)C(F)(F)F
+1,3-dioxo-1,3-dihydroisobenzofuran-5-carboxylic acid;;trimellitic anhydride;1,2,4-benzenetricarboxylic anhydride;;34.421;TUMBA Hood 3;1;;;OC(=O)C1=CC=C2C(=O)OC(=O)C2=C1
+phthalic anhydride;;;;;34.421;TUMBA Hood 3;1;handmade fused;;O=C1OC(=O)C2=CC=CC=C12
+resorcinol;;resorcine;resorcine;;34.421;TUMBA Hood 3;1;;;OC1=CC(O)=CC=C1
+(1s,4s)-4-aminocyclohexanol;;;;;34.421;TUMBA Hood 3;1;;;N[C@H]1CC[C@@H](O)CC1
+glutaric acid;;;;;34.421;TUMBA Hood 3;2;;;OC(=O)CCCC(O)=O
+Succinic acid;;;;;34.421;TUMBA Hood 3;2;;;OC(=O)CCC(O)=O
+4,4?-Dimethoxytrityl chloride;;DMTCl;;;34.421;TUMBA Hood 3;2;;;COC1=CC=C(C=C1)C(Cl)(C1=CC=CC=C1)C1=CC=C(OC)C=C1
+3,5-bis(trifluoromethyl)benzoic acid;;;;;34.421;TUMBA Hood 3;2;;;OC(=O)C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F
+trimethyl(vinyl)silane;;;;;34.421;TUMBA Hood 3;2;;;C[Si](C)(C)C=C
+maleic anhydride;;;;;34.421;TUMBA Hood 3;2;;;O=C1OC(=O)C=C1
+dimethyl oxalate;;;;;34.421;TUMBA Hood 3;2;;;COC(=O)C(=O)OC
+2-fluorophenol;;;;;34.421;TUMBA Hood 3;2;;;OC1=C(F)C=CC=C1
+glutaric anhydride;;;;;34.421;TUMBA Hood 3;2;;;O=C1CCCC(=O)O1
+Tin(II) chloride;SnCl2;SnCl2;;;34.421;TUMBA Hood 3;2;;;Cl[Sn]Cl
+tert-Butyl(chloro)diphenylsilane;;TBDPSCl;;;34.421;TUMBA Hood 3;2;;;CC(C)(C)[Si](Cl)(C1=CC=CC=C1)C1=CC=CC=C1
+propionic anhydride;;;;;34.421;TUMBA Hood 3;2;;;CCC(=O)OC(=O)CC
+propane-1,2-diol;Propylene glycol;Propylene glycol;;;34.421;TUMBA Hood 3;2;;;CC(O)CO
+butyric anhydride;;;;;34.421;TUMBA Hood 3;2;;;CCCC(=O)OC(=O)CCC
+Trimethylsulfoxonium iodide;;;;;34.421;TUMBA Hood 3;2;;;[I-].C[S+](C)(C)=O
+Chromotropic acid di sodium;;Chromotropic acid disodium salt;4,5-Dihydroxynaphthalene-2,7-disulfonic acid disodium salt;;34.421;TUMBA Hood 3;2;;;[Na+].[Na+].OC1=CC(=CC2=CC(=CC(O)=C12)S(O)(=O)=O)S(O)(=O)=O
+(3-Glycidoxypropyl)trimethoxysilane;;;;;34.421;TUMBA Hood 3;2;;;CO[Si](CCCOCC1CO1)(OC)OC
+5-bromopyridin-2-amine;;;;;34.421;TUMBA Hood 3;2;;;NC1=NC=C(Br)C=C1
+Tetrachloro-1,4-benzoquinone;Chloranil;Chloranil;;;34.421;TUMBA Hood 3;2;;;ClC1=C(Cl)C(=O)C(Cl)=C(Cl)C1=O
+Sodium cyanoborohydride;NaBH3CN;NaBH3CN;;<20 g;34.421;TUMBA Hood 3;2;;;[Na+].[BH3-]C#N
+Sodium cyanoborohydride;NaBH3CN;NaBH3CN;;1 kg + 1 kg;34.427;06.ÿםג;5;;;[Na+].[BH3-]C#N
+5-aminopentan-1-ol;;;;;34.421;TUMBA Hood 3;2;;;NCCCCCO
+Chlorosulfonyl isocyanate;CSI; N-Carbonylsulfamyl chloride;;;34.421;TUMBA Hood 3;1;;;ClS(=O)(=O)N=C=O
+Triethyl phosphite;P(OEt)3;P(OEt)3;;2 x ;34.421;TUMBA Hood 3;1;;;CCOP(OCC)OCC
+Trimethylsilyl trifluoromethanesulfonate;;TMSOTf;;;34.421;TUMBA Hood 3;2;;;C[Si](C)(C)OS(=O)(=O)C(F)(F)F
+2-(trimethylsilyl)ethanol;;;;;34.421;TUMBA Hood 3;2;;;C[Si](C)(C)CCO
+2,2,3,3,3-pentafluoropropanoic anhydride;;;;;34.421;TUMBA Hood 3;2;;;FC(F)(F)C(F)(F)C(=O)OC(=O)C(F)(F)C(F)(F)F
+isobutyric anhydride;;;;;34.421;TUMBA Hood 3;2;;;CC(C)C(=O)OC(=O)C(C)C
+triphenylbismuthine;Ph3Bi;Ph3Bi;;;34.421;TUMBA Hood 3;2;;;C1=CC=C(C=C1)[Bi](C1=CC=CC=C1)C1=CC=CC=C1
+Germanium dichloride;GeCl2*xH2O;GeCl2*xH2O;;;34.421;TUMBA Hood 3;2;;;Cl[Ge]Cl
+1,3-dimesitylimidazolidin-1-ium;; BF4 salt;;;34.421;TUMBA Hood 3;2;;;CC1=CC(C)=C(N2CC[NH+](C2)C2=C(C)C=C(C)C=C2C)C(C)=C1
+1,3-dimesitylhexahydropyrimidin-1-ium;; BF5 salt;;;34.421;TUMBA Hood 3;2;;;CC1=CC(C)=C(N2CCC[NH+](C2)C2=C(C)C=C(C)C=C2C)C(C)=C1
+1,3-bis(2,6-diisopropylphenyl)imidazolidin-1-ium;; BF6 salt;;;34.421;TUMBA Hood 3;2;;;CC(C)C1=CC=CC(C(C)C)=C1N1CC[NH+](C1)C1=C(C=CC=C1C(C)C)C(C)C
+tert-butyl 2-bromoacetate;;;;;34.421;TUMBA Hood 3;2;;;CC(C)(C)OC(=O)CBr
+Sodium borohydride;NaBH4;NaBH4;;;34.421;Hood 3;1;;;[BH4-].[Na+]
+N,N-Diisopropylethylamine;;;DIPEA;;34.421;Hood 3;1;;;CCN(C(C)C)C(C)C
+imidazole;;;;;34.421;Hood 3;1;;;N1C=CN=C1
+piperidine;;Hexahydropyridine;;;34.421;Hood 3;1;;;C1CCNCC1
+Methylamine in Isopropyl alcohol 35%;CH3NH2*i-PrOH;CH3NH2*i-PrOH;;250 ml;34.421;hood 3;2;;;CN
+triphenylphosphine;Ph3P;Ph3P;;1 kg;34.421;Hood 3;2;;;C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=CC=C1
+triphenylphosphine;Ph3P;Ph3P;;5 x 1 kg;34.427;06.ÿםג;3;;;C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=CC=C1
+triphenylphosphine;Ph3P;Ph3P;;250 g;34.427;06.ÿםג;3;came 04.08.21;;C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=CC=C1
+Iodine;;;;;34.421;Hood 2;;;;II
+gamma-Aminobutyric acid;;;;;34.421;Hood 2;;;;NCCCC(O)=O
+methylamine;;;;;34.421;Hood 2;;;;CN
+Benzophenone;;;;;34.421;Hood 2;;;;O=C(C1=CC=CC=C1)C1=CC=CC=C1
+Cerium(IV) sulfate;;;;;34.421;Hood 2;;;;[Ce+4].[O-]S([O-])(=O)=O.[O-]S([O-])(=O)=O
+Triphosgene;;;;;34.421;Hood 2;;;;ClC(Cl)(Cl)OC(=O)OC(Cl)(Cl)Cl
+Phosphomolybdic acid;;;;;34.421;Hood 2;;;;O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.OP(O)(O)=O
+(2-ethoxy-2-oxoethyl)triphenylphosphonium bromide;;;;;34.421;Hood 2;;;;[Br-].CCOC(=O)C[P+](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+ethylamine 70% water;;;;;34.421;Hood 2;;;;CCN
+Trifluoroacetic acid ;TFA;TFA;;;34.421;Acids, hood 2;;;;OC(=O)C(F)(F)F
+Perchloric acid 50% solution in H2O;HClO4;Perchloric acid;;;34.421;Acids, hood 2;;;;O[Cl](=O)(=O)=O
+Phosphoric acid;H3PO4;Orthophosphoric acid;;;34.421;Acids, hood 2;;;;O[P](O)(O)=O
+N,N?-Dicyclohexylcarbodiimide;;DCC;;;34.421;Hood 1;;;;C1CCC(CC1)N=C=NC1CCCCC1
+Potassium cyanide;KCN;KCN;;;34.421;Hood 1;;;;[K+].[C-]#N
+sodium cyanide;NaCN;NaCN;;;34.421;Hood 1;;;;[Na+].[C-]#N
+4-chlorobenzenethiol;;;;;34.421;Hood 1;;;;SC1=CC=C(Cl)C=C1
+1-hydroxypyrrolidine-2,5-dione;HOSu;HOSu;;;34.421;Hood 1;;;;ON1C(=O)CCC1=O
+2-thioxothiazolidin-4-one;;;;;34.421;Hood 1;;;;O=C1CSC(=S)N1
+propane-1,3-diol;;;;;34.421;Hood 1;;;;OCCCO
+tetraethyl orthosilicate;Si(OEt)4;Si(OEt)4;;;34.421;Hood 1;;;;CCO[Si](OCC)(OCC)OCC
+1,2-Phenylendiamine;;1,2-Diaminobenzene;o-Phenylenediamine;;34.421;Hood 1;;;;NC1=C(N)C=CC=C1
+3-hydroxypropanenitrile;;;;;34.421;Hood 1;;;;OCCC#N
+dimethyl sulphate;Me2SO4;Dimethyl sulfate;Dimethyl ester of sulfuric acid;;34.421;Hood 1;;;;COS(=O)(=O)OC
+10H-indolo[3,2-b]quinoline-11-carboxylic acid;;;;;34.421;Hood 1;;;;OC(=O)C1=C2C=CC=CC2=NC2=C1NC1=C2C=CC=C1
+2-chloro-6-methoxy-3-nitropyridine;;;;;34.421;Hood 1;;;;COC1=CC=C(C(Cl)=N1)[N+]([O-])=O
+2-((4-chlorophenyl)thio)-6-methoxy-3-nitropyridine;;;;;34.421;Hood 1;;;;COC1=CC=C(C(SC2=CC=C(Cl)C=C2)=N1)[N+]([O-])=O
+(trimethylsilyl)methyl carbamimidothioate hydrochloride;;N1411;;3 x ;34.421;freezer;top;;;C[Si](C)(C)CSC(N)=N.Cl
+3,4-dihydroxycyclobut-3-ene-1,2-dione;;;;;34.421;freezer;middle;;;OC1=C(O)C(=O)C1=O
+N-Boc-ethylenediamine;BocNHCH2CH2NH2;N-Boc-1,2-diaminoethane;tert-Butyl N-(2-aminoethyl)carbamate;;34.421;freezer;middle;;;CC(C)(C)OC(=O)NCCN
+4,5-dihydroxycyclopent-4-ene-1,2,3-trione;;;;;34.421;freezer;middle;;;OC1=C(O)C(=O)C(=O)C1=O
+4-azidobenzoic acid;;;;;34.421;freezer;middle;;;OC(=O)C1=CC=C(C=C1)N=[N+]=[N-]
+Triethyloxonium tetrafluoroborate;;;;;34.421;freezer;middle;;;F[B-](F)(F)F.CC[O+](CC)CC
+Tetrazole;;;;;34.421;freezer;middle;;;N1C=NN=N1
+tributyl(furan-2-yl)stannane;;;;;34.421;freezer;middle;;;CCCC[Sn](CCCC)(CCCC)C1=CC=CO1
+tributyl(phenyl)stannane;;;;;34.421;freezer;middle;;;CCCC[Sn](CCCC)(CCCC)C1=CC=CC=C1
+Chloromethyl methyl ether;;;;;34.421;freezer;middle;;;COCCl
+Benzyl chloromethyl ether;;;;;34.421;freezer;middle;;;ClCOCC1=CC=CC=C1
+Fluorenylmethyloxycarbonyl chloride;;FmocCl;;;34.421;freezer;middle;;;ClC(=O)OCC1C2=CC=CC=C2C2=CC=CC=C12
+(Z)-ethyl 2-((1-methoxyethylidene)amino)acetate;;;;;34.421;freezer;middle;;;CCOC(=O)C\N=C(\C)OC
+(Z)-ethyl 2-((1-methoxypropylidene)amino)acetate;;;;;34.421;freezer;middle;;;CCOC(=O)C\N=C(\CC)OC
+N-Iodosuccinimide;;NIS;;;34.421;freezer;middle;;;IN1C(=O)CCC1=O
+N-Bromosuccinimide;;NBS;;;34.421;freezer;middle;;;BrN1C(=O)CCC1=O
+cyclooctatetraene;;;;;34.421;freezer;middle;;;C1=C\C=C/C=C\C=C1
+Benzyl chloroformate;;CbzCl;;;34.421;freezer;middle;;;ClC(=O)OCC1=CC=CC=C1
+picolinaldehyde;;2-Pyridinecarboxaldehyde;;;34.421;freezer;middle;;;O=CC1=CC=CC=N1
+1,2,3,5,6,7-hexahydropyrido[3,2,1-ij]quinoline-9-carbaldehyde;;Julolidine-9-carbaldehyde;SAI552;;34.421;freezer;middle;;;O=CC1=CC2=C3N(CCCC3=C1)CCC2
+4-(diethylamino)-2-hydroxybenzaldehyde;;;;;34.421;freezer;middle;;;CCN(CC)C1=CC(O)=C(C=O)C=C1
+cinnamaldehyde;;;;;34.421;freezer;middle;;;O=C\C=C\C1=CC=CC=C1
+2-bromobenzaldehyde;;;;;34.421;freezer;middle;;;BrC1=C(C=O)C=CC=C1
+6-methoxy-2-naphthaldehyde;;;;;34.421;freezer;middle;;;COC1=CC2=CC=C(C=O)C=C2C=C1
+Quinoline-5-carbaldehyde;;;;;34.421;freezer;middle;;;O=CC1=CC=CC2=NC=CC=C12
+Quinoline-4-carbaldehyde;;;N1192;;34.421;freezer;middle;;;O=CC1=CC=NC2=CC=CC=C21
+3-methoxybenzaldehyde;;;;;34.421;freezer;middle;;;COC1=CC=CC(C=O)=C1
+2-methylbenzaldehyde;;;;;34.421;freezer;middle;;;CC1=C(C=O)C=CC=C1
+2-fluorobenzaldehyde;;;;;34.421;freezer;middle;;;FC1=C(C=O)C=CC=C1
+4-isopropylbenzaldehyde;;;;;34.421;freezer;middle;;;CC(C)C1=CC=C(C=O)C=C1
+4-Pyridinecarboxaldehyde;;Isonicotinaldehyde;;;34.421;freezer;middle;;;
+1H-indole-3-carbaldehyde;;;;;34.421;freezer;middle;;;O=CC1=CNC2=C1C=CC=C2
+furan-2-carbaldehyde;;;;;34.421;freezer;middle;;;O=CC1=CC=CO1
+2,3-dimethyl-1H-indole-5-carbaldehyde;;;;;34.421;freezer;middle;;;CC1=C(C)C2=C(N1)C=CC(C=O)=C2
+3,7-dimethoxy-2-naphthaldehyde;;;;;34.421;freezer;middle;;;COC1=CC2=CC(C=O)=C(OC)C=C2C=C1
+1,2,2,4-tetramethyl-1,2-dihydroquinoline-6-carbaldehyde;;;;;34.421;freezer;middle;;;CN1C2=CC=C(C=O)C=C2C(C)=CC1(C)C
+3-azidopropan-1-amine;;;;;34.421;freezer;middle;;;NCCCN=[N+]=[N-]
+tert-butyl (2-aminoethyl)carbamate;;;;;34.421;freezer;middle;;;CC(C)(C)OC(=O)NCCN
+oxetan-3-one;;;;;34.421;freezer;middle;;;O=C1COC1
+dihydro-2H-pyran-4(3H)-one;;;;;34.421;freezer;middle;;;O=C1CCOCC1
+2,2,4-trimethyl-1,2-dihydroquinoline;;;;;34.421;freezer;middle;;;CC1=CC(C)(C)NC2=CC=CC=C12
+N,N-diethyl-4-ethynylaniline;;;;;34.421;freezer;middle;;;CCN(CC)C1=CC=C(C=C1)C#C
+methyl 3-ethynylbenzoate;;MALO;;;34.421;freezer;middle;<2 mg! in epp;;C#CC1=CC=CC(C(OC)=O)=C1
+3-ethynylquinoline;;MALO;;;34.421;freezer;middle;<2 mg! in epp;;C#CC1=CN=C2C(C=CC=C2)=C1
+5-ethynyl-1,2,3-trimethoxybenzene;;MALO;;;34.421;freezer;middle;<2 mg! in epp;;C#CC1=CC(OC)=C(OC)C(OC)=C1
+pyrimidine-4-carbaldehyde;;;;;34.421;freezer;middle;;;O=CC1=CC=NC=N1
+2-(pyridin-2-ylamino)acetic acid;;;;;34.421;freezer;middle;;;OC(=O)CNC1=NC=CC=C1
+Lawesson reagent;;;;;34.421;freezer;middle;;;COC1=CC=C(C=C1)P1(=S)SP(=S)(S1)C1=CC=C(OC)C=C1
+Acrylic acid;;;;;34.421;freezer;middle;;;OC(=O)C=C
+Trimethylsilyl azide;;;;;34.421;freezer;middle;;;C[Si](C)(C)N=[N+]=[N-]
+(2,2,6,6-Tetramethylpiperidin-1-yl)oxyl;;TEMPO;;;34.421;freezer;middle;;;CC1(C)CCCC(C)(C)N1[O]
+N-(2-aminoethyl)acetamide;;;;;34.421;freezer;middle;;;CC(=O)NCCN
+methyl 3-azidopropanoate;;;;;34.421;freezer;middle;;;COC(=O)CCN=[N+]=[N-]
+tert-butyl (3-azidopropyl)carbamate;;;;;34.421;freezer;middle;;;CC(C)(C)OC(=O)NCCCN=[N+]=[N-]
+Bis(pinacolato)diboron;;;;;34.421;freezer;middle;;;CC1(C)OB(OC1(C)C)B1OC(C)(C)C(C)(C)O1
+meta-Chloroperoxybenzoic acid;;MCPBA;;;34.421;freezer;middle;;;OOC(=O)C1=CC(Cl)=CC=C1
+Carbonyldiimidazole;;CDI;;;34.421;fridge;door-1;;;O=C(N1C=CN=C1)N1C=CN=C1
+2-Methyl-2-butene;;amylene;;;34.421;fridge;door-1;;;CC=C(C)C
+Methyl formate;HCOOMe;HCOOMe;;;34.421;fridge;door-1;;;COC=O
+Oxalyl chloride;(COCL)2;(COCL)2;;;34.421;fridge;door-1;;;ClC(=O)C(Cl)=O
+Hydrogen peroxide;H2O2;H2O2;;;34.421;fridge;door-1;;;OO
+N,N'-Diisopropylcarbodiimide;;DIC;;;34.421;fridge;door-1;;;CC(C)N=C=NC(C)C
+Tetradeuteromethanol;;Methanol-d4;;;34.421;fridge;door-1;;;[2H]C([2H])([2H])O[2H]
+Sodium hypochlorite;NaClO;solution in H2O;Bleach;1 L;34.421;fridge;door-1;;;[Na+].[O-]Cl
+Copper(II) trifluoromethanesulfonate;;Cu(OTf)2;Copper(II) triflate;;34.421;fridge;door-2;;;O=S(C(F)(F)F)([O-])=O.O=S(C(F)(F)F)([O-])=O.[Cu+2]
+Sodium chlorite;NaClO2;NaClO2;;;34.421;fridge;door-2;;;[Na+].[O-][Cl]=O
+N-Sulfinylaniline;PhNSO;PhNSO;;;34.421;fridge;door-2;;;O=S=NC1=CC=CC=C1
+propargyl bromide;;;;;34.421;fridge;door-2;;;BrCC#C
+bromomethyl acetate;;ACOMBr;;;34.421;fridge;door-2;;;CC(=O)OCBr
+Propionaldehyde;EtCHO;EtCHO;;;34.421;fridge;door-2;;;CCC=O
+Triethylamine trihydrofluoride;Et3N*3HF;Et3N*3HF;;;34.421;fridge;door-2;;;F.F.F.CCN(CC)CC
+trimethylsilyl 2-bromoacetate;;;;;34.421;fridge;door-2;;;C[Si](C)(C)OC(=O)CBr
+octa-1,7-diyne;;;;;34.421;fridge;door-2;;;C#CCCCCC#C
+benzoquinone;;;;;34.421;fridge;door-2;PURE extra;;O=C1C=CC(=O)C=C1
+cyclohexanecarbaldehyde;;;;;34.421;fridge;door-2;;;O=CC1CCCCC1
+1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxybutane;;;;;34.421;fridge;door-2;;;COC(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+hex-5-ynoic acid;;;;;34.421;fridge;door-2;;;OC(=O)CCCC#C
+5-Iodo-2?-deoxyuridine;;;;;34.421;fridge;door-2;;;OC[C@H]1O[C@H](C[C@@H]1O)N1C=C(I)C(=O)NC1=O
+5-Iodo-2?-deoxycytidine;;;;;34.421;fridge;door-2;;;NC1=NC(=O)N(C=C1I)[C@H]1C[C@H](O)[C@@H](CO)O1
+PerFluorobenzene;;;;;34.421;fridge;door-3;;;FC1=C(F)C(F)=C(F)C(F)=C1F
+Perfluorotoluene;;;;;34.421;fridge;door-3;;;FC1=C(F)C(F)=C(C(F)=C1F)C(F)(F)F
+Iridium(III) chloride hydrate;;IrCl3*xH2O;;;34.421;fridge;door-3;;;[Cl-].[Cl-].[Cl-].[Ir+3]
+Benzylidene-bis(tricyclohexylphosphine)dichlororuthenium;;Grubbs Catalyst 1st Generation;172222-30-9;;34.421;fridge;door-3;;;Cl[Ru](Cl)(=CC1=CC=CC=C1)(P(C1CCCCC1)(C1CCCCC1)C1CCCCC1)P(C1CCCCC1)(C1CCCCC1)C1CCCCC1
+2,2?-Bis(diphenylphosphino)-1,1?-binaphthalene;;rac-BINAP;;;34.421;fridge;door-3;;;C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=C2C=CC=CC2=C1C1=C2C=CC=CC2=CC=C1P(C1=CC=CC=C1)C1=CC=CC=C1
+Grubbs Catalyst® 3rd Generation;;Dichloro[1,3-bis(2,4,6-trimethylphenyl)-2-imidazolidinylidene](benzylidene)bis(3-bromopyridine)ruthenium(II);"
+900169-53-1";;34.421;fridge;door-3;;;Cl[Ru](Cl)=CC1=CC=CC=C1
+Piers second generation metathesis catalyst;;Dichloro[1,3-bis(2,4,6-trimethylphenyl)-2-imidazolidinylidene][(tricyclohexylphosphoranyl)methylidene]ruthenium(II) tetrafluoroborate;832146-68-6;;34.421;fridge;door-3;;;Cl[Ru](Cl)=CC1=CC=CC=C1
+Grubbs Catalyst® 2nd Generation  M204;;Benzylidene[1,3-bis(2,4,6-trimethylphenyl)-2-imidazolidinylidene]dichloro(tricyclohexylphosphine)ruthenium;246047-72-3;;34.421;fridge;door-3;;;CC1=CC(C)=C(N2CCN(C2=[Ru](Cl)(Cl)(=CC2=CC=CC=C2)P(C2CCCCC2)(C2CCCCC2)C2CCCCC2)C2=C(C)C=C(C)C=C2C)C(C)=C1
+Grubbs Catalyst® M207;;Dichloro[1,3-bis(2,4,6-trimethylphenyl)-2-imidazolidinylidene](3-methyl-2-butenylidene) (tricyclohexylphosphine)ruthenium(II);253688-91-4;;34.421;fridge;door-3;;;Cl[Ru](Cl)=CC1=CC=CC=C1
+Hoveyda-Grubbs Catalyst®;;Stewart-Grubbs catalyst;927429-61-6;;34.421;fridge;door-3;;;Cl[Ru](Cl)=CC1=CC=CC=C1
+1-(dimethoxymethyl)-4-methoxybenzene;;p-Anisaldehyde dimethyl acetal;SAI583;;34.421;fridge;door-3;;;COC(OC)C1=CC=C(OC)C=C1
+4-(dimethoxymethyl)morpholine;;;;;34.421;fridge;door-3;;;COC(OC)N1CCOCC1
+1-(dimethoxymethyl)piperidine;;;;;34.421;fridge;door-3;;;COC(OC)N1CCCCC1
+1-(dimethoxymethyl)pyrrolidine;;;;;34.421;fridge;door-3;;;COC(OC)N1CCCC1
+ethyl 1-(diethoxymethyl)piperidine-4-carboxylate;;;;;34.421;fridge;door-3;;;CCOC(OCC)N1CCC(CC1)C(=O)OCC
+methyl 2-((dimethoxymethyl)(methyl)amino)acetate;;;;;34.421;fridge;door-3;;;COC(OC)N(C)CC(=O)OC
+tetrahydro-2H-oxazolo[2,3-b]oxazole;;;;;34.421;fridge;door-3;;;C1CN2CCOC2O1
+morpholine-4-carbaldehyde;;;;;34.421;fridge;door-3;;;O=CN1CCOCC1
+(1H-imidazol-4-yl)methanol hydrochloride;;;;;34.421;fridge;door-3;;;Cl.OCC1=CNC=N1
+Pluronic F-127;;;;;34.421;fridge;door-3;;;CC(COCCO)OCCO
+fluorodiphenylsilane;Ph2SiHF;Ph2SiHF;;;34.421;fridge;door-3;;;F[SiH](C1=CC=CC=C1)C1=CC=CC=C1
+Pd2(Dba)2*CHCl3;Pd2(Dba)2*CHCl3;Pd2(Dba)2*CHCl3;;;34.421;fridge;door-3;;;[Pd].[Pd].ClC(Cl)Cl.O=C(\C=C\C1=CC=CC=C1)/C=C/C1=CC=CC=C1.O=C(\C=C\C1=CC=CC=C1)/C=C/C1=CC=CC=C1
+Palladium(II) chloride;PdCl2;PdCl2;;;34.421;fridge;door-3;;;Cl[Pd]Cl
+Palladium(II) acetate;Pd(OAc)2;Pd(OAc)2;;;34.421;fridge;door-3;;;[Pd++].CC([O-])=O.CC([O-])=O
+PdCl2(TFP)2;PdCl2(TFP)2;PdCl2(TFP)2;Tri(2-furyl)phosphine;;34.421;fridge;door-3;;;O1C=CC=C1P(C1=CC=CO1)C1=CC=CO1
+Silver(I) oxide;Ag2O;Ag2O;;;34.421;fridge;door-3;;;O.[Ag].[Ag]
+Silver trifluoromethanesulfonate;AgOTf;AgOTf;;;34.421;fridge;door-3;;;[Ag+].[O-]S(=O)(=O)C(F)(F)F
+Gold(III) chloride;AuCl3;AuCl3;;;34.421;fridge;door-3;;;Cl[Au-]1(Cl)[Cl+][Au-](Cl)(Cl)[Cl+]1
+Silver carbonate;Ag2CO3;Ag2CO3;;;34.421;fridge;door-3;;;[Ag+].[Ag+].[O-]C([O-])=O
+Tetrakis(triphenylphosphine)palladium(0);Pd(PPh3)4;Pd(PPh3)4;;;34.421;fridge;door-3;;;C1=CC=C(C=C1)[P](C1=CC=CC=C1)(C1=CC=CC=C1)[Pd]([P](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)([P](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1)[P](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+Various Pd catalist and ligands;;;;;34.421;fridge;door-3;;;[Pd]
+Tri(2-furyl)phosphine;;;;;34.421;fridge;door-3;;;O1C=CC=C1P(C1=CC=CO1)C1=CC=CO1
+Tri-tert-butylphosphine;;;;;34.421;fridge;door-3;;;CC(C)(C)P(C(C)(C)C)C(C)(C)C
+N1,N1,N2-trimethylethane-1,2-diamine;;;;;34.421;fridge;door-3;;;CNCCN(C)C
+N1,N1,N3-trimethylpropane-1,3-diamine;;;;;34.421;fridge;door-3;;;CNCCCN(C)C
+1,3-Dichloro-1,1,3,3-tetraisopropyldisiloxane;;;;;34.421;fridge;door-3;;;CC(C)[Si](Cl)(O[Si](Cl)(C(C)C)C(C)C)C(C)C
+ethyl 2-(methyl(phenyl)amino)acetate;;N1361;;;34.421;fridge;door-4;;;O=C(OCC)CN(C)C1=CC=CC=C1
+2-(2,5-dimethoxy-4-((4-nitrophenyl)diazenyl)phenyl)diazen-1-ium zinc(II) chloride;;Fast Black K Salt hemi(zinc chloride) salt;2,5-Dimethoxy-4-([4-nitrophenyl]azo)benzenediazonium chloride hemi(zinc chloride) salt;;34.421;fridge;door-4;;64071-86-9;[Cl-].[Cl-].Cl[Zn]Cl.COc1cc([N+]#N)c(OC)cc1N=Nc2ccc(cc2)[N+]([O-])=O.COc3cc([N+]#N)c(OC)cc3N=Nc4ccc(cc4)[N+]([O-])=O
+3',6'-dihydroxy-3-oxo-3H-spiro[isobenzofuran-1,9'-xanthene]-6-carboxylic acid;;6-FAM;6-Carboxyfluorescein;2x;34.421;fridge;door-4;;3301-79-9;OC(=O)c1ccc2C(=O)OC3(c4ccc(O)cc4Oc5cc(O)ccc35)c2c1
+3',6'-dihydroxy-3-oxo-3H-spiro[isobenzofuran-1,9'-xanthene]-5-carboxylic acid + 3',6'-dihydroxy-3-oxo-3H-spiro[isobenzofuran-1,9'-xanthene]-6-carboxylic acid;;5-FAM + 6-FAM;6-Carboxyfluorescein + 5-Carboxyfluorescein ;;34.421;fridge;door-4;M2599+M2598;;OC(=O)c1ccc2C(=O)OC3(c4ccc(O)cc4Oc5cc(O)ccc35)c2c1 O=C1OC2(C3=C(OC4=C2C=CC(O)=C4)C=C(O)C=C3)C5=C1C=C(C(O)=O)C=C5
+(E)-2-methoxy-5-methyl-4-((4-methyl-2-nitrophenyl)diazenyl)benzenediazonium tetrachlorozincate(II);;Fast Corinth V zinc chloride double salt;;;34.421;fridge;door-4;;61966-14-1;Cl[Zn--](Cl)(Cl)Cl.COc1cc(\N=N\c2ccc(C)cc2[N+]([O-])=O)c(C)cc1[N+]#N.COc3cc(\N=N\c4ccc(C)cc4[N+]([O-])=O)c(C)cc3[N+]#N
+ethyl 2-(phenylamino)acetate;;N1354;;;34.421;fridge;door-4;;;O=C(OCC)CNC1=CC=CC=C1
+ethyl 7-hydroxy-2-oxo-2H-chromene-3-carboxylate;;ethyl 7-hydroxy-2-oxo-2H-chromene-3-carboxylate;3-Carbethoxy-7-hydroxycoumarin;;34.421;fridge;door-4;;6093-71-6;O=C1OC2=CC(O)=CC=C2C=C1C(OCC)=O
+2,2'-(phenylazanediyl)diethanol;;MID-405;;;34.421;fridge;door-4;;;OCCN(CCO)C1=CC=CC=C1
+2-(phenylamino)acetic acid;;N1363;;;34.421;fridge;door-4;;;O=C(O)CNC1=CC=CC=C1
+(E)-4-((4-(dimethylamino)phenyl)diazenyl)benzoic acid;;;;;34.421;fridge;door-4;;;CN(C)C(C=C1)=CC=C1/N=N/C2=CC=C(C(O)=O)C=C2
+6-amino-3',6'-dihydroxy-3H-spiro[isobenzofuran-1,9'-xanthen]-3-one;;6-Aminofluorescein;;3x;34.421;fridge;door-4;;51649-83-3;O=C1OC2(C3=C(OC4=C2C=CC(O)=C4)C=C(O)C=C3)C5=C1C=CC(N)=C5
+2-(6-(dimethylamino)-3-(dimethyliminio)-3H-xanthen-9-yl)-5-isothiocyanatobenzoate;;Tetramethylrhodamine isothiocyanate;TRITC;;34.421;fridge;door-4;;;CN(C)c1ccc2c(-c3ccc(cc3C([O-])=O)N=C=S)c4ccc(cc4[o+]c2c1)N(C)C
+4-(methyl(phenyl)amino)butanoic acid;;;;;34.421;fridge;door-4;;;CN(CCCC(O)=O)C1=CC=CC=C1
+acridine-9-carboxylic acid hydrate;;;;;34.421;fridge;door-4;;;[H]O[H].OC(=O)c1c2ccccc2nc3ccccc13
+(E)-2,5-dioxopyrrolidin-1-yl 4-((4-(dimethylamino)phenyl)diazenyl)benzoate;;4-(Dimethylamino)azobenzene-4?-carboxylic acid N-succinimidyl ester;Dabcyl-OSu;;34.421;fridge;door-4;;146998-31-4;CN(C)C1=CC=C(/N=N/C2=CC=C(C(ON3C(CCC3=O)=O)=O)C=C2)C=C1
+7-hydroxy-2H-chromen-2-one;;Umbelliferone;7-Hydroxycoumarin;;34.421;fridge;door-4;;93-35-6;Oc1ccc2C=CC(=O)Oc2c1
+5-(2,4-dihydroxyphenyl)pentanoic acid;;M2421;;;34.421;fridge;door-4;;;OC1=CC(O)=C(CCCCC(O)=O)C=C1
+9-isothiocyanatoacridine;;9-Acridinyl isothiocyanate;9-Acridine isothiocyanate;;34.421;fridge;door-4;;;S=C=NC1=C(C=CC=C2)C2=NC3=CC=CC=C31
+Zinc phthalocyanine;;;Phthalocyanine zinc salt;;34.421;fridge;door-4;;###############################################################################################################################################################################################################################################################;C1([N-]2)=C3C=CC=CC3=C2/N=C(C4=C5C=CC=C4)\N=C5/N=C(C6=C7C=CC=C6)\N=C7/N=C(C8=C/9C=CC=C8)\[N-]C9=N/1.[Zn+2]
+7-(diethylamino)-4-methyl-2H-chromen-2-one;;7-Diethylamino-4-methylcoumarin;;;34.421;fridge;door-4;;91-44-1;O=C1OC2=CC(N(CC)CC)=CC=C2C(C)=C1
+[1,1'-biphenyl]-2,4-diol;;4-Phenyl-1,3-Dihydroxybenzene;M2258 M2264;;34.421;fridge;door-4;;;OC1=CC(O)=CC=C1C2=CC=CC=C2
+1,3-bis((triisopropylsilyl)oxy)benzene;;;M2412;;34.421;fridge;door-4;;;CC(C)[Si](C(C)C)(C(C)C)OC1=CC(O[Si](C(C)C)(C(C)C)C(C)C)=CC=C1
+7-(ethylamino)-4-methyl-2H-chromen-2-one;;7-ethylamino-4-methylcoumarin;;;34.421;fridge;door-4;;;O=C1OC2=C(C=CC(NCC)=C2)C(C)=C1
+3',6'-dihydroxy-3H-spiro[isobenzofuran-1,9'-xanthen]-3-one;;Fluorescein;;;34.421;fridge;door-4;;;O=C1OC2(C3=C(OC4=C2C=CC(O)=C4)C=C(O)C=C3)C5=C1C=CC=C5
+(1R)-(6-methoxyquinolin-4-yl)((2S,4S,5R)-5-vinylquinuclidin-2-yl)methanol sulfate;;Quinine sulfate;;;34.421;fridge;door-4;;207671-44-1;O[C@H](C1=C2C=C(C=CC2=NC=C1)OC)[C@H]3N4CC[C@@]([H])(C3)[C@@H](C=C)C4.O=S(O)(O)=O
+9-(trifluoromethyl)-2,3,6,7-tetrahydro-1H-pyrano[2,3-f]pyrido[3,2,1-ij]quinolin-11(5H)-one;;Coumarin 153;2,3,6,7-Tetrahydro-9-(trifluoromethyl)-1H,5H,11H-[1]benzopyrano(6,7,8-ij)quinolizin-11-one;;34.421;fridge;door-4;;53518-18-6;FC(F)(C1=CC(OC2=C3CCCN4CCCC(C=C12)=C34)=O)F
+Rhodamine 101 inner salt;;;;;34.421;fridge;door-4;;116450-56-7;[O-]C(=O)c1ccccc1C2=C3C=C4CCC[N+]5=C4C(CCC5)=C3Oc6c7CCCN8CCCc(cc26)c78
+2-((4-methyl-2-oxo-2H-chromen-7-yl)oxy)acetic acid;;7-(Carboxymethoxy)-4-methylcoumarin;;;34.421;fridge;door-4;;64700-15-8;O=C1OC2=C(C=CC(OCC(O)=O)=C2)C(C)=C1
+N-(9-(2-carboxy-4-isothiocyanatophenyl)-6-(diethylamino)-3H-xanthen-3-ylidene)-N-ethylethanaminium chloride;;Rhodamine B isothiocyanate;RBITC;;34.421;fridge;door-4;;36877-69-7;CCN(c1cc(OC2=C/C(C=CC2=C3c4c(C(O)=O)cc(N=C=S)cc4)=[N+](CC)/CC)c3cc1)CC.[Cl-]
+5,9-bis(ethylamino)-10-methylbenzo[a]phenoxazin-7-ium perchlorate;;Oxazine 170 perchlorate;;;34.421;fridge;door-4;;62669-60-7;CCNC1=CC2=[O+]C3=C(N=C2C=C1C)C4=C(C=CC=C4)C(NCC)=C3.[O-]Cl(=O)(=O)=O
+hydrogen ethyl 2-[6-(ethylamino)-3-(ethylimino)-2,7-dimethyl-3H-xanthen-9-yl]benzoate chloride;;Rhodamine 6G;;;34.421;fridge;door-4;;989-38-8;CCNC1=CC(OC2=C/3)=C(C=C1C)C(C4=CC=CC=C4C(OCC)=O)=C2C=C(C)C3=N\CC.[H+].[Cl-]
+9-(2-carboxyphenyl)-3,6-bis(diethylamino)xanthylium chloride;;Rhodamine B;Tetraethylrhodamine;;34.421;fridge;door-4;;81-88-9;CCN(C1=CC=C2C([O+]=C3C=C(N(CC)CC)C=CC3=C2C4=CC=CC=C4C(O)=O)=C1)CC.[Cl-]
+2-(7-hydroxy-2-oxo-2H-chromen-4-yl)acetic acid;;7-Hydroxycoumarinyl-4-acetic acid;;;34.421;fridge;door-4;;6950-82-9;OC(CC1=CC(OC2=CC(O)=CC=C21)=O)=O
+3-amino-4-methylphenol;;;;;34.421;fridge;top;;;CC1=C(N)C=C(O)C=C1
+2-Amino-4-methylpyridine;;2-Amino-4-picoline;;;34.421;fridge;top;;;CC1=CC(N)=NC=C1
+3-(ethylamino)phenol;;;;;34.421;fridge;top;;;CCNC1=CC=CC(O)=C1
+Tetrazole;;;;;34.421;fridge;top;;;N1C=NN=N1
+tetrazole diisopropylamine;;;;;34.421;fridge;top;;;N1C=NN=N1.CC(C)NC(C)C
+Tributylphosphine;;;;;34.421;fridge;top;;;CCCCP(CCCC)CCCC
+(trimethoxymethyl)benzene;;;;;34.421;fridge;top;;;COC(OC)(OC)C1=CC=CC=C1
+5-Aminovaleric acid;;5-Aminopentanoic acid;;;34.421;fridge;top;;;NCCCCC(O)=O
+3-(dimethylamino)phenol;;;;;34.421;fridge;top;;;CN(C)C1=CC=CC(O)=C1
+6-aminohexan-1-ol;;;;;34.421;fridge;top;;;NCCCCCCO
+biotin with linker Epsilon-caproic acid;;M3129;biotin-C6-COOH;;34.421;fridge;top;;;[H][C@]12CS[C@@H](CCCCC(=O)NCCCCCC(O)=O)[C@@]1([H])NC(=O)N2
+biotin;;;;;34.421;fridge;top;;;OC(=O)CCCC[C@@H]1SC[C@@H]2NC(=O)N[C@H]12
+biotin methyl ester;;;;;34.421;fridge;top;;;COC(=O)CCCC[C@@H]1SC[C@@H]2NC(=O)N[C@H]12
+Thiodiglycol;;;;;34.421;fridge;top;;;OCCSCCO
+N,N,N?,N?-Tetramethyl-O-(N-succinimidyl)uronium tetrafluoroborate;;TSTU;;;34.421;fridge;top;;;F[B-](F)(F)F.CN(C)C(ON1C(=O)CCC1=O)=[N+](C)C
+4-chlorobenzene-1,3-diol;;;;;34.421;fridge;top;;;OC1=CC(O)=C(Cl)C=C1
+N-(6-aminohexyl)-2,2,2-trifluoroacetamide hydrochloride;;;;;34.421;fridge;top;;;Cl.NCCCCCCNC(=O)C(F)(F)F
+2-((2-(bis(4-methoxyphenyl)(phenyl)methoxy)ethyl)sulfonyl)ethanol;;;;;34.421;fridge;top;;;COC1=CC=C(C=C1)C(OCCS(=O)(=O)CCO)(C1=CC=CC=C1)C1=CC=C(OC)C=C1
+1,3,3-trimethyl-2-methyleneindoline;;;;;34.421;fridge;top;;;CN1C(=C)C(C)(C)C2=CC=CC=C12
+1,2,3,3-tetramethyl-3H-indol-1-ium perchlorate;;;;;34.421;fridge;top;;;[O-][Cl](=O)(=O)=O.CC1=[N+](C)C2=CC=CC=C2C1(C)C
+N-(4-hydroxycyclohexyl)hex-5-ynamide;;trans;;;34.421;fridge;top;;;OC1CCC(NC(CCCC#C)=O)CC1
+triethylammonium 4-(6-(dimethylamino)-3-(dimethyliminio)-3H-xanthen-9-yl)isophthalate;;5-Carboxytetramethylrhodamine ;5-TAMRA Et3N salt;;34.421;fridge;top;;150810-68-7;[O-]C(C1=C(C=CC(C([O-])=O)=C1)C2=C(C=C/3)C(OC4=C2C=CC(N(C)C)=C4)=CC3=[N+](C)\C)=O.CC[NH+](CC)CC
+triethylammonium 4-(6-(dimethylamino)-3-(dimethyliminio)-3H-xanthen-9-yl)isophthalate triethylammonium 2-(6-(dimethylamino)-3-(dimethyliminio)-3H-xanthen-9-yl)terephthalate;;5-Carboxytetramethylrhodamine 6-Carboxytetramethylrhodamine;5-TAMRA 6-TAMRA Et3N salt mixture;3 x;34.421;fridge;top;;98181-63-6;[O-]C(C1=C(C=C(C([O-])=O)C=C1)C2=C(C=C/3)C(OC4=C2C=CC(N(C)C)=C4)=CC3=[N+](C)\C)=O.CC[NH+](CC)CC [O-]C(C1=C(C=CC(C([O-])=O)=C1)C2=C(C=C/3)C(OC4=C2C=CC(N(C)C)=C4)=CC3=[N+](C)\C)=O.CC[NH+](CC)CC
+triethylammonium 2-(6-(dimethylamino)-3-(dimethyliminio)-3H-xanthen-9-yl)terephthalate;;6-Carboxytetramethylrhodamine;6-TAMRA Et3N salt;;34.421;fridge;top;;91809-67-5;[O-]C(C1=C(C=C(C([O-])=O)C=C1)C2=C(C=C/3)C(OC4=C2C=CC(N(C)C)=C4)=CC3=[N+](C)\C)=O.CC[NH+](CC)CC
+4',5'-dichloro-3',6'-dihydroxy-2',7'-dimethoxy-3-oxo-3H-spiro[isobenzofuran-1,9'-xanthene]-6-carboxylic acid;;6-JOE;;;34.421;fridge;top;;;ClC1=C(C(C(C2=C3C=CC(C(O)=O)=C2)(C4=CC(OC)=C5O)OC3=O)=CC(OC)=C1O)OC4=C5Cl
+4',5'-dichloro-3',6'-dihydroxy-2',7'-dimethoxy-3-oxo-3H-spiro[isobenzofuran-1,9'-xanthene]-5-carboxylic acid  4',5'-dichloro-3',6'-dihydroxy-2',7'-dimethoxy-3-oxo-3H-spiro[isobenzofuran-1,9'-xanthene]-6-carboxylic acid;;6-JOE 5-JOE mixture;;;34.421;fridge;top;;;ClC1=C(C(C(C2=C3C=C(C(O)=O)C=C2)(C4=CC(OC)=C5O)OC3=O)=CC(OC)=C1O)OC4=C5Cl 
+4',5'-dichloro-3',6'-dihydroxy-2',7'-dimethoxy-3-oxo-3H-spiro[isobenzofuran-1,9'-xanthene]-5-carboxylic acid;;5-JOE;;;34.421;fridge;top;;;ClC1=C(C(C(C2=C3C=C(C(O)=O)C=C2)(C4=CC(OC)=C5O)OC3=O)=CC(OC)=C1O)OC4=C5ClClC1=C(C(C(C2=C3C=CC(C(O)=O)=C2)(C4=CC(OC)=C5O)OC3=O)=CC(OC)=C1O)OC4=C5Cl
+2,5-dioxopyrrolidin-1-yl 4-((4-((E)-(2,5-dimethoxy-4-((E)-(4-nitrophenyl)diazenyl)phenyl)diazenyl)phenyl)(methyl)amino)butanoate;;BHQ-2-COOSu;;;34.421;fridge;top;Box, gryazny;;O=[N+](C1=CC=C(/N=N/C2=C(OC)C=C(/N=N/C3=CC=C(N(C)CCCC(ON4C(CCC4=O)=O)=O)C=C3)C(OC)=C2)C=C1)[O-]
+N-(2-azidoethyl)-4-((E)-(2,5-dimethoxy-4-((E)-(4-nitrophenyl)diazenyl)phenyl)diazenyl)-N-methylaniline;;BHQ-2-azide;M2426-2;;34.421;fridge;top;;;CN(CCN=[N+]=[N-])C1=CC=C(/N=N/C2=CC(OC)=C(/N=N/C3=CC=C([N+]([O-])=O)C=C3)C=C2OC)C=C1
+N-(2-azidoethyl)-4-((E)-(2-methoxy-5-methyl-4-((E)-(4-methyl-2-nitrophenyl)diazenyl)phenyl)diazenyl)-N-methylaniline;;BHQ-1-azide;M2427;;34.421;fridge;top;;;CN(CCN=[N+]=[N-])C1=CC=C(/N=N/C2=CC(C)=C(/N=N/C3=CC=C(C=C3[N+]([O-])=O)C)C=C2OC)C=C1
+4-((4-((E)-(2-methoxy-5-methyl-4-((E)-(4-methyl-2-nitrophenyl)diazenyl)phenyl)diazenyl)phenyl)(methyl)amino)butanoic acid;;BHQ-1-COOH;M2836;;34.421;fridge;top;;;CN(CCCC(O)=O)C1=CC=C(/N=N/C2=CC(C)=C(/N=N/C3=CC=C(C=C3[N+]([O-])=O)C)C=C2OC)C=C1
+2,5-dioxopyrrolidin-1-yl 4-((4-((E)-(2-methoxy-5-methyl-4-((E)-(4-methyl-2-nitrophenyl)diazenyl)phenyl)diazenyl)phenyl)(methyl)amino)butanoate;;BHQ-1-COOSu;M2839 N884.21 N884.22;;34.421;fridge;top;;;CN(CCCC(ON1C(CCC1=O)=O)=O)C2=CC=C(/N=N/C3=CC(C)=C(/N=N/C4=CC=C(C=C4[N+]([O-])=O)C)C=C3OC)C=C2
+2-(methyl(phenyl)amino)ethanol;;;M2410;;34.421;fridge;top;;;CN(CCO)C1=CC=CC=C1
+N-(2-azidoethyl)-N-methylaniline;;;;;34.421;fridge;top;;;CN(CCN=[N+]=[N-])C1=CC=CC=C1
+2-(methyl(phenyl)amino)acetic acid;;;N1362;;34.421;fridge;top;;;CN(CC(O)=O)C1=CC=CC=C1
+2-Amino-4-methylpyridine;;2-Amino-4-picoline;;;34.421;fridge;top;;;CC1=CC(N)=NC=C1
+5-Bromoindole;;;;500 g;34.428;fridge 1 ;1;;;BrC1=CC=C2NC=CC2=C1
+1-(3-Dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride;;EDC;N-(3-Dimethylaminopropyl)-N?-ethylcarbodiimide hydrochloride;500 g;34.428;fridge 1 ;1;;;Cl.CCN=C=NCCCN(C)C
+4-(Chloromethyl)-3,5-dimethylisoxazole;;;4-Chloromethyl-3,5-dimethylisoxazole;3 x 100 g;34.428;fridge 1 ;1;;;CC1=C(CCl)C(C)=NO1
+Chloroform-d;CDCl3;CDCl3;;;34.428;fridge 1 ;door 3;ABCR;;[2H]C(Cl)(Cl)Cl
+Dimethyl sulfoxide-d6;DMSO-d6;DMSO-d6;;2 x 500 g;34.430;fridge 1;door 1;;;C([S](C([2H])([2H])[2H])=O)([2H])([2H])[2H]
+1,4-Bis(diphenylphosphino)butane;;dppb;1,4-Butylenebis(diphenylphosphine);10 g;34.428;fridge 1 ;door 4;;;C(CCP(C1=CC=CC=C1)C1=CC=CC=C1)CP(C1=CC=CC=C1)C1=CC=CC=C1
+rac-BINAP;;2,2'-bis(diphenylphosphino)-1,1'-binaphthalene;(±)-BINAP;1 g;34.428;fridge 1 ;door 4;;;C1=CC=C(C=C1)P(C1=CC=CC=C1)C1=CC=C2C=CC=CC2=C1C1=C2C=CC=CC2=CC=C1P(C1=CC=CC=C1)C1=CC=CC=C1
+tBuXPhos;;di-tert-butyl(2',4',6'-triisopropyl-[1,1'-biphenyl]-2-yl)phosphine;2-Di-tert-butylphosphino-2?,4?,6?-triisopropylbiphenyl;1 g;34.428;fridge 1 ;door 4;;;CC(C)C1=CC(C(C)C)=C(C(=C1)C(C)C)C1=C(C=CC=C1)P(C(C)(C)C)C(C)(C)C
+CyJohnPhos;;[1,1'-biphenyl]-2-yldicyclohexylphosphine;2-(Dicyclohexylphosphino)biphenyl;1 g;34.428;fridge 1 ;door 4;;;C1CCC(CC1)P(C1CCCCC1)C1=C(C=CC=C1)C1=CC=CC=C1
+JohnPhos;;[1,1'-biphenyl]-2-yldi-tert-butylphosphine;2-(Di-tert-butylphosphino)biphenyl;1 g;34.428;fridge 1 ;door 4;;;CC(C)(C)P(C1=C(C=CC=C1)C1=CC=CC=C1)C(C)(C)C
+RuPhos;;dicyclohexyl(2',6'-diisopropoxy-[1,1'-biphenyl]-2-yl)phosphine;2-Dicyclohexylphosphino-2?,6?-diisopropoxybiphenyl;1 g;34.428;fridge 1 ;door 4;;;CC(C)OC1=CC=CC(OC(C)C)=C1C1=C(C=CC=C1)P(C1CCCCC1)C1CCCCC1
+t-BuDavePhos;;2'-(di-tert-butylphosphino)-N,N-dimethyl-[1,1'-biphenyl]-2-amine;2-Di-tert-butylphosphino-2?-(N,N-dimethylamino)biphenyl;1 g;34.428;fridge 1 ;door 4;;;CN(C)C1=C(C=CC=C1)C1=C(C=CC=C1)P(C(C)(C)C)C(C)(C)C
+4-((methylimino)methyl)phenol;;SAI-197;Schiff base SAI;;34.428;freezer 1 ;2;;;CN=CC1=CC=C(O)C=C1
+N-(naphthalen-1-ylmethylene)methanamine;;SN2;Schiff base SAI;;34.428;freezer 1 ;2;;;CN=CC1=C2C=CC=CC2=CC=C1
+N-(3,4-dimethoxybenzylidene)methanamine;;SN3;Schiff base SAI;;34.428;freezer 1 ;2;;;COC1=C(OC)C=C(C=NC)C=C1
+4-((benzylimino)methyl)phenol;;SAI-204;Schiff base SAI;;34.428;freezer 1 ;2;;;OC1=CC=C(C=NCC2=CC=CC=C2)C=C1
+N-(thiophen-2-ylmethylene)methanamine;;SAI-240 & SN4;Schiff base SAI;;34.428;freezer 1 ;2;;;CN=CC1=CC=CS1
+4-((pentylimino)methyl)phenol;;SAI-206;Schiff base SAI;;34.428;freezer 1 ;2;;;CCCCCN=CC1=CC=C(O)C=C1
+4-((methylimino)methyl)benzonitrile;;SAI-228;Schiff base SAI;;34.428;freezer 1 ;2;;;CN=CC1=CC=C(C=C1)C#N
+2,6-dimethoxy-4-((methylimino)methyl)phenol;;SAI-221;Schiff base SAI;;34.428;freezer 1 ;2;;;COC1=CC(C=NC)=CC(OC)=C1O
+N,N-dimethyl-4-((methylimino)methyl)aniline;;SAI-229;Schiff base SAI;;34.428;freezer 1 ;2;;;CN=CC1=CC=C(C=C1)N(C)C
+4-((cyclohexylimino)methyl)phenol;;SAI-205;Schiff base SAI;;34.428;freezer 1 ;2;;;OC1=CC=C(C=NC2CCCCC2)C=C1
+N-(2,5-dimethoxybenzylidene)methanamine;;SAI-220;Schiff base SAI;;34.428;freezer 1 ;2;;;COC1=CC(C=NC)=C(OC)C=C1
+N-benzylidenemethanamine;;SAI-213 & SN1;Schiff base SAI;;34.428;freezer 1 ;2;;;CN=CC1=CC=CC=C1
+N-(4-methoxybenzylidene)methanamine;;SAI-7, N-1335;Schiff base SAI;;34.428;freezer 1 ;2;;;COC1=CC=C(C=NC)C=C1
+N-(4-bromobenzylidene)methanamine;;SAI-227;Schiff base SAI;;34.428;freezer 1 ;2;;;CN=CC1=CC=C(Br)C=C1
+N-(4-((triisopropylsilyl)oxy)benzylidene)methanamine;;SAI-36;Schiff base SAI;;34.428;freezer 1 ;2;;;CN=CC1=CC=C(O[Si](C(C)C)(C(C)C)C(C)C)C=C1
+4-methoxybenzaldehyde O-methyl oxime;;MID-102;Schiff base MID;;34.428;freezer 1 ;2;;;COC1=CC=C(C=C1)/C=N/OC
+4-methoxybenzaldehyde O-(tert-butyldiphenylsilyl) oxime;;MID-99;Schiff base MID;;34.428;freezer 1 ;2;;;COC1=CC=C(/C=N/O[Si](C2=CC=CC=C2)(C3=CC=CC=C3)C(C)(C)C)C=C1
+N-(pyridin-4-ylmethylene)methanamine;;SAI-214;;;34.428;freezer 1 ;2;;;CN=CC1=CC=NC=C1
+diethyl ((phenylsulfonyl)methyl)phosphonate;;M2168;;;34.428;fridge 1 ;3;;;CCOP(=O)(CS(=O)(=O)C1=CC=CC=C1)OCC
+tert-butyl (3-(phenylsulfonyl)allyl)carbamate;;M2189.21;;;34.428;fridge 1 ;3;;;CC(C)(C)OC(=O)NCC=CS(=O)(=O)C1=CC=CC=C1
+methyl 2-(2-(4-bromophenyl)acetamido)acetate;;SAI-77;AcylGlycine;;34.428;fridge 1 ;3;;;COC(=O)CNC(=O)CC1=CC=C(Br)C=C1
+ethyl 2-benzamidoacetate;;;AcylGlycine;;34.428;fridge 1 ;3;;;CCOC(=O)CNC(=O)C1=CC=CC=C1
+methyl 2-(2-(naphthalen-1-yl)acetamido)acetate;;SAI-72;AcylGlycine;;34.428;fridge 1 ;3;;;COC(=O)CNC(=O)CC1=C2C=CC=CC2=CC=C1
+methyl 2-(3-phenylpropanamido)acetate;;SAI-190 SAI-3;AcylGlycine;;34.428;fridge 1 ;3;;;COC(=O)CNC(=O)CCC1=CC=CC=C1
+methyl 2-(2-(4-fluorophenyl)acetamido)acetate;;SAI-78;AcylGlycine;;34.428;fridge 1 ;3;;;COC(=O)CNC(=O)CC1=CC=C(F)C=C1
+methyl 2-(2-([1,1'-biphenyl]-4-yl)acetamido)acetate;;SAI-61;AcylGlycine;;34.428;fridge 1 ;3;;;COC(=O)CNC(=O)CC1=CC=C(C=C1)C1=CC=CC=C1
+methyl 2-(2-(3,4-dimethoxyphenyl)acetamido)acetate;;SAI-58;AcylGlycine;;34.428;fridge 1 ;3;;;COC(=O)CNC(=O)CC1=CC(OC)=C(OC)C=C1
+ethyl 2-(isonicotinamido)acetate;;N36;AcylGlycine;;34.428;fridge 1 ;3;;;CCOC(=O)CNC(=O)C1=CC=NC=C1
+methyl 2-(2-(3-methoxyphenyl)acetamido)acetate;;SAI-79;AcylGlycine;;34.428;fridge 1 ;3;;;COC(=O)CNC(=O)CC1=CC(OC)=CC=C1
+methyl 2-(2-(4-methoxyphenyl)acetamido)acetate;;SAI-85;AcylGlycine;;34.428;fridge 1 ;3;;;COC(=O)CNC(=O)CC1=CC=C(OC)C=C1
+ethyl 2-(2-(p-tolyl)acetamido)acetate;;M1286;;;34.428;fridge 1 ;3;;;CCOC(=O)CNC(=O)CC1=CC=C(C)C=C1
+2-(Trimethylsilyl)ethoxymethyl chloride;;SEM-Cl;(2-Chloromethoxyethyl)trimethylsilane;;34.428;fridge 1;1;;;C[Si](C)(C)CCOCCl
+2,3,4,5,6-Pentafluorobenzaldehyde;;pentafluorobenzaldehyde;;5 g;34.428;fridge 1;1;;;FC1=C(F)C(F)=C(C=O)C(F)=C1F
+2-Methylpyrimidine-5-carbaldehyde;;2-Methyl-pyrimidine-5-carbaldehyde;;5 g;34.428;fridge 1;1;;;CC1=NC=C(C=O)C=N1
+4-(Trifluoromethoxy)benzaldehyde;;?,?,?-Trifluoroanisaldehyde;;10 g;34.428;fridge 1;1;;;FC(F)(F)OC1=CC=C(C=O)C=C1
+2-Methylpyrimidine-4-carboxaldehyde;;;;1 g;34.428;fridge 1;1;;;CC1=NC(C=O)=CC=N1
+5-dimethylamino-thiophene-2-carbaldehyde;;AIBB-006949;;1 g;34.428;fridge 1;1;;;CN(C)C1=CC=C(S1)C=O
+5-Piperidin-1-yl-thiophene-2-carbaldehyde;;AIBB-014104;;1 g;34.428;fridge 1;1;;;O=CC1=CC=C(S1)N1CCCCC1
+quinoline-6-carbaldehyde;;AIBB-008101;;1 g;34.428;fridge 1;1;;;O=CC1=CC2=CC=CN=C2C=C1
+Dibenzo[b,d]furan-2-carboxaldehyde;;AIBB-010214;;1 g;34.428;fridge 1;1;;;O=CC1=CC2=C(OC3=C2C=CC=C3)C=C1
+Isoquinoline-5-carboxaldehyde;;AIBB-011852;;1 g;34.428;fridge 1;1;;;O=CC1=CC=CC2=CN=CC=C12
+Quinoxaline-5-carboxaldehyde;;AIBB-013286;5-Formylquinoxaline;1 g;34.428;fridge 1;1;;;O=CC1=CC=CC2=NC=CN=C12
+2-Quinolinecarboxaldehyde;;AIBB-021283;Quinoline-2-carboxaldehyde;1 g;34.428;fridge 1;1;;;O=CC1=CC=C2C=CC=CC2=N1
+N-(2-Formylquinolin-6-yl)acetamide;;AIBB-021974;;1 g;34.428;fridge 1;1;;;CC(=O)NC1=CC2=CC=C(C=O)N=C2C=C1
+2-(Dimethylamino)quinoline-3-carboxaldehyde;;AIBB-023331;;1 g;34.428;fridge 1;1;;;CN(C)C1=C(C=O)C=C2C=CC=CC2=N1
+3-Quinolinecarboxaldehyde;;AIBB-026370;Quinoline-3-carboxaldehyde;1 g;34.428;fridge 1;1;;;O=CC1=CN=C2C=CC=CC2=C1
+benzo[c][1,2,5]oxadiazole-5-carbaldehyde;;2,1,3-benzoxadiazole-5-carbaldehyde;;1 g;34.428;fridge 1;1;;;O=CC1=CC2=NON=C2C=C1
+3-Fluoro-4-methoxybenzaldehyde;;;;;34.428;fridge 1;1;;;COC1=C(F)C=C(C=O)C=C1
+4-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)piridine;;MID 353;pinacol piridineboronate;;34.428;fridge 1;1;;;CC1(C)OB(OC1(C)C)C1=CC=NC=C1
+Hydrogen peroxide;H2O2;medical Rushim;;1 L;34.428;fridge 1;1;;;OO
+2-Propynylamine;;;propargylamine;;34.428;fridge 1;1;;;NCC#C
+N-benzylprop-2-yn-1-amine;;;;;34.428;fridge 1;1;;;C#CCNCC1=CC=CC=C1
+3-((4-iodobenzyl)oxy)azetidine;;;;;34.428;fridge 1;1;;;IC(C=C1)=CC=C1COC2CNC2
+3-methoxyazetidine hydrochloride;;;;;34.428;fridge 1;1;;;COC1CNC1.Cl
+methyl pyrrolidine-3-carboxylate hydrochloride;;;;;34.428;fridge 1;1;;;O=C(OC)C1CNCC1.Cl
+pyrrolidin-3-ol;;;;;34.428;fridge 1;1;;;OC1CNCC1
+(3,5-bis(trifluoromethyl)phenyl)methanol;;MID 254;;;34.428;fridge 1;1;;;OCC1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F
+[2,2'-bithiophene]-5-carbaldehyde;;SA 736;;;34.428;fridge 1;1;;;O=CC1=CC=C(S1)C1=CC=CS1
+4-methoxy-6-methyl-2H-pyran-2-one;;;;1.5 g;34.428;fridge 1;1;;;COC1=CC(=O)OC(C)=C1
+2-(6-chloropyridin-2-yl)acetic acid;;;;1 g;34.428;fridge 1;1;;;OC(=O)CC1=NC(Cl)=CC=C1
+2-(6-bromopyridin-2-yl)acetic acid;;;;1 g;34.428;fridge 1;1;;;OC(=O)CC1=NC(Br)=CC=C1
+2-(5-methoxypyridin-2-yl)acetic acid;;;;200 mg;34.428;fridge 1;1;;;COC1=CN=C(CC(O)=O)C=C1
+2-(5-methylpyridin-2-yl)acetic acid;;;;100 mg;34.428;fridge 1;1;;;CC1=CN=C(CC(O)=O)C=C1
+2-(5-bromopyridin-2-yl)acetic acid;;;;1 g;34.428;fridge 1;1;;;OC(=O)CC1=NC=C(Br)C=C1
+ethyl 4-hydroxy-3-nitrobenzoate;;SAI - ?;;20 g;34.428;fridge 1;1;;;CCOC(=O)C1=CC(=C(O)C=C1)[N+]([O-])=O
+(4-(dimethylamino)-3-((triisopropylsilyl)oxy)phenyl)methanol;;SAI 150;;1 g;34.428;fridge 1;1;;;CC(C)[Si](OC1=C(C=CC(CO)=C1)N(C)C)(C(C)C)C(C)C
+ethyl 3,4-dihydro-2H-benzo[b][1,4]oxazine-6-carboxylate;;SAI 284;;200 mg;34.428;fridge 1;1;;;CCOC(=O)C1=CC=C2OCCNC2=C1
+methyl 4-(dimethylamino)-3-hydroxybenzoate;;SAI 146 + SAI 145;;500 mg + 200 mg;34.428;fridge 1;1;;;COC(=O)C1=CC(O)=C(C=C1)N(C)C
+n-Butyllithium solution in HEX, 1.6 M;;;BuLi;100 ml;34.428;fridge 1;1;;;[Li]CCCC
+n-Butyllithium solution in HEX, 2.5 M;;;BuLi;100 ml;34.428;fridge 1;1;;;[Li]CCCC
+Phenylboronic acid pinacol ester;;Pinacol phenylboronate;PhB(pin);4 ml;34.428;fridge 1;1;;;CC1(C)OB(OC1(C)C)C1=CC=CC=C1
+2-Chloro-4-hydroxybenzaldehyde;;;Cas 56962-11-9;5 g;34.428;fridge 1;1;;;OC1=CC(Cl)=C(C=O)C=C1
+4-Hydroxy-2,5-dimethyl-benzaldehyde;;;Cas 85231-15-8;5 g;34.428;fridge 1;1;;;CC1=CC(C=O)=C(C)C=C1O
+2-Methoxy-pyrimidine-5-carbaldehyde;;;Cas 90905-32-1;5 g;34.428;fridge 1;1;;;COC1=NC=C(C=O)C=N1
+4-Fluoro-3-(trifluoromethyl)benzaldehyde;;;Cas 67515-60-0;100 g;34.428;fridge 1;1;;;FC1=C(C=C(C=O)C=C1)C(F)(F)F
+3-(3,4-dimethoxyphenyl)propiolaldehyde;;3?(3,4?dimethoxyphenyl)prop?2?ynal;;1 g;34.428;fridge 1;1;;;COC1=C(OC)C=C(C=C1)C#CC=O
+3-(4-(dimethylamino)phenyl)acrylaldehyde;;;;1 g;34.428;fridge 1;1;;;CN(C)C1=CC=C(C=CC=O)C=C1
+3-Pyridinecarboxaldehyde;;Nicotinaldehyde;;2 g;34.428;fridge 1;1;;;O=CC1=CC=CN=C1
+2-(Dimethylamino)pyrimidine-5-carbaldehyde;;;;1 g;34.428;fridge 1;1;;;CN(C)C1=NC=C(C=O)C=N1
+5,8-dimethoxy-6-methyl-2-naphthaldehyde;;;;0.5 g;34.428;fridge 1;1;;;COC1=CC(C)=C(OC)C2=CC=C(C=O)C=C12
+hydrogen peroxide;35%;35%;ABCR;;34.428;fridge 1;2;;;OO
+Di-tert-butyl dicarbonate;;;Cas 24424-99-5;5 kg;34.428;fridge 1;2;;;CC(C)(C)OC(=O)OC(=O)OC(C)(C)C
+5-Bromoindole;;;Cas 10075-50-0;500 g;34.428;fridge 1;2;;;BrC1=CC=C2NC=CC2=C1
+1-(3-Dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride;;EDC;Cas 25952-53-8;500 g;34.428;fridge 1;2;;;Cl.CCN=C=NCCCN(C)C
+4-Chloromethyl-3,5-dimethylisoxazole;;;Cas 19788-37-5;300 g;34.428;fridge 1;2;;;CC1=C(CCl)C(C)=NO1
+Trifluoromethanesulfonic acid;;Triflic acid;Cas 1493-13-6;500 g;34.428;fridge 1;2;;;OS(=O)(=O)C(F)(F)F
+Diisopropyl azodicarboxylate;;DIAD;CAS 2446-83-5;~200 ml + 100 g;34.428;fridge 1;2;? + abcr;;CC(C)OC(=O)\N=N\C(=O)OC(C)C
+Methanesulfonyl chloride;MsCl;Methyl sulfonyl chloride;Mesyl chloride;50 ml;34.428;fridge 1;2;;;CS(Cl)(=O)=O
+diphenylmethanamine;;Benzhydrylamine;?-Aminodiphenylmethane;~100 + 900 + 1000;34.428;fridge 1;2;?+AK Sci+China;;NC(C1=CC=CC=C1)C1=CC=CC=C1
+(R)-2-amino-3-phenylpropan-1-ol;;(R)-(+)-2-Amino-3-phenyl-1-propanol;D-Phenylalaninol;100 g;34.428;fridge 1;box;;;N[C@H](CC1=CC=CC=C1)CO
+3,5-difluorophenol;;;CAS 2713-34-0;3 x 25 g;34.428;fridge 1;box;;;OC1=CC(F)=CC(F)=C1
+(Benzotriazol-1-yloxy)tris(dimethylamino)phosphonium hexafluorophosphate;;BOP;Castros reagent;;34.428;fridge 1;4;;;F[P-](F)(F)(F)(F)F.CN(C)[P+](ON1N=NC2=CC=CC=C12)(N(C)C)N(C)C
+1-(3-Dimethylaminopropyl)-3-ethylcarbodiimide hydrochloride;;;;;34.428;fridge 1;4;;;Cl.CCN=C=NCCCN(C)C
+N,N-Dimethylglycine;;(Dimethylamino)acetic acid;;;34.428;fridge 1;4;;;CN(C)CC(O)=O
+Phthaldialdehyde;;o-Phthalic dicarboxaldehyde;o-Phthalaldehyde;50 g;34.428;fridge 1;4;;;O=CC1=CC=CC=C1C=O
+1-methyl-1H-imidazole-2-carbaldehyde;;;;;34.428;fridge 1;4;;;CN1C=CN=C1C=O
+1-Cyclohexylpiperazine;;;;;34.428;fridge 1;4;;;C1CCC(CC1)N1CCNCC1
+5-Bromo-1H-indole-3-carbonitrile;;M3085;;;34.428;fridge 1;4;;;BrC1=CC2=C(NC=C2C#N)C=C1
+tert-butyl 2-((4-hydroxyphenyl)carbamoyl)pyrrolidine-1-carboxylate;;M3084;;;34.428;fridge 1;4;;;CC(C)(C)OC(=O)N1CCCC1C(=O)NC1=CC=C(O)C=C1
+(isocyanatomethyl)benzene;;Benzyl isocyanate;;;34.428;fridge 1;4;;;O=C=NCC1=CC=CC=C1
+1-isocyanato-4-methylbenzene;;p-Tolyl isocyanate;;;34.428;fridge 1;4;;;CC1=CC=C(C=C1)N=C=O
+isocyanatocyclohexane;;Cyclohexyl isocyanate;;;34.428;fridge 1;4;;;O=C=NC1CCCCC1
+1-bromo-4-isocyanatobenzene;;p-bromophenyl isocyanate;;;34.428;fridge 1;4;;;BrC1=CC=C(C=C1)N=C=O
+1-isocyanato-4-methoxybenzene;;p-methoxyphenyl isocyanate;;;34.428;fridge 1;4;;;COC1=CC=C(C=C1)N=C=O
+4-isocyanatobenzonitrile;;p-nitrophenyl isocyanate;;;34.428;fridge 1;4;;;O=C=NC1=CC=C(C=C1)C#N
+1-isocyanato-4-nitrobenzene;;p-cyanophenyl isocyanate;;;34.428;fridge 1;4;;;[O-][N+](=O)C1=CC=C(C=C1)N=C=O
+1-isocyanatonaphthalene;;1-napthylisocyanate;;;34.428;fridge 1;4;;;O=C=NC1=C2C=CC=CC2=CC=C1
+1,6-diisocyanatohexane;;;Cas 822-06-0;;34.428;fridge 1;4;;;O=C=NCCCCCCN=C=O
+diethyl 2,2-bis(hydroxymethyl)malonate;;;;;34.428;fridge 1;4;;;CCOC(=O)C(CO)(CO)C(=O)OCC
+N-Cyclohexyl-N?-(2-morpholinoethyl)carbodiimide metho-p-toluenesulfonate;;CME-CDI;;;34.428;fridge 1;4;;;CC1=CC=C(C=C1)S([O-])(=O)=O.C[N+]1(CCN=C=NC2CCCCC2)CCOCC1
+2,6-difluorophenol;;;Cas 28177-48-2;;34.428;fridge 1;4;;;OC1=C(F)C=CC=C1F
+Pentafluorophenyl trifluoroacetate;;;;;34.428;fridge 1;4;;;FC1=C(F)C(F)=C(OC(=O)C(F)(F)F)C(F)=C1F
+2,4-dichlorobenzene-1,3-diol;;;;;34.428;fridge 1;4;;;OC1=C(Cl)C(O)=C(Cl)C=C1
+Ethyl chloroformate;;Chloroformic acid ethyl ester;;;34.428;fridge 1;4;;;CCOC(Cl)=O
+Methyl chloroformate;;Chloroformic acid methyl ester;;;34.428;fridge 1;4;;;COC(Cl)=O
+tert-Butyl hydroperoxide (70% water);tBuOOH;tBuOOH;;~100 ML;34.428;fridge 1;4;ACROS;;CC(C)(C)OO
+tert-Butyl hydroperoxide (70% water);tBuOOH;tBuOOH;;100 ML;34.428;fridge 1;4;ALDRICH;;CC(C)(C)OO
+3,7-dihydroxy-2-naphthoic acid;;;;;34.428;fridge 1;4;;;OC(=O)C1=C(O)C=C2C=CC(O)=CC2=C1
+(4-fluorophenyl)hydrazine hydrochloride;;;;;34.428;fridge 1;4;;;Cl.NNC1=CC=C(F)C=C1
+1,2-Dihydroxy-3-methoxybenzene;;3-Methoxypyrocatechol;3-methoxybenzene-1,2-diol;20 g;34.428;fridge 1;4;;;COC1=CC=CC(O)=C1O
+2,2,2-trifluoroethyl formate;;;Cas 32042-38-9;;34.428;fridge 1;4;;;FC(F)(F)COC=O
+tert-butyl 2-(hydroxymethyl)morpholine-4-carboxylate;;4-Boc-2-hydroxymethyl-morpholine;Cas 135065-69-9;;34.428;fridge 1;4;;;CC(C)(C)OC(=O)N1CCOC(CO)C1
+2-bromo-4-(trifluoromethyl)pyridine;;;Cas 175205-81-9;;34.428;fridge 1;4;;;FC(F)(F)C1=CC(Br)=NC=C1
+1H-Pyrazole-4-sulfonyl chloride;;;Cas 288148-34-5;;34.428;fridge 1;4;;;ClS(=O)(=O)C1=CNN=C1
+1-tert-butyl 3-methyl 4-oxopiperidine-1,3-dicarboxylate;;;;;34.428;fridge 1;4;;;COC(=O)C1CN(CCC1=O)C(=O)OC(C)(C)C
+Benzyltriphenylphosphonium chloride;BnPPh3Cl;aKri 3-1;Cas 1100-88-5;;34.428;fridge 1;4;;;[Cl-].C(C1=CC=CC=C1)[P+](C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+O-(tert-Butyldiphenylsilyl)hydroxylamine;TBDPSONH2;TBDPSONH2;;;34.428;fridge 1;4;;;CC(C)(C)[Si](ON)(C1=CC=CC=C1)C1=CC=CC=C1
+(Z)-tert-butyl N,N'-diisopropylcarbamimidate;;;;;34.428;fridge 1;4;;;CC(C)N\C(OC(C)(C)C)=N\C(C)C
+diethyl dicarbonate;O(COOC2H5)2;Diethyl pyrocarbonate;Cas 1609-47-8;;34.428;fridge 1;4;;;CCOC(=O)OC(=O)OCC
+4-Phenylazophenol;;(E)-4-(phenyldiazenyl)phenol;Cas 1689-82-3;;34.428;fridge 1;4;SIGMA;;OC1=CC=C(C=C1)N=NC1=CC=CC=C1
+4-Phenylazophenol;;(E)-4-(phenyldiazenyl)phenol;;;34.428;fridge 1;4;?;;OC1=CC=C(C=C1)N=NC1=CC=CC=C1
+Spermine tetrahydrochloride;;N,N?-Bis(3-aminopropyl)-1,4-butanediamine tetrahydrochloride;N1,N1'-(butane-1,4-diyl)bis(propane-1,3-diamine) tetrahydrochloride;;34.428;fridge 1;4;;;Cl.Cl.Cl.Cl.NCCCNCCCCNCCCN
+Spermine;;N,N?-Bis(3-aminopropyl)-1,4-butanediamine tetrahydrochloride;N1,N1'-(butane-1,4-diyl)bis(propane-1,3-diamine);;34.428;fridge 1;4;;;NCCCNCCCCNCCCN
+Methyl trifluoroacetate;CF3COOMe;CF3COOMe;;;34.428;fridge 1;4;;;COC(=O)C(F)(F)F
+Methanol-d4;CD3OD;CD3OD;;;34.428;fridge 1;Door 3;;;[2H]OC([2H])([2H])[2H]
+Acetonitrile-d3;CD3CN;CD3CN;;;34.428;fridge 1;Door 3;;;[2H]C([2H])([2H])C#N
+Pyridine-d5;Py-d5;Py-d5;;;34.428;fridge 1;Door 3;;;[2H]C1=NC([2H])=C([2H])C([2H])=C1[2H]
+Trifluoroacetic acid-D1;CF3COOD;CF3COOD;;;34.428;fridge 1;Door 3;;;[2H]OC(=O)C(F)(F)F
+Acetone-d6;(CD3)2CO;(CD3)2CO;;;34.428;fridge 1;Door 3;;;[2H]C([2H])([2H])C(=O)C([2H])([2H])[2H]
+Methanol-d3;CD3OH;CD3OH;;;34.428;fridge 1;Door 3;;;[2H]C([2H])([2H])O
+Tetramethylurea;;;Tetramethylurea;1 L;34.427;UZKIY SHKAF;3;;;CN(C)C(=O)N(C)C
+1,1,1,3,3,3-Hexafluoro-2-propanol;;;1,1,1,3,3,3-Hexafluoro-2-propanol;200 ml;34.427;UZKIY SHKAF;3;;;OC(C(F)(F)F)C(F)(F)F
+1,2-Dichlorobenzene;;;1,2-Dichlorobenzene;100 ml + 1 L;34.427;UZKIY SHKAF;3;;;ClC1=C(Cl)C=CC=C1
+Butanone;;;Butanone;50 ml;34.427;UZKIY SHKAF;3;;;CCC(C)=O
+Dimethylacetamide;;;Dimethylacetamide;1 L;34.427;UZKIY SHKAF;3;;;CN(C)C(C)=O
+2,2,2-Trifluoroethanol;;;2,2,2-Trifluoroethanol;0.5 L;34.427;UZKIY SHKAF;3;;;OCC(F)(F)F
+Chlorobenzene;;;Chlorobenzene;100 ml;34.427;UZKIY SHKAF;3;;;ClC1=CC=CC=C1
+Sulfolane;;;Sulfolane;100 ml;34.427;UZKIY SHKAF;3;;;O=S1(=O)CCCC1
+Dibromomethane;;;Dibromomethane;100 ml;34.427;UZKIY SHKAF;3;;;BrCBr
+Hexamethylphosphoramide;HMPA;;Hexamethylphosphoramide;1 L;34.427;UZKIY SHKAF;3;Shit?;;CN(C)P(=O)(N(C)C)N(C)C
+2,2,2-Trifluoroethanol;CF3CH2OH;Trifluoroethyl alcohol;2,2,2-Trifluoroethanol;0.5 L;34.427;UZKIY SHKAF;3;;;OCC(F)(F)F
+Butan-1-ol;;n-Butanol;n-Butyl alcohol;;34.427;06.ÿםג;5;;;CCCCO
+Glycerin;;;;;34.427;06.ÿםג;5;;;OCC(O)CO
+dimethyl sulphate;Me2SO4;Dimethyl sulfate;Dimethyl ester of sulfuric acid;;34.427;06.ÿםג;5;;;COS(=O)(=O)OC
+Diethyl malonate;;Malonic acid diethyl ester;;;34.427;06.ÿםג;5;;;CCOC(=O)CC(=O)OCC
+ethyl 2-bromoacetate;;Ethyl bromoacetate;;;34.427;06.ÿםג;5;;;CCOC(=O)CBr
+Mol. sieves powder 4ְ ;MS 4A;MS 4A;;;34.427;06.ÿםג;5;;;[O--].[O--].[O--].[Al+3].[Al+3]
+Mol. sieves powder 3ְ ;MS 3A;MS 3A;;;34.427;06.ÿםג;5;;;[O--].[O--].[O--].[Al+3].[Al+3]
+Mol. sieves  4ְ ;MS 4A;MS 4A;;;34.427;06.ÿםג;5;;;[O--].[O--].[O--].[Al+3].[Al+3]
+Dimethyl carbonate;;;;;34.427;06.ÿםג;5;;;COC(=O)OC
+1,1-dimethoxy-N,N-dimethylmethanamine;DMFDMA;DMFDMA;;;34.427;06.ÿםג;5;;;COC(OC)N(C)C
+Mesitylene;;1,3,5-Trimethylbenzene;;;34.427;06.ÿםג;5;;;CC1=CC(C)=CC(C)=C1
+benzoyl chloride;PhCOCl;;PhCOCl;;34.427;06.ÿםג;5;;;ClC(=O)C1=CC=CC=C1
+benzyl chloride;BnCl;(chloromethyl)benzene;BnCl;;34.427;06.ÿםג;5;;;ClCC1=CC=CC=C1
+Benzyl bromide;BnBr;(bromomethyl)benzene;BnBr;;34.427;06.ÿםג;5;;;BrCC1=CC=CC=C1
+4-Fluorobenzyl bromide;4-F-BnBr;1-(bromomethyl)-4-fluorobenzene;4-F-BnBr;10 ml in 500 ml flask;34.427;06.ÿםג;5;;;FC1=CC=C(CBr)C=C1
+4-Methyl-2-pentanone;;Isobutyl methyl ketone; Isopropylacetone;1 L;34.427;06.ÿםג;5;;;CC(C)CC(C)=O
+Dimethyl malonate;;Malonic acid dimethyl ester;;200 ml;34.427;06.ÿםג;5;Handmade;;COC(=O)CC(=O)OC
+Dimethyl malonate;;Malonic acid dimethyl ester;;2 x 1 L;34.427;06.ÿםג;5;;;COC(=O)CC(=O)OC
+Methyl chloroacetate;;;;? + 2 x 1 L;34.427;06.ÿםג;5;;;COC(=O)CCl
+4-Methoxyphenol;;4-hydroxyanisol;;500 g;34.427;06.ÿםג;5;;;COC1=CC=C(O)C=C1
+crotyl bromide;;trans-1-brom-2-butene;;;34.427;06.ÿםג;5;;;C\C=C\CBr
+Chloroacetonitrile;;;;;34.427;06.ÿםג;5;;;ClCC#N
+Phosphorous oxide on inert support;P2O5;;P2O5;2.5 kg;34.427;06.ÿםג;5;ex-FLUKA;;O=P12OP3(=O)OP(=O)(O1)OP(=O)(O2)O3
+Phosphorous oxide ;P2O5;Phosphorus pentoxide;P2O5;<1 kg;34.427;06.ÿםג;5;aldrich;;O=P12OP3(=O)OP(=O)(O1)OP(=O)(O2)O3
+Oxalyl chloride;(COCl)2;Ethanedioyl dichloride;(COCl)2;2.5 kg;34.427;06.ÿםג;5;;;ClC(=O)C(Cl)=O
+Trityl chloride;;Chlorotriphenylmethane;Triphenylchloromethane;;34.427;06.ÿםג;5;;;ClC(C1=CC=CC=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+ethyl 4-bromobutanoate;;Ethyl 4-bromobutyrate;;20 g + 50 g + 250 g;34.427;06.ÿםג;5;Handmade(?) + abcr;;CCOC(=O)CCCBr
+1-bromo-4-(bromomethyl)benzene;;4-Bromobenzyl bromide;;~ 20 g;34.427;06.ÿםג;5;;;BrCC1=CC=C(Br)C=C1
+4-Methylbenzyl bromide;;;;;34.427;06.ÿםג;5;;;CC1=CC=C(CBr)C=C1
+1-(bromomethyl)-3-methylbenzene;;3-Methylbenzyl bromide;;;34.427;06.ÿםג;5;;;Cc1cccc(CBr)c1
+2-Bromopyridine;;;;;34.427;06.ÿםג;5;soviet;;BrC1=NC=CC=C1
+methyl 2-cyanoacetate;;Methyl cyanoacetate;;;34.427;06.ÿםג;5;;;O=C(OC)CC#N
+Ethyl 3-bromopropionate;;3-bromo-propionic acid ethyl ester;;2 x ;34.427;06.ÿםג;5;;;CCOC(=O)CCBr
+oleoyl chloride;;;M3290;;34.427;06.ÿםג;5;handmade;;CCCCCCCC\C=C/CCCCCCCC(Cl)=O
+"4-Bromobenzoic acid
+";;;;2 x;34.427;06.ÿםג;5;;;OC(=O)c1ccc(Br)cc1
+Thioacetamide;;;;;34.427;06.ÿםג;5;;;CC(N)=S
+Bromocyclopropane;;Cyclopropyl bromide;;;34.427;06.ÿםג;5;;;BrC1CC1
+2-oxo-2-phenylacetic acid;;Phenylglyoxylic acid;;;34.427;06.ÿםג;4;;;OC(=O)C(=O)c1ccccc1
+4-phenoxybenzoic acid;;;;;34.427;06.ÿםג;4;EPP.;;OC(=O)c1ccc(Oc2ccccc2)cc1
+4-Aminobenzoic acid;;;;;34.427;06.ÿםג;4;;;NC1=CC=C(C=C1)C(O)=O
+phenylmethanol;;Benzyl alcohol;;;34.427;06.ÿםג;4;;;OCC1=CC=CC=C1
+anthracen-9-ylmethanol;;9-Anthracenemethanol;9-(Hydroxymethyl)anthracene;;34.427;06.ÿםג;4;;;OCc1c2ccccc2cc3ccccc13
+D-Leucine Methyl Ester Hydrochloride;;SAI-772;H-D-Leu-OMe·HCl;;34.427;06.ÿםג;4;Handmade;;N[C@H](CC(C)C)C(OC)=O.[H]Cl
+4-(hydroxymethyl)phenol;;4-Hydroxybenzyl alcohol;;;34.427;06.ÿםג;4;;;OC1=CC=C(C=C1)CO
+(S)-methyl 2-amino-3-phenylpropanoate hydrochloride;;H-Phe-OMe * HCl;L-Phenylalanine methyl ester hydrochloride;;34.427;06.ÿםג;4;;;N[C@@H](CC1=CC=CC=C1)C(OC)=O.[H]Cl
+3-Aminobenzoic acid;;;;;34.427;06.ÿםג;4;;;NC1=CC=CC(=C1)C(O)=O
+Phenyl isocyanate;PhNCO;Isocyanatobenzene;PhNCO;;34.427;06.ÿםג;4;;;O=C=NC1=CC=CC=C1
+5-bromo-2-hydroxybenzonitrile;;5-Bromo-2-hydroxybenzonitrile;;;34.427;06.ÿםג;4;;;N#CC1=CC(Br)=CC=C1O
+1,5-Dibromopentane;;Pentamethylene dibromide;;2 x;34.427;06.ÿםג;4;;;BrCCCCCBr
+2-Methoxyethanol;;Ethylene glycol monomethyl ether;;;34.427;06.ÿםג;4;;;COCCO
+2-Ethoxyethanol;;Ethylene glycol monoethyl ether;;;34.427;06.ÿםג;4;;;CCOCCO
+N-Phenylurea;;Phenylcarbamide;;;34.427;06.ÿםג;4;;;NC(=O)NC1=CC=CC=C1
+Ethyl 2-oxocyclopentanecarboxylate;;;;;34.427;06.ÿםג;4;;;CCOC(=O)C1CCCC1=O
+p-Toluenesulfonic acid monohydrate;TsOH x H2O;TsOH x H2O;;;34.427;06.ÿםג;4;;;O.CC1=CC=C(C=C1)S(O)(=O)=O
+Aspartic acid;;Aminobutanedioic acid;Asp;;34.427;06.ÿםג;4;;;NC(CC(O)=O)C(O)=O
+Boc-Val-OH;;2-(Boc-amino)-3-methylbutyric acid;Boc-L-valine;;34.427;06.ÿםג;4;;;CC(C)C(NC(=O)OC(C)(C)C)C(O)=O
+2-Furoic acid;;Furan-2-carboxylic acid;;;34.427;06.ÿםג;4;;;OC(=O)C1=CC=CO1
+Acetanilide;;N-Phenylacetamide;;;34.427;06.ÿםג;4;;;CC(=O)NC1=CC=CC=C1
+Caffeic acid;; 3,4-Dihydroxybenzeneacrylic acid;3,4-Dihydroxycinnamic acid;;34.427;06.ÿםג;4;;;OC(=O)\C=C\C1=CC=C(O)C(O)=C1
+Dodecane;;;;;34.427;06.ÿםג;4;;;CCCCCCCCCCCC
+Octane;;;;;34.427;06.ÿםג;4;;;CCCCCCCC
+Hexadecane;;;;;34.427;06.ÿםג;4;;;CCCCCCCCCCCCCCCC
+Pentadecane;;;;;34.427;06.ÿםג;4;;;CCCCCCCCCCCCCCC
+Malononitrile;;Dicyanomethane;;;34.427;06.ÿםג;4;;;N#CCC#N
+Antracene;;Paranaphthalene;;;34.427;06.ÿםג;4;;;c1ccc2cc3ccccc3cc2c1
+Hexafluoroacetone sesquihydrate;;Perfluoroacetone;;;34.427;06.ÿםג;4;;;FC(F)(F)C(=O)C(F)(F)F
+HEPES;;N-(2-Hydroxyethyl)piperazine-N?-(2-ethanesulfonic acid);;;34.427;06.ÿםג;4;;;OCCN1CCN(CCS(O)(=O)=O)CC1
+4,5-dihydroxynaphthalene-2,7-disulfonic acid;;Chromotropic acid;;;34.427;06.ÿםג;4;;;O=S(C1=CC(O)=C2C(O)=CC(S(=O)(O)=O)=CC2=C1)(O)=O
+2-(((benzyloxy)carbonyl)amino)hexanoic acid;;Nor-Z-Leu;;;34.427;06.ÿםג;4;;;CCCCC(NC(=O)OCC1=CC=CC=C1)C(O)=O
+N-?-BOC-N-omega-Tosyl-L-arginine;;Boc-Arg(Tos)-OH;;;34.427;06.ÿםג;4;;;CC1=CC=C(C=C1)S(=O)(=O)NC(=N)NCCC[C@H](NC(=O)OC(C)(C)C)C(O)=O
+Giemsa's azur-eosin-methylene blue;;Azure eosin methylene blue;;;34.427;06.ÿםג;4;;;[Cl-].CN(C)C1=CC2=C(C=C1)N=C1C=CC(=[NH2+])C=C1S2
+glass beads;;;;;34.427;06.ÿםג;4;;;O=[Si]=O
+Nicotinamide;;"	3-pyridinecarboxamide";;;34.427;06.ÿםג;4;;;NC(=O)C1=CC=CN=C1
+ethyl benzylcarbamate;;;;;34.427;06.ÿםג;4;;;CCOC(=O)NCC1=CC=CC=C1
+4-Chlorobenzenesulfonic acid;;;;;34.427;06.ÿםג;4;;;OS(=O)(=O)C1=CC=C(Cl)C=C1
+3,3?-Diaminobenzidine tetrahydrochloride;;;;;34.427;06.ÿםג;4;;;Cl.Cl.Cl.Cl.NC1=C(N)C=C(C=C1)C1=CC(N)=C(N)C=C1
+Isonicotinic acid;;Pyridine-4-carboxylic acid;;;34.427;06.ÿםג;4;;;OC(=O)C1=CC=NC=C1
+Dowex 50WX1 50/100 mesh;;;;;34.427;06.ÿםג;4;;;CC1=CC=C(C)C=C1
+Myristic acid;;Tetradecanoic acid;;;34.427;06.ÿםג;4;;;CCCCCCCCCCCCCC(O)=O
+6-Chloro-7-deazapurine;;4-Chloro-7H-pyrrolo[2,3-d]pyrimidine;;;34.427;06.ÿםג;4;;;ClC1=C2C=CNC2=NC=N1
+Quinacrine dihydrochloride;;6-Chloro-9-(4-diethylamino-1-methylbutylamino)-2-methoxyacridine dihydrochloride;;;34.427;06.ÿםג;4;;;CCN(CC)CCC[C@H](C)NC1=C2C=C(OC)C=CC2=NC2=CC(Cl)=CC=C12
+Thiourea;;Thiocarbamide;;;34.427;06.ÿםג;4;;;NC(N)=S
+Picric acid;;2,4,6-Trinitrophenol;;;34.427;06.ÿםג;4;;;OC1=C(C=C(C=C1[N+]([O-])=O)[N+]([O-])=O)[N+]([O-])=O
+Flavianic acid;;2,4-Dinitro-1-naphthol-7-sulfonic acid;;;34.427;06.ÿםג;4;;;OC1=C(C=C(C2=CC=C(C=C12)S(O)(=O)=O)[N+]([O-])=O)[N+]([O-])=O
+ethyl 4-oxopiperidine-3-carboxylate hydrochloride;;;;;34.427;06.ÿםג;4;;;Cl.CCOC(=O)C1CNCCC1=O
+2,3-dichloropyridine;;;;;34.427;06.ÿםג;4;;;ClC1=CC=CN=C1Cl
+methyl 4-chloro-3-nitrobenzoate;;;;;34.427;06.ÿםג;4;;;COC(=O)C1=CC(=C(Cl)C=C1)[N+]([O-])=O
+phenyl 4-methoxybenzoate;;M939;;;34.427;06.ÿםג;4;;;COC1=CC=C(C=C1)C(=O)OC1=CC=CC=C1
+(4-hydroxyphenyl)(phenyl)methanone;;;;;34.427;06.ÿםג;4;;;OC1=CC=C(C=C1)C(=O)C1=CC=CC=C1
+tri(1H-pyrazol-1-yl)methane;;;;;34.427;06.ÿםג;4;;;C1=CN(N=C1)C(N1C=CC=N1)N1C=CC=N1
+tert-butyl bis(2-hydroxypropyl)carbamate;;M2643;;;34.427;06.ÿםג;4;;;CC(O)CN(CC(C)O)C(=O)OC(C)(C)C
+D-Tyrosine;; (R)-2-Amino-3-(4-hydroxyphenyl)propionic acid;;;34.427;06.ÿםג;4;;;N[C@H](CC1=CC=C(O)C=C1)C(O)=O
+L-Citrulline;;(S)-2-Amino-5-ureidopentanoic acid;;;34.427;06.ÿםג;4;;;N[C@@H](CCCNC(N)=O)C(O)=O
+potassium ethyl xanthate;;;;;34.427;06.ÿםג;4;;;[K+].CCOC([S-])=S
+Phenol;;Hydroxybenzene;;;34.427;06.ÿםג;4;;;OC1=CC=CC=C1
+Palmitic acid;;Hexadecanoic acid;;;34.427;06.ÿםג;4;;;CCCCCCCCCCCCCCCC(O)=O
+D-Leucine;;(R)-2-Amino-4-methylpentanoic acid;;;34.427;06.ÿםג;4;;;CC(C)C[C@@H](N)C(O)=O
+Uridine;;1-((2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)tetrahydrofuran-2-yl)pyrimidine-2,4(1H,3H)-dione;;;34.427;06.ÿםג;4;;;OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=CC(=O)NC1=O
+Thymidine;;;;;34.427;06.ÿםג;4;;;CC1=CN([C@H]2C[C@H](O)[C@@H](CO)O2)C(=O)NC1=O
+pyrimidine-2,4(1H,3H)-dione;;Uracil;;2 x ;34.427;06.ÿםג;4;;;O=C1NC=CC(=O)N1
+2?-Deoxyguanosine monohydrate;;9-(2-Deoxy-?-D-ribofuranosyl)guanine;;;34.427;06.ÿםג;4;;;O.NC1=NC2=C(N=CN2[C@H]2C[C@H](O)[C@@H](CO)O2)C(=O)N1
+D-Phenylalanine;;(R)-2-Amino-3-phenylpropionic acid;;;34.427;06.ÿםג;4;;;N[C@H](CC1=CC=CC=C1)C(O)=O
+6-Aminocaproic acid;;6-Aminohexanoic acid;;;34.427;06.ÿםג;4;;;NCCCCCC(O)=O
+L-Glutamine;;(S)-2,5-Diamino-5-oxopentanoic acid;;;34.427;06.ÿםג;4;;;N[C@@H](CCC(N)=O)C(O)=O
+L-Proline;;(S)-Pyrrolidine-2-carboxylic acid;;;34.427;06.ÿםג;4;;;OC(=O)[C@@H]1CCCN1
+Piperazine-2-carboxylic acid dihydrochloride;;piperazine-2-carboxylic acid dihydrochloride;(±)-Piperazine-2-carboxylic acid dihydrochloride;;34.427;06.ÿםג;4;;;O=C(O)C1NCCNC1.Cl.Cl
+1,4-bis(tert-butoxycarbonyl)piperazine-2-carboxylic acid;;1,4-Di-Boc-piperazine-2-carboxylic acid;M3289;;34.427;06.ÿםג;4;;;O=C(O)C1N(C(OC(C)(C)C)=O)CCN(C(OC(C)(C)C)=O)C1
+Hexachloro-1,3-butadiene;;Perchlorobutadiene;;;34.427;06.ÿםג;4;;;ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl
+3,4-Lutidine;;3,4-Dimethylpyridine;;;34.427;06.ÿםג;4;;;CC1=C(C)C=NC=C1
+1,3-Dimethylnaphthalene;;;;;34.427;06.ÿםג;4;;;CC1=CC(C)=C2C=CC=CC2=C1
+"Physostigmine sulfate
+";;;;;34.427;06.ÿםג;4;;;OS(O)(=O)=O.CNC(=O)OC1=CC=C2N(C)[C@H]3N(C)CC[C@@]3(C)C2=C1.CNC(=O)OC1=CC=C2N(C)[C@H]3N(C)CC[C@@]3(C)C2=C1
+(S)-5-(Hydroxymethyl)-2-pyrrolidinone;;L-Pyroglutaminol;;;34.427;06.ÿםג;4;;;OC[C@@H]1CCC(=O)N1
+2,4-thiazolidinedion;;thiazoline-2,4-dione;;;34.427;06.ÿםג;4;;;O=C1CSC(=O)N1
+Hydantoin;;;;;34.427;06.ÿםג;4;;;O=C1CNC(=O)N1
+RHODANINE;;2-thioxo-4-thiazolidinone;;;34.427;06.ÿםג;4;;;O=C1CSC(=S)N1
+2,4-oxazolidinedione;;Oxazolidinedione;;;34.427;06.ÿםג;4;;;O=C1COC(=O)N1
+2-Naphthol;; ?-Naphthol;2-Hydroxynaphthalene;;34.427;06.ÿםג;4;;;OC1=CC=C2C=CC=CC2=C1
+1-Naphthol;;?-naphthol;1-Hydroxynaphthalene;;34.427;06.ÿםג;4;;;OC1=C2C(C=CC=C2)=CC=C1
+2-Chloro-3-nitropyridine;;;;25g+1 kg;34.427;06.ÿםג;4;;;[O-][N+](=O)C1=CC=CN=C1Cl
+methyl 3-aminopropanoate hydrochloride;;Methyl 3-aminopropionate hydrochloride;?-Alanine methyl ester hydrochloride;;34.427;06.ÿםג;4;;;O=C(OC)CCN.[H]Cl
+1-Methyl-4-(propan-2-yl)benzene;;p-Cymene;;;34.427;06.ÿםג;4;;;CC(C1=CC=C(C)C=C1)C
+2-Chloro-3-pyridinecarbonitrile;;;;;34.427;06.ÿםג;4;;;ClC1=NC=CC=C1C#N
+5,10-dihydrophenazine;;;;;34.427;06.ÿםג;4;;;N1C2=CC=CC=C2NC2=CC=CC=C12
+1,2,3,5,6,7-hexahydropyrido[3,2,1-ij]quinoline;Julolidine;2,3,6,7-Tetrahydro-1H,5H-benzo[ij]quinolizine;Julolidine;;34.427;06.ÿםג;4;;;C1CN2CCCC3=C2C(C1)=CC=C3
+methyl 2-mercaptoacetate;HSCH2COOMe;Methyl thioglycolate;Methyl mercaptoacetate;;34.427;06.ÿםג;4;;;COC(=O)CS
+2,3-Dichloro-5,6-dicyano-p-benzoquinone;;DDQ;;;34.427;06.ÿםג;4;;;ClC1=C(Cl)C(=O)C(C#N)=C(C#N)C1=O
+Glycerin;;;;;34.427;06.ÿםג;4;;;OCC(O)CO
+Sarcosine;;N-Methylglycine;;;34.427;06.ÿםג;4;;;CNCC(O)=O
+D-(?)-Tartaric acid;;Tartaric acid;(2S,3S)-(?)-Tartaric acid;;34.427;06.ÿםג;4;;;OC(C(C(O)=O)O)C(O)=O
+4-amino-1,5-dimethyl-2-phenyl-1H-pyrazol-3(2H)-one;;4-Aminoantipyrine;4-Amino-2,3-dimethyl-1-phenyl-3-pyrazolin-5-one;1 kg + 100 g;34.427;06.ÿםג;4;;;O=C1C(N)=C(C)N(C)N1C2=CC=CC=C2
+1-Octanol;;octan-1-ol;;;34.427;06.ÿםג;4;sigma;;CCCCCCCCO
+1-Hexanol;;Hexan-1-ol;;;34.427;06.ÿםג;4;sigma;;CCCCCCO
+2,2'-oxydiethanol;;"Diethylene glycol
+";2-Hydroxyethyl ether;2 x 25 ml;34.427;06.ÿםג;4;sigma;;OCCOCCO
+2,2'-(ethane-1,2-diylbis(oxy))diethanol;;"Triethylene glycol
+";Triglycol;25 ml;34.427;06.ÿםג;4;sigma;;OCCOCCOCCO
+L-Cysteine;;(R)-2-amino-3-mercaptopropanoic acid;;;34.427;06.ÿםג;4;;;N[C@@H](CS)C(O)=O
+tetrahydropyrimidine-2(1H)-thione;;3,4,5,6-Tetrahydro-2-pyrimidinethiol;1,4,5,6-tetrahydropyrimidine-2-thiol;;34.427;06.ÿםג;4;;;S=C1NCCCN1
+2-cyanoethanethioamide;;2-Cyanothioacetamide;;;34.427;06.ÿםג;4;;;NC(=S)CC#N
+Sodium perchlorate;;NaClO4;;;34.427;06.ÿםג;2;;;[Na+].[O-][Cl](=O)(=O)=O
+Manganese(II) sulfate pentahydrate;MnSO4*5H2O;MnSO4*5H2O;;;34.427;06.ÿםג;2;;;O.O.O.O.O.[Mn++].[O-]S([O-])(=O)=O
+Ytterbium(III) nitrate hydrate;Yb(NO3)3;Yb(NO3)3;;;34.427;06.ÿםג;2;;;O.[Yb].[O-][N+]([O-])=O
+Praseodymium(III) Carbonate;Pr2(CO3)3;Pr2(CO3)3;;;34.427;06.ÿםג;2;;;[Pr+3].[O-]C([O-])=O
+Gadolinium Carbonate;Gd2(CO3)3;Gd2(CO3)3;;;34.427;06.ÿםג;2;;;[Gd+3].[O-]C([O-])=O
+Europium(III) formate;Eu(OOCH)3;Eu(OOCH)3;;;34.427;06.ÿםג;2;;;[Eu+3].[O-]C=O.[O-]C=O.[O-]C=O
+Yttrium selenate;Y2(SeO4)3;Y2(SeO4)3;;;34.427;06.ÿםג;2;;;[Y+3].O[Se](O)(=O)=O
+Cobalt chloride;CoCl2;CoCl2;;;34.427;06.ÿםג;2;"Blue box ""ּו salt""";;[Cl-].[Cl-].[Co++]
+Cobalt(II) acetate hydrate;ׁo(OAc)2*H2O;ׁo(OAc)2*H2O;;;34.427;06.ÿםג;2;"Blue box ""ּו salt""";;O.[Co++].CC([O-])=O
+Nickel(II) sulfate heptahydrate;NiSO4*7H2O;NiSO4*7H2O;;;34.427;06.ÿםג;2;"Blue box ""ּו salt""";;O.O.O.O.O.O.O.[Ni++].[O-]S([O-])(=O)=O
+Iron(II) sulfate heptahydrate;FeSO4*7H2O;FeSO4*7H2O;;;34.427;06.ÿםג;2;"Blue box ""ּו salt""";;O.O.O.O.O.O.O.[Fe].[O-]S([O-])(=O)=O
+Ammonium dihydrogen phosphate;(NH4)H2PO4;Ammonium phosphate monobasic;mono-Ammonium phosphate;;34.427;06.ÿםג;2;Rushim;;[NH4+].OP(O)([O-])=O
+Whatman DE32 Anion Exchange ;;;;;34.427;06.ÿםג;2;;;CCN(CC)CCOC
+Ammonium persulfate;(NH4)2S2O8;Ammonium peroxydisulfate;APS;;34.427;06.ÿםג;2;;;N.N.OS(=O)(=O)OOS(O)(=O)=O
+Sodium tungstate;Na2WO4*2H2O;Na2WO4*2H2O;;;34.427;06.ÿםג;2;;;[Na+].[Na+].[O-][W]([O-])(=O)=O
+"Magnesium chloride anhydrous
+";MgCl2;MgCl2;;;34.427;06.ÿםג;2;anhydrous;;[Mg++].[Cl-].[Cl-]
+Potassium iodide;KI;KI;;;34.427;06.ÿםג;2;Soviet;;[K+].[I-]
+Sodium dithionite;Na2S2O4;Na2S2O4;;2 x 1 kg;34.427;06.ÿםג;2;rushim;;[Na+].[Na+].[O-]S(=O)S([O-])=O
+Sodium molybdate dihydrate;Na2MoO4 x H2O;Na2MoO4 x H2O;;;34.427;06.ÿםג;2;;;O.O.[Na+].[Na+].[O-][Mo]([O-])(=O)=O
+Sodium dithionite;Na2S2O4;Na2S2O4;;1 kg;34.427;06.ÿםג;2;china;;[Na+].[Na+].[O-]S(=O)S([O-])=O
+Potassium sodium tartrate tetrahydrate;;KOCOCH(OH)CH(OH)COONa · 4H2O;Rochelle salt;1 kg;34.427;06.ÿםג;2;Soviet;;O.O.O.O.[Na+].[K+].OC(C(O)C([O-])=O)C([O-])=O
+Potassium sodium tartrate tetrahydrate;;KOCOCH(OH)CH(OH)COONa · 4H2O;Rochelle salt;2 x 1 kg;34.427;06.ÿםג;2;rushim;;O.O.O.O.[Na+].[K+].OC(C(O)C([O-])=O)C([O-])=O
+Sodium sulfite;Na2SO3;Na2SO3;;2 kg;34.427;06.ÿםג;2;rushim;;[Na+].[Na+].[O-]S([O-])=O
+Sodium thiosulfate;Na2S2O3.xH2O;Na2S2O3.xH2O;;;34.427;06.ÿםג;2;;;O.O.O.O.O.[Na+].[Na+].[O-]S([S-])(=O)=O
+sodium azide;NaN3;NaN3;;;34.427;06.ÿםג;2;1 kg + 3 x ? acros;;[Na+].[N-]=[N+]=[N-]
+Ethylenediaminetetraacetic acid (di sodium);EDTA;Trilon B;EDTA disodium salt dihydrate;;34.427;06.ÿםג;2;3x;;[H+].[H+].O.O.[Na+].[Na+].[O-]C(=O)CN(CCN(CC([O-])=O)CC([O-])=O)CC([O-])=O
+Lithium hydroxide;LiOH*H2O;;;;34.427;06.ÿםג;2;;;[Li+].[OH-]
+Zinc;Zn;;Zn;3 x 1 kg;34.427;06.ÿםג;2;RUSHIM;;[Zn]
+"Potassium cyanate
+";KOCN;;KOCN;;34.427;06.ÿםג;2;;;[K+].[O-]C#N
+Potassium peroxymonosulfate;KHSO5;Potassium peroxysulfate;oxone;100 g;34.427;06.ÿםג;2;?50%;;[K+].OOS([O-])(=O)=O
+Nickel(II) chloride;NiCl2*6H2O;Nickelous chloride;;;34.427;06.ÿםג;2;;;Cl[Ni]Cl
+Iron(II) chloride;FeCl2*4H2O;Ferrous chloride;FeCl2*4H2O;;34.427;06.ÿםג;2;;;O.O.O.O.[Cl-].[Cl-].[Fe++]
+"Manganese(IV) oxide
+";;Manganese dioxide;MnO2;;34.427;06.ÿםג;2;handmade 05.2021;;O=[Mn]=O
+Sodium cyanate;;Sodium isocyanate;Zassol;;34.427;06.ÿםג;2;;;[Na+].[O-]C#N
+Potassium phosphate monobasic;KH2PO4;Potassium dihydrogen phosphate;KH2PO4;2 x 1 kg;34.427;06.ÿםג;2;;;[K+].OP(O)([O-])=O
+Sodium phosphate dibasic dodecahydrate;Na2HPO4 · 12H2O;Disodium hydrogen phosphate dodecahydrate;Na2HPO4 · 12H2O;2 kg;34.427;06.ÿםג;2;;;O.O.O.O.O.O.O.O.O.O.O.O.[Na+].[Na+].OP([O-])([O-])=O
+Sodium phosphate dibasic dodecahydrate;Na2HPO4 · 2H2O;Disodium hydrogen phosphate dihydrate;Na2HPO4 · 2H2O;1 kg;34.427;06.ÿםג;2;;;O.O.[Na+].[Na+].OP([O-])([O-])=O
+Sodium dihydrophosphate;NaH2PO4*2H2O;NaH2PO4*2H2O;NaH2PO4*2H2O;1 kg;34.427;06.ÿםג;2;;;[Na+].OP(O)([O-])=O
+Potassium bicarbonate;KHCO3;potassium hydrogen carbonate;KHCO3;0.5 kg;34.427;06.ÿםג;2;;;[K+].OC([O-])=O
+Sodium phosphate dibasic anhydrous;Na2HPO4 ;Disodium hydrogen phosphate anhydrous;Na2HPO4  anhydrous;1 kg;34.427;06.ÿםג;2;anhydrous;;"[Na+].[Na+].O[P]([O-])([O-])=O
+"
+Sodium dihydrogen phosphate anhydrous;NaH2PO4;Sodium dihydrophosphate anhydrous;NaH2PO4 anhydrous;1 kg;34.427;06.ÿםג;2;anhydrous;;"[Na+].O[P](O)([O-])=O
+"
+"Manganese(IV) oxide
+";MnO2;Manganese dioxide;MnO2;;34.427;06.ÿםג;2;sigma 04.08.21;;O=[Mn]=O
+ammonium acetate;NH4OAc;;NH4OAc;;34.427;06.ÿםג;2;REAhIM;;[NH4+].CC([O-])=O
+Potassium dichromate;K2Cr2O7;potassium bichromate;K2Cr2O7;;34.427;06.ÿםג;2;;;[K+].[K+].[O-][Cr](=O)(=O)O[Cr]([O-])(=O)=O
+1H-indene-1,2,3-trione;;Ninhydrin;2,2-Dihydroxy-1,3-indanedione;;34.427;06.ÿםג;3;;;O=C1C(=O)C2=CC=CC=C2C1=O
+bis(4-(dimethylamino)phenyl)(pyridin-2-yl)methanol;;;;;34.427;06.ÿםג;3;;;CN(C)C1=CC=C(C=C1)C(O)(C1=CC=C(C=C1)N(C)C)C1=NC=CC=C1
+N-Acetylglycine;;Acetamidoacetic acid;Aceturic acid;2 x 500 g;34.427;06.ÿםג;3;;;CC(=O)NCC(O)=O
+[1,1'-biphenyl]-4-carboxylic acid;;;;;34.427;06.ÿםג;3;;;OC(=O)C1=CC=C(C=C1)C1=CC=CC=C1
+malonic acid;;;;1 kg + ? g;34.427;06.ÿםג;3;;;OC(=O)CC(O)=O
+2,2,2-trichloroethanol;;2,2,2-trichloroethanol;Trichloroethyl alcohol;;34.427;06.ÿםג;3;;;ClC(Cl)(Cl)CO
+phenazin-1-ol;;;;;34.427;06.ÿםג;3;;;OC1=CC=CC2=NC3=CC=CC=C3N=C12
+1,12-Dodecanediol;;;;;34.427;06.ÿםג;3;;5675-51-4;OCCCCCCCCCCCCO
+(2S,4R)-ethyl 4-hydroxypyrrolidine-2-carboxylate hydrochloride;;trans-4-Hydroxy-L-proline ethyl ester hydrochloride;;;34.427;06.ÿםג;3;;;O[C@@H]1C[C@@H](C(OCC)=O)NC1.Cl
+(2S,4R)-4-hydroxypyrrolidine-2-carboxylic acid;;Hydroxyproline; trans-4-Hydroxy-L-proline;;34.427;06.ÿםג;3;;;O=C([C@H]1NC[C@H](O)C1)O
+methyl (2S,4R)-4-hydroxypyrrolidine-2-carboxylate hydrochloride;;Trans-4-Hydroxy-L-Proline Methyl Ester hydrochloride;;;34.427;06.ÿםג;3;;;O=C([C@H]1NC[C@H](O)C1)OC.Cl
+2,5-diaminopentanoic acid hydrochloride;;Ornithine monohydrochloride;;;34.427;06.ÿםג;3;;;NC(CCCN)C(O)=O.[H]Cl
+4-methoxy-N,N-dimethylaniline;;;SAI849;;34.427;06.ÿםג;3;;;CN(C)C1=CC=C(OC)C=C1
+(3R,4R)-pyrrolidine-3,4-diol;;pyrrolidine-3,4-diol;;;34.427;06.ÿםג;3;;;O[C@H]1[C@H](O)CNC1
+(4-methoxyphenyl)(phenyl)(pyridin-2-yl)methanol;;;;;34.427;06.ÿםג;3;;;COC1=CC=C(C=C1)C(O)(C1=CC=CC=C1)C1=NC=CC=C1
+3-bromophenol;;;;;34.427;06.ÿםג;3;;;OC1=CC(Br)=CC=C1
+4-Toluenesulfonyl chloride;;TsCl;tosyl chloride;4 x 1 kg;34.427;06.ÿםג;3;;;CC1=CC=C(C=C1)S(Cl)(=O)=O
+Ethyl oxoacetate solution 50% toluene;;;Ethyl glyoxalate solution 50% toluene;2 x 250 ml;34.427;06.ÿםג;3;;;CCOC(=O)C=O
+Nitromethane;CH3NO2;;;;34.427;06.ÿםג;3;;;C[N+]([O-])=O
+4-chloro-3-nitropyridine;;;;;34.427;06.ÿםג;3;;;[O-][N+](=O)C1=C(Cl)C=CN=C1
+2,2-Dimethoxypropane;;Acetone dimethyl acetal;;;34.427;06.ÿםג;3;;;COC(C)(C)OC
+diisopropyl malonate;;;;;34.427;06.ÿםג;3;;;CC(C)OC(=O)CC(=O)OC(C)C
+4-Aminophenol;;4-Hydroxyaniline;p-aminophenol;1 kg;34.427;06.ÿםג;3;;;NC1=CC=C(O)C=C1
+N,N-Dimethylglycine hydrochloride;;N,N-Dimethylaminoacetic acid hydrochloride;N,N-Dimethylglycine hydrochloride;500 g;34.427;06.ÿםג;3;;;Cl.CN(C)CC(O)=O
+N-(tert-Butoxycarbonyl)-L-proline;Boc-Pro-OH;Boc-L-proline;Boc-Pro-OH;500 g;34.427;06.ÿםג;3;;;CC(C)(C)OC(=O)N1CCC[C@H]1C(O)=O
+Pyrogallol;;benzene-1,2,3-triol;1,2,3-Trihydroxybenzene;? g + 500 g;34.427;06.ÿםג;3;;;OC1=CC=CC(O)=C1O
+Quinacrine dihydrochloride;; 6-Chloro-9-(4-diethylamino-1-methylbutylamino)-2-methoxyacridine dihydrochloride;;;34.427;06.ÿםג;3;;;CCN(CC)CCC[C@H](C)NC1=C2C=C(OC)C=CC2=NC2=CC(Cl)=CC=C12
+pyrrolidine-3,4-diol;;;;;34.427;06.ÿםג;3;;;OC1CNCC1O
+2-amino-2-(hydroxymethyl)propane-1,3-diol;;Tris;Tris base;;34.427;06.ÿםג;3;For buffers;;NC(CO)(CO)CO
+ethyl 2-(diethoxyphosphoryl)acetate;;Triethyl phosphonoacetate;;300 ml;34.427;06.ÿםג;3;;;CCOC(=O)CP(=O)(OCC)OCC
+trimethylsilyl N-(trimethylsilyl)acetimidate;;Bis(trimethylsilyl)acetamide;BSA;;34.427;06.ÿםג;3;;;C/C(O[Si](C)(C)C)=N\[Si](C)(C)C
+Hexamethyldisiloxane;TMS2O;Bis(trimethylsilyl) oxide;;? + 2 x 500 g;34.427;06.ÿםג;3;;;C[Si](C)(C)O[Si](C)(C)C
+2-methoxyphenol;;Guaiacol;;;34.427;06.ÿםג;3;;;COC1=C(O)C=CC=C1
+Bis(trimethylsilyl)amine;;hexamethyldisilazane;1,1,1,3,3,3-Hexamethyldisilazane;3 x 500 ml;34.427;06.ÿםג;3;;;C[Si](C)(C)N[Si](C)(C)C
+Methylurea;;;;200 g;34.427;06.ÿםג;3;;;CNC(N)=O
+N,N-dimethylurea;;;;200 g;34.427;06.ÿםג;3;;;CN(C)C(N)=O
+Ethylurea;;;;200 g;34.427;06.ÿםג;3;;;CCNC(N)=O
+Butylurea;;;;200 g;34.427;06.ÿםג;3;;;CCCCNC(N)=O
+Phenylurea;;;;200 g;34.427;06.ÿםג;3;;;NC(=O)NC1=CC=CC=C1
+Benzylurea;;;;200 g;34.427;06.ÿםג;3;;;NC(=O)NCC1=CC=CC=C1
+methyl 4-hydroxybenzoate;;Methyl paraben;p-Hydroxybenzoic acid methyl ester;2 x;34.427;06.ÿםג;3;;;COC(=O)C1=CC=C(O)C=C1
+methyl 4-((triisopropylsilyl)oxy)benzoate;;;;;34.427;06.ÿםג;3;;;COC(=O)C1=CC=C(O[Si](C(C)C)(C(C)C)C(C)C)C=C1
+1-(4-((tert-butyldiphenylsilyl)oxy)phenyl)ethanone;;;am222;;34.427;06.ÿםג;3;;;CC(=O)C1=CC=C(O[Si](C2=CC=CC=C2)(C2=CC=CC=C2)C(C)(C)C)C=C1
+(4-bromophenyl)urea;;;;100 g;34.427;06.ÿםג;3;hand made;;NC(=O)NC1=CC=C(Br)C=C1
+3,6-dibromo-9H-carbazole;;SAI571;3,6-Dibromocarbazole;;34.427;06.ÿםג;3;;;BrC1=CC=C2NC3=C(C=C(Br)C=C3)C2=C1
+1-(4-methoxyphenyl)ethanone;;4'-Methoxyacetophenone;;;34.427;06.ÿםג;3;;;COC1=CC=C(C=C1)C(C)=O
+2-benzamidoacetic acid;;;;;34.427;06.ÿםג;3;;;OC(=O)CNC(=O)C1=CC=CC=C1
+isothiocyanatobenzene;;Phenyl isothiocyanate;PITC;;34.427;06.ÿםג;3;Soviet;;S=C=NC1=CC=CC=C1
+1-Hexan-1-ol;;1-Hexanol;;;34.427;05.ÿםג;2;For spectroscopy;;CCCCCCO
+Pentan-1-ol;;1-pentanol;Amyl alcohol;;34.427;05.ÿםג;2;For spectroscopy;;CCCCCO
+Cyclohexanone;;;;;34.427;05.ÿםג;2;For spectroscopy;;O=C1CCCCC1
+Cyclohexanol;;Cyclohexyl Alcohol;;;34.427;05.ÿםג;2;For spectroscopy;;OC1CCCCC1
+3-Methylbutan-1-ol;;isoamyl alcohol;3-methyl-1-butanol;;34.427;05.ÿםג;2;For spectroscopy;;CC(C)CCO
+2-Methylpropan-2-ol;;tert-Butyl alcohol;t-BuOH;;34.427;05.ÿםג;2;For spectroscopy;;CC(C)(C)O
+2-methylbutan-2-ol;;tert-Pentyl alcohol;;;34.427;05.ÿםג;2;For spectroscopy;;CCC(C)(C)O
+Butan-1-ol;;n-Butanol;n-Butyl alcohol;;34.427;05.ÿםג;2;For spectroscopy;;CCCCO
+Butan-2-ol;;2-Butanol;sec-butanol;;34.427;05.ÿםג;2;For spectroscopy;;CCC(C)O
+2-Methylpropan-1-ol;;Isobutyl alcohol;Isobutanol;;34.427;05.ÿםג;2;For spectroscopy;;CC(C)CO
+2,2,2-Trifluoroethan-1-ol;;2,2,2-Trifluoroethanol;;;34.427;05.ÿםג;2;For spectroscopy;;OCC(F)(F)F
+Undecan-1-ol;;Undecanol;;;34.427;05.ÿםג;2;For spectroscopy;;CCCCCCCCCCCO
+Dodecan-1-ol;;Dodecanol;Lauryl alcohol;;34.427;05.ÿםג;2;For spectroscopy;;CCCCCCCCCCCCO
+Nitrobenzene;;Nitrobenzol;;;34.427;05.ÿםג;2;For spectroscopy;;[O-][N+](=O)c1ccccc1
+Octan-2-ol;;2-Octanol;;;34.427;05.ÿםג;2;For spectroscopy;;CCCCCCC(C)O
+Decan-1-ol;;decyl alcohol;;;34.427;05.ÿםג;2;For spectroscopy;;CCCCCCCCCCO
+Propan-1-ol;;n-Propanol;n-Propyl alcohol;;34.427;05.ÿםג;2;For spectroscopy;;CCCO
+N,N-Dimethylacetamide;;Dimethylacetamide;DMAc;;34.427;05.ÿםג;2;For spectroscopy;;CN(C)C(C)=O
+Octane;;;;;34.427;05.ÿםג;2;For spectroscopy;;CCCCCCCC
+Pentadecane;;;;;34.427;05.ÿםג;2;For spectroscopy;;CCCCCCCCCCCCCCC
+Hexadecane;;;;;34.427;05.ÿםג;2;For spectroscopy;;CCCCCCCCCCCCCCCC
+decane;;;;;34.427;05.ÿםג;2;For spectroscopy;;CCCCCCCCCC
+Dodecane;;;;;34.427;05.ÿםג;2;For spectroscopy;;CCCCCCCCCCCC
+Nitromethane;;;;;34.427;05.ÿםג;2;For spectroscopy;;C[N+]([O-])=O
+Butan-2-one;;2-Butanone;methyl ethyl ketone;;34.427;05.ÿםג;2;For spectroscopy;;CCC(C)=O
+Dibromomethane;;Methylene bromide;;;34.427;05.ÿםג;2;For spectroscopy;;BrCBr
+Chlorobenzene;;Phenyl chloride;;;34.427;05.ÿםג;2;For spectroscopy;;Clc1ccccc1
+1,2-dichlorobenzene;;o-dichlorobenzene;;;34.427;05.ÿםג;2;For spectroscopy;;Clc1ccccc1Cl
+Benzen;;;;;34.427;05.ÿםג;2;For spectroscopy;;c1ccccc1
+Methoxyperfluorobutane;;Nonafluorobutyl methyl ether;;;34.427;05.ÿםג;2;For spectroscopy;;COC(F)(F)C(F)(F)C(F)(F)C(F)(F)F.COC(F)(F)C(F)(C(F)(F)F)C(F)(F)F
+Hydroquinone;;;;;34.427;05.ÿםג;2;;;Oc1ccc(O)cc1
+Sodium acetate hydrate;NaOAc*3H2O;NaOAc*3H2O;CH3COONa * 3H2O;3 x 1 kg;34.427;05.ÿםג;2;;;CC([O-])=O.[H]O[H].[H]O[H].[H]O[H].[Na+]
+Potassium persulfate;K2S2O8;Potassium peroxodisulfate;;1 kg;34.427;05.ÿםג;2;;;[K+].[K+].[O-]S(=O)(=O)OOS([O-])(=O)=O
+Potassium thiocyanate;KSCN;Potassium thiocyanate;potassium rhodanide;1 kg;34.427;05.ÿםג;2;;;[K]SC#N
+Potassium acetate ;CH3COOK;KOAc;AcOK;1 kg;34.427;05.ÿםג;2;;;[K+].CC([O-])=O
+Sodium periodate;NaIO4;Sodium (meta)periodate;;1 kg;34.427;05.ÿםג;2;;;[Na+].[O-]I(=O)(=O)=O
+2,3,5,6-tetrachlorocyclohexa-2,5-diene-1,4-dione;;Tetrachloro-1,4-benzoquinone;Chloranil;1 kg;34.427;05.ÿםג;2;;;ClC1=C(Cl)C(=O)C(Cl)=C(Cl)C1=O
+Sodium metabisulfite;Na2S2O5;Sodium pyrosulfite;Sodium disulfite;1 kg;34.427;05.ÿםג;2;;;[Na+].[Na+].[O-]S(=O)S([O-])(=O)=O
+Sodium nitrite;NaNO2;NaNO2;;7 ץ 0.5 kg;34.427;05.ÿםג;2;import;;[Na+].[O-]N=O
+Tungstophosphoric acid hydrate;H3PW12O40;Phosphotungstic acid;Tungstophosphoric acid hydrate;2 x 100 g;34.427;05.ÿםג;2;;12501-23-4;O.O=[W](=O)=O.O=[W](=O)=O.O=[W](=O)=O.O=[W](=O)=O.O=[W](=O)=O.O=[W](=O)=O.O=[W](=O)=O.O=[W](=O)=O.O=[W](=O)=O.O=[W](=O)=O.O=[W](=O)=O.O=[W](=O)=O.OP(O)(O)=O
+Periodic acid dihydrate;HIO4 x 2H2O;H5IO6;;;34.427;05.ÿםג;2;;;OI(O)(O)(O)(O)=O
+Oxalic acid ;(COOH)2;;;2 x 1 kg;34.427;05.ÿםג;2;;;OC(=O)C(O)=O
+tetrabutylammonium hydrogensulfate;;Tetra-n-butylammonium hydrogen sulfate;Tetrabutylammonium bisulfate;4 x ? kg;34.427;05.ÿםג;2;;;OS([O-])(=O)=O.CCCC[N+](CCCC)(CCCC)CCCC
+Zinc chloride;ZnCl2;;;? kg;34.427;05.ÿםג;2;unknown quality;;[Cl-].[Cl-].[Zn++]
+Sodium bisulfite;NaHSO3;Sodium hydrogensulfite;;;34.427;05.ÿםג;2;;;[Na+].OS([O-])=O
+3,3-bis(4-hydroxyphenyl)isobenzofuran-1(3H)-one;;Phenolphthalein;purgen;10 g;34.427;05.ÿםג;2;;;Oc1ccc(cc1)C2(OC(=O)c3ccccc23)c4ccc(O)cc4
+Phosphomolybdic acid;;;;;34.427;05.ÿםג;2;;;O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.O=[Mo](=O)=O.OP(O)(O)=O
+sodium diethylcarbamodithioate;;Sodium diethyldithiocarbamate;Diethyldithiocarbamic acid sodium salt;;34.427;05.ÿםג;2;;;[H]O[H].[H]O[H].[H]O[H].CCN(CC)C(=S)S[Na]
+potassium hexacyanoferrate (III);K3FeCN6;Potassium ferricyanide;;5 x;34.427;05.ÿםג;2;;;[K+].[K+].[K+].N#C[Fe-3](C#N)(C#N)(C#N)(C#N)C#N
+(2S,3S)-2,3-bis(benzoyloxy)succinic acid;;(+)-2,3-Dibenzoyl-D-tartaric acid;D-Tartaric acid 2,3-dibenzoate;10 x 100 g;34.427;05.ÿםג;2;;;OC([C@H]([C@@H](C(O)=O)OC(c1ccccc1)=O)OC(c2ccccc2)=O)=O
+4-(diethylamino)-2-hydroxybenzaldehyde;;4-(Diethylamino)salicylaldehyde;;;34.427;05.ÿםג;3;;;CCN(CC)c1ccc(C=O)c(O)c1
+4-formylbenzoic acid;;4-Carboxybenzaldehyde;;;34.427;05.ÿםג;3;large box;;OC(=O)C1=CC=C(C=O)C=C1
+Methyl 4-formylbenzoate;;Methyl benzaldehyde-4-carboxylate;Methyl terephthalaldehydate;;34.427;05.ÿםג;3;;;[H]C(=O)c1ccc(cc1)C(=O)OC
+5,8-dimethoxy-6-methyl-2-naphthaldehyde;;;;;34.427;05.ÿםג;3;Handmade by Andrey M;;COC1=CC(C)=C(OC)C2=CC=C(C=O)C=C21
+4-(pyrrolidin-1-yl)benzaldehyde;;;BNS 645 N648.1 M2121A;3x;34.427;05.ÿםג;3;Small box;;O=CC1=CC=C(C=C1)N1CCCC1
+3,5-di-tert-butyl-4-hydroxybenzaldehyde;;;Al-133 M2270;3x;34.427;05.ÿםג;3;Small box;;CC(C)(C)C1=CC(C=O)=CC(=C1O)C(C)(C)C
+3,5-di-tert-butylbenzaldehyde;;;;;34.427;05.ÿםג;3;Small box;;CC(C)(C)C1=CC(=CC(C=O)=C1)C(C)(C)C
+4-methyl-1H-indole-3-carbaldehyde;;;;;34.427;05.ÿםג;3;;;CC1=CC=CC2=C1C(C=O)=CN2
+4-(dibutylamino)benzaldehyde;;;M1110;;34.427;05.ÿםג;3;large box;;CCCCN(CCCC)C1=CC=C(C=O)C=C1
+2-bromo-4-hydroxybenzaldehyde;;;M1410.3;;34.427;05.ÿםג;3;Small box;;OC1=CC(Br)=C(C=O)C=C1
+8-hydroxyquinoline-2-carbaldehyde;;;;;34.427;05.ÿםג;3;Small box;;OC1=CC=CC2=CC=C(C=O)N=C12
+3-bromo-4-hydroxy-5-methoxybenzaldehyde;;;M2224;;34.427;05.ÿםג;3;Small box;;COC1=CC(C=O)=CC(Br)=C1O
+6-(pyrrolidin-1-yl)-2-naphthaldehyde;;;;;34.427;05.ÿםג;3;Small box;;O=CC1=CC=C2C=C(C=CC2=C1)N1CCCC1
+4-(piperidin-1-yl)benzaldehyde;;;;2x;34.427;05.ÿםג;3;Small box;;O=CC1=CC=C(C=C1)N1CCCCC1
+4-(azetidin-1-yl)benzaldehyde;;;;1x;34.427;05.ÿםג;3;Small box;;O=CC1=CC=C(C=C1)N1CCC1
+4-(azepan-1-yl)benzaldehyde;;;;2x;34.427;05.ÿםג;3;Small box;;O=CC1=CC=C(C=C1)N1CCCCCC1
+3-(dibutylamino)benzaldehyde;;;;;34.427;05.ÿםג;3;Small box;;CCCCN(CCCC)C1=CC=CC(C=O)=C1
+3-methylbenzaldehyde;;;;;34.427;05.ÿםג;3;Small box;;CC1=CC=CC(C=O)=C1
+1H-indole-3-carbaldehyde;;;;;34.427;05.ÿםג;3;;;O=CC1=CNC2=C1C=CC=C2
+3,4,5-trimethoxybenzaldehyde;;;;;34.427;05.ÿםג;3;;;COC1=CC(C=O)=CC(OC)=C1OC
+2,3,4-trimethoxybenzaldehyde;;;;;34.427;05.ÿםג;3;;;COC1=C(OC)C(OC)=C(C=O)C=C1
+4-(benzyloxy)benzaldehyde;;;SA-2;;34.427;05.ÿםג;3;;;O=CC1=CC=C(OCC2=CC=CC=C2)C=C1
+4-methoxy-3-nitrobenzaldehyde;;;;;34.427;05.ÿםג;3;;;COC1=C(C=C(C=O)C=C1)[N+]([O-])=O
+4-nitrobenzaldehyde;;;;;34.427;05.ÿםג;3;;;[O-][N+](=O)C1=CC=C(C=O)C=C1
+3-nitrobenzaldehyde;;;;;34.427;05.ÿםג;3;;;[O-][N+](=O)C1=CC=CC(C=O)=C1
+4-hydroxy-3-methoxybenzaldehyde;;Vanillin;;;34.427;05.ÿםג;3 + 5;rushim + 2 x ?;;COC1=C(O)C=CC(C=O)=C1
+Isovanillin;;3-Hydroxy-4-methoxybenzaldehyde;;1 kg + 25 g;34.427;05.ÿםג;3;;;COC1=CC=C(C=O)C=C1O
+5-formyl-2-hydroxybenzoic acid;;;M1347;;34.427;05.ÿםג;3;;;OC(=O)C1=C(O)C=CC(C=O)=C1
+anthracene-9-carbaldehyde;;;;;34.427;05.ÿםג;3;;;O=CC1=C2C=CC=CC2=CC2=CC=CC=C12
+4-(diethylamino)benzaldehyde;;;;;34.427;05.ÿםג;3;;;CCN(CC)C1=CC=C(C=O)C=C1
+4-(dimethylamino)benzaldehyde;;;;;34.427;05.ÿםג;3;;;CN(C)C1=CC=C(C=O)C=C1
+4-hydroxy-3,5-dimethoxybenzaldehyde;;3,5-Dimethoxy-4-hydroxybenzaldehyde;;;34.427;05.ÿםג;3;;;COC1=CC(C=O)=CC(OC)=C1O
+4-bromo-3-nitrobenzaldehyde;;;;;34.427;05.ÿםג;3;;;[O-][N+](=O)C1=C(Br)C=CC(C=O)=C1
+4-methoxybenzaldehyde;;p-Anisaldehyde;;1 kg + ?;34.427;05.ÿםג;3;;;COC1=CC=C(C=O)C=C1
+2-fluorobenzaldehyde;;;;3 x;34.427;05.ÿםג;3;abcr+?+?;;FC1=C(C=O)C=CC=C1
+4-fluorobenzaldehyde;;;;;34.427;05.ÿםג;3;;;FC1=CC=C(C=O)C=C1
+3-(trifluoromethyl)benzaldehyde;;?,?,?-Trifluoro-m-tolualdehyde;;;34.427;05.ÿםג;3;;;FC(F)(F)C1=CC=CC(C=O)=C1
+1,2,3,4-tetrahydroquinoline-6-carbaldehyde;;;;;34.427;05.ÿםג;3;;;O=CC1=CC2=C(NCCC2)C=C1
+8-hydroxyquinoline-5-carbaldehyde(+)8-hydroxyquinoline-7-carbaldehyde;;;mixture 1:2, M1681;;34.427;05.ÿםג;3;;;OC1=CC=C(C=O)C2=CC=CN=C12.OC1=C(C=O)C=CC2=CC=CN=C12
+4-hydroxy-3-nitrobenzaldehyde;;;;;34.427;05.ÿםג;3;;;OC1=C(C=C(C=O)C=C1)[N+]([O-])=O
+3,5-difluoro-4-hydroxybenzaldehyde;;;SAI-190;;34.427;05.ÿםג;3;large box;;OC1=C(F)C=C(C=O)C=C1F
+3,5-dichloro-4-hydroxybenzaldehyde;;;SAI-124;;34.427;05.ÿםג;3;;;OC1=C(Cl)C=C(C=O)C=C1Cl
+3,5-dibromo-4-hydroxybenzaldehyde;;;SAI-334;;34.427;05.ÿםג;3;large box;;OC1=C(Br)C=C(C=O)C=C1Br
+3-bromo-4-hydroxybenzaldehyde;;;MI-150;;34.427;05.ÿםג;3;large box;;OC1=C(Br)C=C(C=O)C=C1
+3-chloro-4-hydroxybenzaldehyde;;;SAI-119;;34.427;05.ÿםג;3;;;OC1=C(Cl)C=C(C=O)C=C1
+4-formylbenzonitrile;;4-Cyanobenzaldehyde;;5 g + 10 g;34.427;05.ÿםג;3;;;O=CC1=CC=C(C=C1)C#N
+2,5-dimethoxybenzaldehyde;;;SAI-456;;34.427;05.ÿםג;3;;;COC1=CC(C=O)=C(OC)C=C1
+benzaldehyde;;;;3 x 500;34.427;05.ÿםג;3;;;O=CC1=CC=CC=C1
+Naphthalene-1-carbaldehyde;;1-naphthaldehyde;;;34.427;05.ÿםג;3;;;O=CC1=C2C=CC=CC2=CC=C1
+3-hydroxybenzaldehyde;;;;;34.427;05.ÿםג;3;;;OC1=CC=CC(C=O)=C1
+(E)-3-(4-methoxyphenyl)acrylaldehyde;;trans-4-Methoxycinnamaldehyde;;;34.427;05.ÿםג;3;;;COC1=CC=C(\C=C\C=O)C=C1
+3-hydroxy-6-methylpicolinaldehyde;;3-Hydroxy-6-methylpyridine-2-carbaldehyde;;;34.427;05.ÿםג;3;;;CC1=NC(C=O)=C(O)C=C1
+4-methylbenzaldehyde;;p-Tolualdehyde;;;34.427;05.ÿםג;3;;;CC1=CC=C(C=O)C=C1
+4-Hydroxybenzaldehyde;;;;;34.427;05.ÿםג;3;;;OC1=CC=C(C=O)C=C1
+Salicylaldehyde;;2-Hydroxybenzaldehyde;;;34.427;05.ÿםג;3;;;OC1=CC=CC=C1C=O
+4-formylimidazole;;1H-imidazole-4-carbaldehyde;4-Imidazolecarboxaldehyde;;34.427;05.ÿםג;3;;;O=CC1=CNC=N1
+2-methoxy-5-nitrobenzaldehyde;;;;;34.427;05.ÿםג;3;;;COC1=C(C=O)C=C(C=C1)[N+]([O-])=O
+N,N-diethyl-4-formylbenzamide;;;;;34.427;05.ÿםג;3;large box;;CCN(CC)C(=O)C1=CC=C(C=O)C=C1
+2,7-dimethoxy-1-naphthaldehyde;;;SA-182;;34.427;05.ÿםג;3;large box;;COC1=CC2=C(C=O)C(OC)=CC=C2C=C1
+2,7-dihydroxy-1-naphthaldehyde;;;;;34.427;05.ÿםג;3;large box;;OC1=CC2=C(C=O)C(O)=CC=C2C=C1
+2-hydroxy-5-methoxybenzaldehyde;;;SA-277;;34.427;05.ÿםג;3;large box;;COC1=CC(C=O)=C(O)C=C1
+4-methoxy-3,5-bis(3-methylbut-2-en-1-yl)benzaldehyde;;;M1603;;34.427;05.ÿםג;3;large box;;COC1=C(CC=C(C)C)C=C(C=O)C=C1CC=C(C)C
+3-fluoro-4-hydroxybenzaldehyde;;;;;34.427;05.ÿםג;3;large box;;OC1=C(F)C=C(C=O)C=C1
+2,3,5-trifluoro-4-hydroxybenzaldehyde;;;BNS 1000 + BNS 801;2 x;34.427;05.ÿםג;3;large box;;OC1=C(F)C(F)=C(C=O)C=C1F
+4-((triisopropylsilyl)oxy)benzaldehyde;;;;;34.427;05.ÿםג;3;large box;;CC(C)[Si](OC1=CC=C(C=O)C=C1)(C(C)C)C(C)C
+3-fluoro-2-hydroxybenzaldehyde;;;;;34.427;05.ÿםג;3;large box;;OC1=C(C=O)C=CC=C1F
+methyl 3-(5-formyl-2-methoxyphenyl)propanoate;;;;;34.427;05.ÿםג;3;large box;;COC(=O)CCC1=C(OC)C=CC(C=O)=C1
+2,4-dinitrobenzaldehyde;;;;;34.427;05.ÿםג;3;large box;;[O-][N+](=O)C1=CC(=C(C=O)C=C1)[N+]([O-])=O
+1-Methyl-1,2,3,4-tetrahydroquinoline-6-carbaldehyde;;;SAI 289;;34.427;05.ÿםג;3;;;CN1CCCC2=C1C=CC(C=O)=C2
+4-phenoxybenzaldehyde;;;;;34.427;05.ÿםג;3;large box;;O=CC1=CC=C(OC2=CC=CC=C2)C=C1
+3-Chlorobenzaldehyde;;;;;34.427;05.ÿםג;3;;;ClC1=CC=CC(C=O)=C1
+2-hydroxy-3-methoxybenzaldehyde;;;;;34.427;05.ÿםג;3;;;COC1=CC=CC(C=O)=C1O
+4-Bromobenzaldehyde;;;;;34.427;05.ÿםג;3;Soviet;;BrC1=CC=C(C=O)C=C1
+3,5-dibromo-2-hydroxybenzaldehyde;;;SAI-347.1;;34.427;05.ÿםג;3;;;OC1=C(C=O)C=C(Br)C=C1Br
+4-Chlorobenzaldehyde;;;;;34.427;05.ÿםג;3;;;ClC1=CC=C(C=O)C=C1
+2-Methoxybenzaldehyde;;;;;34.427;05.ÿםג;3;;;COC1=C(C=O)C=CC=C1
+3-chloro-4-methoxybenzaldehyde;;;;;34.427;05.ÿםג;3;;;COC1=C(Cl)C=C(C=O)C=C1
+4-formyl-N-methylbenzamide;;;M2957;;34.427;05.ÿםג;3;;;CNC(=O)C1=CC=C(C=O)C=C1
+3-methoxy-4-((triisopropylsilyl)oxy)benzaldehyde;;;SAI-26;;34.427;05.ÿםג;3;large box;;COC1=C(O[Si](C(C)C)(C(C)C)C(C)C)C=CC(C=O)=C1
+4-((tert-butyldimethylsilyl)oxy)-3-methoxybenzaldehyde;;;M2712;;34.427;05.ÿםג;3;large box;;COC1=C(O[Si](C)(C)C(C)(C)C)C=CC(C=O)=C1
+2,4-Dimethoxybenzaldehyde;;;;;34.427;05.ÿםג;3;;;COC1=CC(OC)=C(C=O)C=C1
+4-Hydroxy-2-methylbenzaldehyde;;;SAI452;;34.427;05.ÿםג;3;;;CC1=C(C=O)C=CC(O)=C1
+4-hydroxy-2,3,6-trimethylbenzaldehyde;;;SAI453;;34.427;05.ÿםג;3;;;CC1=CC(O)=C(C)C(C)=C1C=O
+4-Hydroxy-2,5-dimethoxybenzaldehyde;;;SAI470 SAI466;;34.427;05.ÿםג;3;;;COC1=CC(C=O)=C(OC)C=C1O
+3-methyl-4-hydroxybenzaldehyde;;4-hydroxy-3-methylbenzaldehyde;M3115;;34.427;05.ÿםג;3;;;CC1=C(O)C=CC(C=O)=C1
+2-methoxy-4-hydroxybenzaldehyde;;4-hydroxy-2-methoxybenzaldehyde;;;34.427;05.ÿםג;3;;;COC1=C(C=O)C=CC(O)=C1
+3,4-Dimethoxybenzaldehyde;;Veratraldehyde;;2 x ;34.427;05.ÿםג;3;;;COC1=C(OC)C=C(C=O)C=C1
+3,4-Dihydroxybenzaldehyde;;;;;34.427;05.ÿםג;3;Soviet;;OC1=C(O)C=C(C=O)C=C1
+6-((tert-butyldiphenylsilyl)oxy)-2-naphthaldehyde;;;;<100 mg;34.427;05.ÿםג;3;Small box;;CC(C)(C)[Si](OC1=CC2=CC=C(C=O)C=C2C=C1)(C1=CC=CC=C1)C1=CC=CC=C1
+Glyoxal solution 40 wt. % in H2O;;Oxalaldehyde;CHO-CHO;4 x ;34.427;05.ÿםג;3;soviet;;O=CC=O
+(3-methoxyphenyl)boronic acid;;3-Methoxyphenylboronic acid;;;34.427;05.ÿםג;3;;;COc1cccc(c1)B(O)O
+(2-fluorophenyl)(phenyl)methanone;;2-Fluorobenzophenone;;;34.427;05.ÿםג;3;;;O=C(C1=CC=CC=C1)C2=CC=CC=C2F
+(4-fluorophenyl)boronic acid;;4-Fluorophenylboronic acid;;;34.427;05.ÿםג;3;;;OB(O)c1ccc(F)cc1
+2-Methylpyridine;;;;;34.427;05.ÿםג;4;;;Cc1ccccn1
+4-Methylpyridine;;;;;34.427;05.ÿםג;4;;;Cc1ccncc1
+ethyl piperidine-3-carboxylate;;Ethyl nipecotate; 3-Piperidinecarboxylic acid ethyl ester;;34.427;05.ÿםג;4;;;CCOC(=O)C1CCCNC1
+4-nitroaniline;;;;;34.427;05.ÿםג;4;;;NC1=CC=C([N+]([O-])=O)C=C1
+Methyl 4-aminobenzoate;;;;;34.427;05.ÿםג;4;;;COC(=O)c1ccc(N)cc1
+Hydrazin hydrate (100% solution in water);;N2H4 x H2O;;;34.427;05.ÿםג;4;ABCR ןנטג¸ח טח Rushimא;;O.NN
+2-Aminopyridine;;;;;34.427;05.ÿםג;4;;;NC1=NC=CC=C1
+pyrrolidine perchlorate;;Pyrrolidinium perchlorate;UL017;;34.427;05.ÿםג;4;;;[O-][Cl](=O)(=O)=O.C1CCNC1
+Hexamethylenediamine;;1,6-Diaminohexane;HMDA;250 g;34.427;05.ÿםג;4;;;NCCCCCCN
+5-amino-1-naphthonitrile;;;;;34.427;05.ÿםג;4;;;NC1=CC=CC2=C(C=CC=C12)C#N
+4-methoxyaniline;;p-Anisidine;4-Aminoanisole;10 g;34.427;05.ÿםג;4;;;COC1=CC=C(N)C=C1
+pyridine hydrochloride;Py x HCl;Pyridinium chloride;;;34.427;05.ÿםג;4;;;Cl.C1=CC=NC=C1
+Dimethylamine hydrochloride;Me2NH*HCl;Me2NH*HCl;;250 g + 400 g;34.427;05.ÿםג;4;Soviet, puriss, dry + not dry;;Cl.CNC
+2,6-Diaminopyridine;;;;;34.427;05.ÿםג;4;;;NC1=CC=CC(N)=N1
+3,4-Dimethylaniline;;3,4-Xylidine;4-Amino-1,2-dimethylbenzene;;34.427;05.ÿםג;4;;;CC1=C(C)C=C(N)C=C1
+2,2,2-Trifluoroethylamine hydrochloride;CF3CH2NH2 x HCl;CF3CH2NH2 x HCl;;;34.427;05.ÿםג;4;;;Cl.NCC(F)(F)F
+Benzamidine hydrochloride hydrate;;Amidinobenzene hydrochloride;;;34.427;05.ÿםג;4;;;O.Cl.NC(=N)C1=CC=CC=C1
+1,5-Diaminopentane;;;;;34.427;05.ÿםג;4;;;NCCCCCN
+1,3-Dimethylamylamine hydrochloride;;1,3-Dimethylpentanamine hydrochloride;;;34.427;05.ÿםג;4;;;Cl.CCC(C)CC(C)N
+3-Bromopropylamine hydrobromide;;3-Aminopropyl bromide hydrobromide;;;34.427;05.ÿםג;4;;;Br.NCCCBr
+3-Picolylamine;;3-(Aminomethyl)pyridine;;;34.427;05.ÿםג;4;;;NCC1=CC=CN=C1
+sodium methoxide;MeONa;;;2 x 100 g;34.427;05.ÿםג;4;;;[Na+].C[O-]
+1,4-Diazabicyclo[2.2.2]octane;;Triethylenediamine;DABCO;2 x 100 g;34.427;05.ÿםג;4;2x;;C1CN2CCN1CC2
+2,3,4,6,7,8,9,10-octahydropyrimido[1,2-a]azepine;;1,8-Diazabicyclo[5.4.0]undec-7-ene;DBU;500 ml + 250 ml;34.427;05.ÿםג;4;;;C1CN=C2CCCCCN2C1
+2,3,4,6,7,8-hexahydropyrrolo[1,2-a]pyrimidine;;1,5-Diazabicyclo[4.3.0]non-5-ene;DBN;100 ml;34.427;05.ÿםג;4;;;C1CN2CCCN=C2C1
+N,N-diisopropylethane-1,2-diamine;;;;;34.427;05.ÿםג;4;;;CC(C)N(CCN)C(C)C
+trimethylamine in 20% ethanol;;Me3N;;;34.427;05.ÿםג;4;in 20% ethanol;;CN(C)C
+1,1,3,3-Tetramethylguanidine;;tetramethylguanidine;;250 ml;34.427;05.ÿםג;4;;;CN(C)C(=N)N(C)C
+2-aminoethanol;;ethanolamine;;50 ml;34.427;05.ÿםג;4;;;NCCO
+tetradecan-1-amine;;Tetradecylamine;Myristylamine;;34.427;05.ÿםג;4;;;NCCCCCCCCCCCCCC
+Tetramethylethylenediamine;;TMEDA;;600 ml + 250 ml;34.427;05.ÿםג;4;;;CN(C)CCN(C)C
+cyclohexylamine;;;CGA;250 ml;34.427;05.ÿםג;4;;;NC1CCCCC1
+ethylenediamine;;;;300 ml;34.427;05.ÿםג;4;;;NCCN
+decylamine;;;;500 ml;34.427;05.ÿםג;4;;;CCCCCCCCCCN
+dimethylaniline;;;;200 ml;34.427;05.ÿםג;4;;;CN(C)C1=CC=CC=C1
+Piperazine;;;;50 g + 2 x 1 kg;34.427;05.ÿםג;4;;;C1CNCCN1
+4-ethylmorpholine;;N-ethylmorpholine;;100 ml;34.427;05.ÿםג;4;;;CCN1CCOCC1
+N-methylmorpholine;;4-methylmorpholine;NMM;200 ml;34.427;05.ÿםג;4;;;CN1CCOCC1
+aniline;;;;100 ml;34.427;05.ÿםג;4;;;NC1=CC=CC=C1
+Piperidinomethyl polystyrene;;resin;;2 x;34.427;05.ÿםג;4;;;[CH2]N1CCCCC1
+N,N-dimethylethane-1,2-diamine;;2-(Dimethylamino)ethylamine;;300 ml;34.427;05.ÿםג;4;;;CN(C)CCN
+morpholine;;;;250 ml;34.427;05.ÿםג;4;;;C1COCCN1
+4-Dimethylaminopyridine;;DMAP;;;34.427;05.ÿםג;4;;;CN(C)C1=CC=NC=C1
+ethyl piperidine-4-carboxylate;;;;;34.427;05.ÿםג;4;;;CCOC(=O)C1CCNCC1
+2,6-dimethylpyridine;;2,6-Lutidine;;;34.427;05.ÿםג;4;;;CC1=CC=CC(C)=N1
+diethylamine;;;;100 ml;34.427;05.ÿםג;4;;;CCNCC
+benzylamine;;;;;34.427;05.ÿםג;4;;;NCC1=CC=CC=C1
+pyrrolidine;;;;1 L + ;34.427;05.ÿםג;4;;;C1CCNC1
+indoline;;;;20 ml;34.427;05.ÿםג;4;;;C1CC2=CC=CC=C2N1
+1,2,3,4-tetrahydroquinoline;;;;20 ml;34.427;05.ÿםג;4;;;C1CNC2=C(C1)C=CC=C2
+3-methoxyaniline;;;;10 g;34.427;05.ÿםג;4;;;COC1=CC=CC(N)=C1
+Azepane;;Homopiperidine;;50 ml;34.427;05.ÿםג;4;;;C1CCCNCC1
+dicyclohexylamine;;;;50 ml + 100 ml;34.427;05.ÿםג;4;;;C1CCC(CC1)NC1CCCCC1
+N-Methoxymethanamine hydrochloride ;;Methoxymethylamine hydrochloride ; Weinreb amine;;34.427;05.ÿםג;4;;;Cl.CNOC
+4-Chloroaniline;;p-Chloroaniline;;;34.427;05.ÿםג;4;;;NC1=CC=C(Cl)C=C1
+3,3'-dimethyl-[1,1'-biphenyl]-4,4'-diamine;;o-Tolidine;4,4?-Bianisidine;;34.427;05.ÿםג;4;;;Cc1cc(ccc1N)-c2ccc(N)c(C)c2
+2-acetoxy-N,N,N-trimethylethanaminium chloride;;Acetylcholine chloride;;2 x 100 g;34.427;05.ÿםג;4;;;[Cl-].CC(=O)OCC[N+](C)(C)C
+Hydrazinium sulfate;N2H4 x H2SO4;Hydrazinium sulfate;;1 kg;34.427;05.ÿםג;4;;;NN.OS(O)(=O)=O
+[1,1'-Biphenyl]-4,4'-diamine sulphate;;benzidine sulfate;;2 X 250;34.427;05.ÿםג;4;;;NC1=CC=C(C2=CC=C(N)C=C2)C=C1.O=S(O)(O)=O
+piperidin-3-ol;;3-Hydroxypiperidine;;;34.427;05.ÿםג;4;;;OC1CCCNC1
+Potassium phosphate monobasic;KH2PO4;Potassium dihydrogen phosphate;KH2PO4;;42.406 (dry warehouse);uzkii skaf;5;;;[K+].OP(O)([O-])=O
+Ammonium chloride;NH4Cl;;;;42.406 (dry warehouse);uzkii skaf;5;;;N.Cl
+Sodium dihydrophosphate;NaH2PO4*H2O;NaH2PO4*H2O;NaH2PO4*H2O;1 kg;42.406 (dry warehouse);uzkii skaf;5;;;[Na+].OP(O)([O-])=O
+ammonium acetate;NH4OAc;;NH4OAc;;42.406 (dry warehouse);uzkii skaf;5;;;[NH4+].CC([O-])=O
+Calcium chloride hexahydrate;CaCl2 * 6H2O;Calcium dichloride hexahydrate;;;42.406 (dry warehouse);uzkii skaf;5;;;O.O.O.O.O.O.Cl[Ca]Cl
+Sodium triacetoxyborohydride;NaBH(OAc)3;STAB;NaBH(OAc)3;3 x;34.427;05.ÿםג;5;;;[Na+].CC(=O)O[BH-](OC(C)=O)OC(C)=O
+tri-butylamine;Bu3N;tributylamine;;;34.427;05.ÿםג;5;;;CCCCN(CCCC)CCCC
+1,2-Phenylendiamine;;1,2-Diaminobenzene;o-Phenylenediamine;;34.427;05.ÿםג;5;Acros;;NC1=C(N)C=CC=C1
+D-(+)-Glucose;;Dextrose;;;34.427;05.ÿםג;5;Soviet;;OC[C@H]1O[C@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+Hydroxylammonium sulfate;NH2OH x H2SO4;Hydroxylamine sulfate;Hydroxylammonium sulfate;;34.427;05.ÿםג;5;Soviet;;NO.NO.OS(O)(=O)=O
+resorcinol;;resorcine;resorcine;;34.427;05.ÿםג;5;Soviet;;OC1=CC(O)=CC=C1
+5-Methyl-2-isopropylphenol;;Thymol;2-Isopropyl-5-methylphenol;;34.427;05.ÿםג;5;Soviet;;CC(C)c1ccc(C)cc1O
+2-Aminotoluene;;o-Toluidine;2-Methylaniline;2.5 L;34.427;05.ÿםג;5;acros;;Cc1ccccc1N
+2-(2-ethoxyethoxy)ethanol;C2H5OCH2CH2OCH2CH2OH;Di(ethylene glycol) ethyl ether;Diethylene glycol ethyl ether;;34.427;05.ÿםג;5;;;CCOCCOCCO
+1-Chlorobutane;;;;4 x 1 L;34.427;05.ÿםג;5;;;CCCCCl
+Boric acid;B(OH)3;H3BO3;;;34.427;05.ÿםג;5;Rushim;;OB(O)O
+azetidin-3-ol hydrochloride;;3-Hydroxyazetidine hydrochloride;;;34.427;05.ÿםג;5;;;Cl[H].OC1CNC1
+azetidin-3-ol hydrochloride;;3-Hydroxyazetidine hydrochloride;;;34.427;05.ÿםג;5;;;Cl[H].OC1CNC1
