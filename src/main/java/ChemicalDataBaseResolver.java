@@ -19,25 +19,19 @@ public class ChemicalDataBaseResolver {
 
     private Indigo indigo = new Indigo();
 
-    private String[] headers = {"NAME", "FORMULA", "ALTERNATIVE_NAME", "ANOTHER_NAME", "OSTATOK",
-            "KOMNATA", "SHKAFF", "POLKA", "KOMENT", "CAS", "Smiles"};
-    private CSVFormat fmt = CSVFormat.Builder.create()
-            .setDelimiter(";")
-            .setIgnoreEmptyLines(true)
-            .setIgnoreHeaderCase(true)
-            .setHeader(headers)
-            .build();
+    private String[] headers = {"NAME", "FORMULA", "ALTERNATIVE_NAME", "ANOTHER_NAME", "OSTATOK", "KOMNATA", "SHKAFF", "POLKA", "KOMENT", "CAS", "Smiles"};
+    private CSVFormat fmt = CSVFormat.Builder.create().setDelimiter(";").setIgnoreEmptyLines(true).setIgnoreHeaderCase(true).setHeader(headers).build();
 
 
-    public static void main(String[] args) throws IOException, InterruptedException {
+    public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
-        while(true) {
-            System.out.print("Введите название csv файла (без расширения): ");
-            String fileInputName = scanner.nextLine();
+
+        while (true) {
+            String fileInputName = gatherFileInputName(scanner);
 
             while (!csvFileExists(fileInputName)) {
                 System.out.println("Файла с именем " + fileInputName + ".csv" + " не существует. Попробуйте еще раз");
-                fileInputName = scanner.nextLine();
+                fileInputName = gatherFileInputName(scanner);
             }
 
             var chemicalDataBaseResolver = new ChemicalDataBaseResolver();
@@ -45,22 +39,38 @@ public class ChemicalDataBaseResolver {
         }
     }
 
-    public static boolean csvFileExists(String fileInputName) {
+    private static boolean csvFileExists(String fileInputName) {
         return Files.exists(Path.of(fileInputName + ".csv").toAbsolutePath());
     }
 
+    private static String gatherFileInputName(Scanner scanner) {
+        System.out.print("Введите название csv файла (без расширения): ");
+        String fileInputName = scanner.nextLine();
+        return fileInputName;
+    }
+
     public void run(String fileInputName) throws IOException {
-        List<Integer> errorStrings = mapper(fileInputName, fileInputName + "_" + LocalDate.now());
+        List<Integer> errorStrings = converter(fileInputName, fileInputName + "_" + LocalDate.now());
         if (errorStrings.isEmpty()) {
             System.out.println("Вся база была сконвертирована успешно");
         } else {
-            System.out.println("База сконвертирована, кроме строк: ");
-            for(Integer i : errorStrings) {
-                System.out.println(i);
+            System.out.print("База сконвертирована, кроме строк: ");
+
+            String[] errorsAsStrings = new String[errorStrings.size()];
+            for (int i = 0; i < errorsAsStrings.length; i++) {
+                errorsAsStrings[i] = String.valueOf(errorStrings.get(i));
             }
+            System.out.println(String.join(",", errorsAsStrings));
         }
     }
 
+    /**
+     * Метод парсит csv файл согласно формату fmt и помещает каждую строку в объект CSVRecord;
+     *
+     * @param filename - имя входного файла
+     * @return списко List<CSVRecord> records всех записей
+     * @throws IOException - при ошибке прочитать файл
+     */
     private List<CSVRecord> recordsAsList(String filename) throws IOException {
         List<CSVRecord> records;
 
@@ -71,7 +81,15 @@ public class ChemicalDataBaseResolver {
         return records;
     }
 
-    public List<Integer> mapper(String fileInputName, String outputFileName) throws IOException {
+    /**
+     * Метод конвертирует csv файл в rdf файл
+     *
+     * @param fileInputName  - имя csv файла без расширения
+     * @param outputFileName - имя rdf файла без расширения
+     * @return List<Integer> - список строк, в которых возникли ошибки парсинга Smiles
+     * @throws IOException - ошибка чтения/записи файла
+     */
+    public List<Integer> converter(String fileInputName, String outputFileName) throws IOException {
         List<CSVRecord> allCsvRecords = recordsAsList(fileInputName);
         IndigoObject saver = indigo.writeFile(outputFileName + ".rdf");
         List<Integer> errors = new ArrayList<>();
@@ -90,6 +108,7 @@ public class ChemicalDataBaseResolver {
             }
         }
 
+        saver.close();
         return errors;
     }
 
